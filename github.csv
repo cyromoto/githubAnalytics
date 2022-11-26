@@ -1,0 +1,1001 @@
+created_at,id,public,type,actor_id,repo_id,mergeable,commits,additions,deletions,changed_files,open_issues_count,watchers_count,    ,has_discussions,has_wiki,has_projects,language,stargazers_count,title,state
+2022-11-10T21:00:00Z,25166098014,true,PullRequestEvent,49699333,251151819,,1,72,84,2,4,0,0,false,true,true,TypeScript,0,Bump electron from 8.2.3 to 18.3.7,open
+2022-11-10T21:00:00Z,25166098082,true,PullRequestEvent,49699333,246528127,true,1,22,47,2,1,1,1,false,true,true,JavaScript,1,Bump electron from 8.5.2 to 15.5.5,closed
+2022-11-10T21:00:00Z,25166098088,true,PullRequestEvent,33375223,553787585,,1,481,332,5,0,0,0,false,true,true,Solidity,0,refactor: :zap: move permit code into external library,closed
+2022-11-10T21:00:00Z,25166098144,true,PullRequestEvent,49699333,41334910,true,1,63,63,2,20,3,3,false,true,true,JavaScript,3,Bump electron from 7.1.7 to 15.5.5,closed
+2022-11-10T21:00:00Z,25166098156,true,PullRequestEvent,49699333,239546376,,1,150,164,2,21,0,0,false,true,true,CSS,0,Bump loader-utils and webpack-cli in /excellentexport-master,open
+2022-11-10T21:00:00Z,25166098162,true,PullRequestEvent,49699333,254578028,,1,131,80,2,2,0,0,false,true,true,TypeScript,0,Bump electron from 8.1.1 to 18.3.7,open
+2022-11-10T21:00:00Z,25166098192,true,PullRequestEvent,49699333,245393171,,1,83,68,1,28,4,4,false,true,true,JavaScript,4,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:00Z,25166098247,true,PullRequestEvent,49699333,284538075,,1,18,10,2,36,0,0,false,true,true,JavaScript,0,Bump minimatch from 3.0.4 to 3.1.2 in /mobile,open
+2022-11-10T21:00:00Z,25166098217,true,PullRequestEvent,49699333,246749202,,1,74,56,2,20,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.0 to 18.3.7,open
+2022-11-10T21:00:00Z,25166098294,true,PullRequestEvent,49699333,73453488,,1,10,29,1,459,2520,2520,false,false,false,TypeScript,2520,Bump loader-utils from 1.1.0 to 1.4.1 in /widgets,open
+2022-11-10T21:00:01Z,25166098305,true,PullRequestEvent,49699333,238860659,,1,76,62,2,3,1,1,false,true,true,JavaScript,1,Bump electron from 7.1.8 to 18.3.7,open
+2022-11-10T21:00:01Z,25166098307,true,PullRequestEvent,49699333,246810604,true,1,116,59,2,4,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.0 to 15.5.5,closed
+2022-11-10T21:00:01Z,25166098352,true,PullRequestEvent,43144390,68424413,,1,41,0,1,6,6,6,false,true,true,TypeScript,6,Add CodeQL workflow for GitHub code scanning,open
+2022-11-10T21:00:01Z,25166098367,true,PullRequestEvent,49699333,245466489,,1,22,36,2,25,0,0,false,true,true,PHP,0,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:01Z,25166098461,true,PullRequestEvent,49699333,268304570,,1,60,56,2,2,1,1,false,true,true,CSS,1,build(deps-dev): bump electron from 9.0.0 to 18.3.7,open
+2022-11-10T21:00:01Z,25166098526,true,PullRequestEvent,39814207,454492010,,2,93,424,11,0,0,0,false,false,true,Go,0,[pull] master from uber:master,closed
+2022-11-10T21:00:01Z,25166098534,true,PullRequestEvent,115560283,544952497,,1,111,30,5,0,0,0,false,true,true,JavaScript,0,undo changes,closed
+2022-11-10T21:00:01Z,25166098544,true,PullRequestEvent,49699333,229988782,,1,122,111,2,3,0,0,false,true,true,Vue,0,Bump electron from 7.1.6 to 18.3.7,open
+2022-11-10T21:00:01Z,25166098545,true,PullRequestEvent,49699333,230955836,,1,190,24,2,27,0,0,false,true,true,Vue,0,Bump electron from 7.1.7 to 18.3.7,open
+2022-11-10T21:00:01Z,25166098556,true,PullRequestEvent,1753262,481452780,,1,1,1,1,2,3,3,false,false,false,,3,Lets adjust to - 1668114000654,open
+2022-11-10T21:00:02Z,25166098582,true,PullRequestEvent,49699333,244587425,true,1,183,129,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 8.0.3 to 15.5.5,closed
+2022-11-10T21:00:02Z,25166098583,true,PullRequestEvent,49699333,259035335,true,1,95,98,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:00:02Z,25166098602,true,PullRequestEvent,49699333,253560608,,1,72,73,2,2,1,1,false,true,true,TypeScript,1,Bump electron from 8.2.3 to 18.3.7,open
+2022-11-10T21:00:03Z,25166098772,true,PullRequestEvent,49699333,260723438,true,1,124,19,2,3,0,0,false,true,true,HTML,0,Bump electron from 8.2.5 to 15.5.5,closed
+2022-11-10T21:00:03Z,25166098775,true,PullRequestEvent,49699333,272297972,true,1,23,29,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 9.0.0 to 15.5.5,closed
+2022-11-10T21:00:03Z,25166098818,true,PullRequestEvent,117457322,210892300,,1,30,59,1,80,5,5,false,true,true,JavaScript,5,Favicon issue,closed
+2022-11-10T21:00:03Z,25166098891,true,PullRequestEvent,11839151,356030858,,2,0,2,1,23,5,5,false,true,true,TypeScript,5,[Fix] SeedImport OnPaste vs OnChange,closed
+2022-11-10T21:00:03Z,25166098897,true,PullRequestEvent,49699333,173191921,,1,95,77,2,19,0,0,false,true,true,JavaScript,0,Bump electron from 9.0.0 to 18.3.7,open
+2022-11-10T21:00:03Z,25166098907,true,PullRequestEvent,49699333,251151819,true,1,72,84,2,3,0,0,false,true,true,TypeScript,0,Bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:00:03Z,25166098955,true,PullRequestEvent,49699333,254578028,true,1,131,80,2,1,0,0,false,true,true,TypeScript,0,Bump electron from 8.1.1 to 15.5.5,closed
+2022-11-10T21:00:03Z,25166099052,true,PullRequestEvent,108870444,563554379,,1,2,2,1,2,0,0,false,true,true,JavaScript,0,trying to fix deployment error,open
+2022-11-10T21:00:04Z,25166099094,true,PullRequestEvent,29488428,353440668,,1,1,1,2,1,0,0,false,false,false,HTML,0,update Coury et al,open
+2022-11-10T21:00:04Z,25166099108,true,PullRequestEvent,1753262,481452780,,1,1,1,1,0,3,3,false,false,false,,3,Lets adjust to - 1668114000654,closed
+2022-11-10T21:00:04Z,25166099184,true,PullRequestEvent,49699333,273999790,true,1,70,45,2,1,0,0,false,true,true,Vue,0,Bump electron from 9.0.4 to 15.5.5,closed
+2022-11-10T21:00:04Z,25166099200,true,PullRequestEvent,22669301,554419465,true,2,66,32,17,0,0,0,false,true,true,JavaScript,0,Master,closed
+2022-11-10T21:00:04Z,25166099203,true,PullRequestEvent,49699333,259057039,,1,23103,22993,2,4,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.3 to 18.3.7,open
+2022-11-10T21:00:04Z,25166099219,true,PullRequestEvent,93133199,421007481,,1,728,231989,57,2,1,1,false,true,true,R,1,Changes to adm_consolidate to cap coverage figures,open
+2022-11-10T21:00:04Z,25166099227,true,PullRequestEvent,42302901,561351372,,1,6,0,1,0,0,0,false,true,true,Java,0,son,closed
+2022-11-10T21:00:04Z,25166099229,true,PullRequestEvent,82062616,300735824,,4,1365,404,12,7,36,36,false,true,true,JavaScript,36,`initializeIcons()` in various quickstarts,open
+2022-11-10T21:00:04Z,25166099237,true,PullRequestEvent,79616010,507436422,,4,113,36,1,2,8,8,false,true,true,C++,8,Added logical padding support to conv fwd with avoid_rim_fmas = 1,open
+2022-11-10T21:00:04Z,25166099252,true,PullRequestEvent,49699333,252661639,,1,186,98,2,17,0,0,false,false,true,,0,Bump electron from 8.0.3 to 18.3.7,open
+2022-11-10T21:00:04Z,25166099269,true,PullRequestEvent,1753262,481452780,,1,1,1,1,0,3,3,false,false,false,,3,Lets adjust to - 1668114000654,closed
+2022-11-10T21:00:04Z,25166099297,true,PullRequestEvent,49699333,238860659,true,1,76,62,2,2,1,1,false,true,true,JavaScript,1,Bump electron from 7.1.8 to 15.5.5,closed
+2022-11-10T21:00:05Z,25166099793,true,PullRequestEvent,29139614,515107131,,1,48,48,1,3,0,0,false,true,true,TypeScript,0,Update all non major dependencies to v7.19.0,open
+2022-11-10T21:00:05Z,25166099798,true,PullRequestEvent,49699333,230955836,true,1,190,24,2,26,0,0,false,true,true,Vue,0,Bump electron from 7.1.7 to 15.5.5,closed
+2022-11-10T21:00:06Z,25166099863,true,PullRequestEvent,74924917,296702877,,1,0,16,1,2,7532,7532,false,true,true,,7532,Remove nvim-cmp sources,open
+2022-11-10T21:00:06Z,25166099931,true,PullRequestEvent,49699333,246749202,true,1,74,56,2,19,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.0 to 15.5.5,closed
+2022-11-10T21:00:06Z,25166099979,true,PullRequestEvent,49699333,249448783,,1,67,31,1,18,0,0,false,true,true,HTML,0,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:06Z,25166100021,true,PullRequestEvent,3459255,320936419,,5,162,5,9,0,94,94,false,true,true,HTML,94,test:e2e coverage reporting,closed
+2022-11-10T21:00:06Z,25166100195,true,PullRequestEvent,1465370,545644185,,2,11,11,2,3,6,6,false,true,true,TypeScript,6,♻️ Trying to enable e2e testing on CI,open
+2022-11-10T21:00:06Z,25166100215,true,PullRequestEvent,49699333,248415672,,1,23,13,1,19,0,0,false,true,true,PHP,0,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:07Z,25166100279,true,PullRequestEvent,49699333,265042173,,1,76,62,2,5,2,2,false,true,true,JavaScript,2,Bump electron from 7.1.7 to 18.3.7,open
+2022-11-10T21:00:07Z,25166100280,true,PullRequestEvent,49699333,272366994,,1,486,140,2,2,0,0,false,true,true,JavaScript,0,Bump minimatch from 3.0.4 to 3.1.2,open
+2022-11-10T21:00:07Z,25166100306,true,PullRequestEvent,49699333,253560608,true,1,72,73,2,1,1,1,false,true,true,TypeScript,1,Bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:00:07Z,25166100322,true,PullRequestEvent,114242927,562791797,,1,92,1,2,1,0,0,false,true,true,Java,0,Initialization: Ability to Create Contacts,open
+2022-11-10T21:00:07Z,25166100335,true,PullRequestEvent,49699333,244126497,,1,100,48,2,2,0,0,false,true,true,TypeScript,0,Bump electron from 7.1.14 to 18.3.7,open
+2022-11-10T21:00:07Z,25166100357,true,PullRequestEvent,102495,378405765,,1,13,13,6,2,13,13,true,false,false,Python,13,Update devtools repo url,closed
+2022-11-10T21:00:07Z,25166100388,true,PullRequestEvent,49699333,267513289,,1,99,102,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 9.0.0 to 18.3.7,open
+2022-11-10T21:00:07Z,25166100401,true,PullRequestEvent,47124820,524297258,,1,3,0,1,0,0,0,false,true,true,Dockerfile,0,"added sqlalchemy, alembic, pydantic",closed
+2022-11-10T21:00:07Z,25166100407,true,PullRequestEvent,49699333,173191921,true,1,95,77,2,18,0,0,false,true,true,JavaScript,0,Bump electron from 9.0.0 to 15.5.5,closed
+2022-11-10T21:00:07Z,25166100464,true,PullRequestEvent,49699333,259057039,true,1,23103,22993,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:00:07Z,25166100468,true,PullRequestEvent,110652609,544762166,,3855,1054,12,22,1,0,0,false,false,false,Shell,0,Test PR,open
+2022-11-10T21:00:07Z,25166100477,true,PullRequestEvent,49699333,179994473,,1,137,110,2,2,0,0,false,false,false,HTML,0,Bump electron from 8.1.0 to 18.3.7,open
+2022-11-10T21:00:07Z,25166100490,true,PullRequestEvent,49699333,257548503,,1,105,84,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.3 to 18.3.7,open
+2022-11-10T21:00:07Z,25166100635,true,PullRequestEvent,49699333,247489312,,1,2170,138,2,2,3,3,false,true,true,JavaScript,3,Bump electron from 8.1.1 to 18.3.7,open
+2022-11-10T21:00:08Z,25166100690,true,PullRequestEvent,49699333,239594774,true,1,100,111,2,3,0,0,false,true,true,TypeScript,0,Bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:00:08Z,25166100705,true,PullRequestEvent,1903766,288906703,,1,11,0,2,1,9,9,false,false,false,Mustache,9,TN-2892 Add config values for Keycloak,closed
+2022-11-10T21:00:08Z,25166100769,true,PullRequestEvent,49699333,252661639,true,1,186,98,2,16,0,0,false,false,true,,0,Bump electron from 8.0.3 to 15.5.5,closed
+2022-11-10T21:00:08Z,25166100778,true,PullRequestEvent,39814207,53004643,,1,1,1,1,1,2,2,false,false,true,Shell,2,[pull] current from vyos:current,open
+2022-11-10T21:00:08Z,25166100939,true,PullRequestEvent,1945127,129776280,,1,14,14,1,11,61,61,false,true,true,Rust,61,Don't use fragile indentation size for string indexing,open
+2022-11-10T21:00:09Z,25166100942,true,PullRequestEvent,49699333,334305033,,1,15,15,2,33,2,2,false,true,false,JavaScript,2,Bump minimatch from 3.0.4 to 3.1.2 in /server,open
+2022-11-10T21:00:09Z,25166100944,true,PullRequestEvent,450570,49447110,,1,11,0,1,3,0,0,false,true,true,Ruby,0,add Object Valuation report to reports example,open
+2022-11-10T21:00:09Z,25166100966,true,PullRequestEvent,19733683,187745254,,1,2,0,1,647,1,1,false,true,true,Python,1,[Snyk] Fix for 2 vulnerabilities,open
+2022-11-10T21:00:09Z,25166100983,true,PullRequestEvent,49699333,195159781,,1,240,48,2,3,4,4,false,true,true,CSS,4,Bump electron from 7.1.4 to 18.3.7 in /react-client,open
+2022-11-10T21:00:09Z,25166100999,true,PullRequestEvent,49699333,247838478,,1,26,16,1,15,0,0,false,true,true,JavaScript,0,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:09Z,25166101032,true,PullRequestEvent,49699333,232878978,,1,57,63,2,20,0,0,false,true,true,TypeScript,0,Bump electron from 9.0.0 to 18.3.7,open
+2022-11-10T21:00:09Z,25166101041,true,PullRequestEvent,70288616,561001201,,2,12,3,2,0,0,0,false,true,true,Java,0,defined 3 of the data type tokens and added 4 rules for assigment operators,closed
+2022-11-10T21:00:09Z,25166101129,true,PullRequestEvent,90796659,542581520,,40,308,22,17,1,0,0,false,true,true,TypeScript,0,Admin auth frontend,closed
+2022-11-10T21:00:09Z,25166101135,true,PullRequestEvent,49699333,234006427,,1,208,24,2,4,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.9 to 18.3.7,open
+2022-11-10T21:00:09Z,25166101219,true,PullRequestEvent,114601453,132043451,,2,60,75,2,234,510,510,true,true,true,C++,510,CMake readability,open
+2022-11-10T21:00:10Z,25166101692,true,PullRequestEvent,49699333,230471889,,1,193,9,2,2,0,0,false,true,true,TypeScript,0,Bump electron from 7.1.7 to 18.3.7,open
+2022-11-10T21:00:10Z,25166101694,true,PullRequestEvent,49699333,218613843,,1,132,66,2,7,0,0,false,true,true,C#,0,Bump electron from 7.1.5 to 18.3.7 in /client,open
+2022-11-10T21:00:10Z,25166101701,true,PullRequestEvent,49699333,179994473,true,1,133,106,2,1,0,0,false,false,false,HTML,0,Bump electron from 8.1.0 to 15.5.5,closed
+2022-11-10T21:00:10Z,25166101730,true,PullRequestEvent,49699333,277602448,,1,87,9,2,5,0,0,false,true,true,JavaScript,0,Bump electron from 9.0.5 to 18.3.7 in /electron-builder,open
+2022-11-10T21:00:10Z,25166101735,true,PullRequestEvent,49699333,306901658,,1,6,6,1,30,0,0,false,true,true,Makefile,0,chore(deps): bump minimatch from 3.0.4 to 3.0.8,open
+2022-11-10T21:00:11Z,25166101842,true,PullRequestEvent,29488428,353440668,,1,1,1,2,0,0,0,false,false,false,HTML,0,update Coury et al,closed
+2022-11-10T21:00:11Z,25166101855,true,PullRequestEvent,96077682,559515696,,1,112,23,4,1,0,0,false,true,true,Java,0,Fixed deal hands method and added methods to assign discard and pick …,open
+2022-11-10T21:00:11Z,25166101859,true,PullRequestEvent,49699333,247489312,true,1,2170,129,2,1,3,3,false,true,true,JavaScript,3,Bump electron from 8.1.1 to 15.5.5,closed
+2022-11-10T21:00:11Z,25166101870,true,PullRequestEvent,1246444,29193945,,1,1,1,1,2,4,4,true,false,false,C#,4,Bump Verify.NUnit from 18.4.0 to 19.0.0,closed
+2022-11-10T21:00:11Z,25166101948,true,PullRequestEvent,49699333,228061752,,1,1587,94,3,18,3,3,false,true,true,JavaScript,3,Bump electron from 7.1.5 to 18.3.7,open
+2022-11-10T21:00:11Z,25166101953,true,PullRequestEvent,49699333,257548503,true,1,105,84,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:00:11Z,25166102030,true,PullRequestEvent,49699333,234534348,,1,149,132,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.9 to 18.3.7,open
+2022-11-10T21:00:11Z,25166102175,true,PullRequestEvent,864633,49415301,,1,5,4,1,22,49,49,false,false,false,,49,Add 'sudo eopkg rebuild-db' to incomplete upgrade,open
+2022-11-10T21:00:12Z,25166102222,true,PullRequestEvent,49699333,195159781,true,1,240,48,2,2,4,4,false,true,true,CSS,4,Bump electron from 7.1.4 to 15.5.5 in /react-client,closed
+2022-11-10T21:00:12Z,25166102240,true,PullRequestEvent,49699333,247978935,,1,121,77,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.1.1 to 18.3.7,open
+2022-11-10T21:00:12Z,25166102281,true,PullRequestEvent,49699333,234006427,true,1,208,24,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.9 to 15.5.5,closed
+2022-11-10T21:00:12Z,25166102377,true,PullRequestEvent,7761701,192004926,false,3,7,15,4,9,19,19,true,true,true,TypeScript,19,"chore(media-block, feature, stacked-block): use image in codebase instead of external url in stories",closed
+2022-11-10T21:00:12Z,25166102379,true,PullRequestEvent,49699333,245534269,,1,35,18,1,20,0,0,false,true,true,JavaScript,0,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:12Z,25166102409,true,PullRequestEvent,49699333,256525690,true,1,82,61,2,1,1,1,false,true,true,JavaScript,1,Bump electron from 8.2.1 to 15.5.5,closed
+2022-11-10T21:00:12Z,25166102410,true,PullRequestEvent,86333515,564482901,,2,37,1,1,1,0,0,false,true,true,,0,bchmempool approve,open
+2022-11-10T21:00:12Z,25166102459,true,PullRequestEvent,50389029,546571772,,2,162,26,8,25,6,6,false,true,true,Java,6,タイマー再開APIを実装,closed
+2022-11-10T21:00:12Z,25166102414,true,PullRequestEvent,49699333,232878978,true,1,57,63,2,19,0,0,false,true,true,TypeScript,0,Bump electron from 9.0.0 to 15.5.5,closed
+2022-11-10T21:00:12Z,25166102447,true,PullRequestEvent,17735,112683472,,1,31,13,1,134,703,703,true,true,true,Solidity,703,adding a fix for recurring,open
+2022-11-10T21:00:12Z,25166102472,true,PullRequestEvent,49699333,170249337,,1,129,107,1,22,0,0,false,true,true,JavaScript,0,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:12Z,25166102473,true,PullRequestEvent,49699333,261792930,true,1,92,67,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.5 to 15.5.5,closed
+2022-11-10T21:00:12Z,25166102476,true,PullRequestEvent,49699333,266996587,true,1,112,101,2,1,0,0,false,false,true,JavaScript,0,Bump electron from 9.0.0 to 15.5.5,closed
+2022-11-10T21:00:13Z,25166102516,true,PullRequestEvent,49699333,255264405,,1,87,58,2,17,0,0,false,true,true,TypeScript,0,Bump electron from 8.2.1 to 18.3.7 in /client,open
+2022-11-10T21:00:13Z,25166102607,true,PullRequestEvent,49699333,341959092,,1,3,3,1,12,23,23,false,true,true,JavaScript,23,Bump minimatch from 3.0.4 to 3.1.2,open
+2022-11-10T21:00:13Z,25166102617,true,PullRequestEvent,49699333,237457572,true,1,77,77,2,3,2,2,false,true,true,JavaScript,2,Bump electron from 8.2.3 to 15.5.5 in /admin-tool,closed
+2022-11-10T21:00:13Z,25166102620,true,PullRequestEvent,49699333,231813033,true,1,190,24,2,22,0,0,false,true,true,Vue,0,Bump electron from 7.1.7 to 15.5.5,closed
+2022-11-10T21:00:13Z,25166102621,true,PullRequestEvent,93133199,421007481,,1,728,231989,57,1,1,1,false,true,true,R,1,Changes to adm_consolidate to cap coverage figures,closed
+2022-11-10T21:00:13Z,25166102627,true,PullRequestEvent,49699333,232956146,,1,77,79,2,2,0,0,false,true,true,CSS,0,Bump electron from 7.1.8 to 18.3.7,open
+2022-11-10T21:00:13Z,25166102673,true,PullRequestEvent,91208561,563692690,false,1,479,0,1,2,0,0,false,true,true,Jupyter Notebook,0,Add files via upload,closed
+2022-11-10T21:00:13Z,25166102704,true,PullRequestEvent,97840685,448591757,,1,6,5,1,1,0,0,false,true,true,PHP,0,Diall poll implementation initiated.,open
+2022-11-10T21:00:13Z,25166102723,true,PullRequestEvent,89108440,362431190,,4,504,0,13,30,7,7,false,true,true,HTML,7,[DGPFUS-162] CREATE & STYLE THE LANDING PAGE FOR A FOOD ORDERIN,open
+2022-11-10T21:00:13Z,25166102758,true,PullRequestEvent,49699333,230471889,true,1,193,9,2,1,0,0,false,true,true,TypeScript,0,Bump electron from 7.1.7 to 15.5.5,closed
+2022-11-10T21:00:13Z,25166102769,true,PullRequestEvent,49699333,237336511,,1,787,3570,2,111,0,0,false,true,true,JavaScript,0,Bump loader-utils and next in /ch6/front,open
+2022-11-10T21:00:14Z,25166102901,true,PullRequestEvent,30272624,66882151,,1,131,10,1,43,14,14,false,true,true,Python,14,optimize performance of ph5availability by keeping all das_t that alr…,open
+2022-11-10T21:00:14Z,25166102926,true,PullRequestEvent,49699333,254637508,,1,74,69,2,5,0,0,false,true,true,,0,build(deps-dev): bump electron from 8.0.3 to 18.3.7,open
+2022-11-10T21:00:14Z,25166102927,true,PullRequestEvent,49699333,245907049,,1,122,104,1,17,0,0,false,true,true,JavaScript,0,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:14Z,25166103015,true,PullRequestEvent,49699333,248098486,,1,74,56,2,3,1,1,false,true,true,JavaScript,1,Bump electron from 8.1.1 to 18.3.7,open
+2022-11-10T21:00:14Z,25166103035,true,PullRequestEvent,542458,47394776,,1,1,1,1,432,33862,33862,true,false,false,JavaScript,33862,docs(website): fix lerna install command,open
+2022-11-10T21:00:14Z,25166103038,true,PullRequestEvent,49699333,185444198,,1,31,26,1,12,1,1,false,true,true,F#,1,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:14Z,25166103046,true,PullRequestEvent,49699333,239085654,,1,446,298,2,6,0,0,false,true,true,Vue,0,"Bump loader-utils, copy-webpack-plugin and html-webpack-plugin in /Travel",open
+2022-11-10T21:00:14Z,25166103058,true,PullRequestEvent,49699333,247978935,true,1,121,77,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 8.1.1 to 15.5.5,closed
+2022-11-10T21:00:14Z,25166103060,true,PullRequestEvent,49699333,234534348,true,1,145,128,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.9 to 15.5.5,closed
+2022-11-10T21:00:15Z,25166103103,true,PullRequestEvent,37013912,530882992,,2,4575,1547,6,1,1,1,false,true,true,Jupyter Notebook,1,Assignment 6,open
+2022-11-10T21:00:15Z,25166103264,true,PullRequestEvent,49699333,258251463,,1,80,51,2,2,0,0,false,true,true,TypeScript,0,Bump electron from 8.2.0 to 18.3.7,open
+2022-11-10T21:00:15Z,25166103273,true,PullRequestEvent,49699333,244973099,,1,671,651,2,20,0,0,false,true,true,JavaScript,0,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:15Z,25166103276,true,PullRequestEvent,49699333,327732029,,1,3,3,1,10,0,0,false,false,true,JavaScript,0,Bump minimatch from 3.0.4 to 3.1.2,open
+2022-11-10T21:00:17Z,25166103787,true,PullRequestEvent,49699333,255116508,,1,6181,9099,2,13,0,0,false,true,true,Ruby,0,Bump minimatch from 3.0.4 to 3.0.8,open
+2022-11-10T21:00:17Z,25166103793,true,PullRequestEvent,65305147,263698771,,2,2,2,2,17,4,4,true,true,true,C++,4,Hide empty feed overlay while loading content,closed
+2022-11-10T21:00:17Z,25166103811,true,PullRequestEvent,1246444,35154246,,1,1,1,1,1,38,38,true,false,false,C#,38,Bump Verify.NUnit from 18.4.0 to 19.0.0,closed
+2022-11-10T21:00:17Z,25166103812,true,PullRequestEvent,49699333,277907830,,1,104,79,2,38,0,0,false,true,true,HTML,0,Bump electron from 9.1.1 to 18.3.7 in /vue-cli/projeto-plugins,open
+2022-11-10T21:00:17Z,25166103877,true,PullRequestEvent,49699333,257007780,,1,3,3,1,4,0,0,false,true,true,Jupyter Notebook,0,Bump minimatch from 3.0.4 to 3.1.2 in /WEPPO/project,open
+2022-11-10T21:00:17Z,25166103880,true,PullRequestEvent,49699333,234345259,,1,76,62,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.9 to 18.3.7,open
+2022-11-10T21:00:17Z,25166103883,true,PullRequestEvent,49699333,254637508,true,1,74,69,2,4,0,0,false,true,true,,0,build(deps-dev): bump electron from 8.0.3 to 15.5.5,closed
+2022-11-10T21:00:17Z,25166103893,true,PullRequestEvent,116926439,563840650,,1,5,4,2,1,0,0,false,true,true,HTML,0,added title to website as well as stopped showing text in footer adde…,open
+2022-11-10T21:00:17Z,25166103908,true,PullRequestEvent,49699333,246042099,,1,23,13,1,29,0,0,false,true,true,JavaScript,0,chore(deps): bump loader-utils from 1.1.0 to 1.4.1 in /shells/electron,open
+2022-11-10T21:00:17Z,25166103939,true,PullRequestEvent,7494312,30377951,,1,4,1,1,3,17,17,true,true,true,C,17,simulation: avoid dividing by zero when computing development pressure,open
+2022-11-10T21:00:17Z,25166103979,true,PullRequestEvent,33253653,1942295,,1,3,1,1,67,1422,1422,true,true,true,PHP,1422,Update changelog,open
+2022-11-10T21:00:17Z,25166103995,true,PullRequestEvent,49699333,248098486,true,1,74,56,2,2,1,1,false,true,true,JavaScript,1,Bump electron from 8.1.1 to 15.5.5,closed
+2022-11-10T21:00:18Z,25166104059,true,PullRequestEvent,49699333,322765445,,1,3,3,1,18,0,0,false,false,true,,0,chore(deps): bump minimatch from 3.0.4 to 3.1.2,open
+2022-11-10T21:00:18Z,25166104068,true,PullRequestEvent,49699333,258135182,,1,99,102,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.3 to 18.3.7,open
+2022-11-10T21:00:18Z,25166104124,true,PullRequestEvent,49699333,237336511,true,1,1726,3372,2,110,0,0,false,true,true,JavaScript,0,Bump next from 8.1.0 to 11.1.3 in /ch6/front,closed
+2022-11-10T21:00:18Z,25166104141,true,PullRequestEvent,49699333,258251463,true,1,80,51,2,1,0,0,false,true,true,TypeScript,0,Bump electron from 8.2.0 to 15.5.5,closed
+2022-11-10T21:00:18Z,25166104224,true,PullRequestEvent,49699333,263547174,,1,2009,188,3,11,0,0,false,true,true,Vue,0,Bump electron from 8.2.0 to 18.3.7 in /front,open
+2022-11-10T21:00:18Z,25166104225,true,PullRequestEvent,114242927,562791797,,1,92,1,2,0,0,0,false,true,true,Java,0,Initialization: Ability to Create Contacts,closed
+2022-11-10T21:00:18Z,25166104252,true,PullRequestEvent,49699333,185444163,,1,31,26,1,12,1,1,false,true,true,F#,1,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:18Z,25166104281,true,PullRequestEvent,112729,142797184,,1,35,12,1,2,2,2,false,true,true,Elixir,2,Bump minimatch from 3.0.4 to 3.0.8 in /robotica_face/assets,closed
+2022-11-10T21:00:18Z,25166104253,true,PullRequestEvent,49699333,238682141,,1,3,3,1,37,2,2,false,true,true,TypeScript,2,Bump minimatch from 3.0.4 to 3.1.2,open
+2022-11-10T21:00:18Z,25166104302,true,PullRequestEvent,49699333,283788573,,1,104,79,2,2,4,4,false,true,true,JavaScript,4,Bump electron from 9.1.2 to 18.3.7,open
+2022-11-10T21:00:19Z,25166104347,true,PullRequestEvent,49699333,249230609,true,1,126,68,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 8.1.1 to 15.5.5,closed
+2022-11-10T21:00:19Z,25166104382,true,PullRequestEvent,39814207,510671824,,1,0,2,1,0,0,0,false,false,true,Go,0,[pull] master from Potterli20:master,closed
+2022-11-10T21:00:19Z,25166104432,true,PullRequestEvent,2387315,452802352,,1,1,0,1,6,0,0,false,true,true,Python,0,Fix a bug occuring  when path includes a trailing slash,open
+2022-11-10T21:00:19Z,25166104491,true,PullRequestEvent,65728957,45717250,,1,4,4,2,2382,169004,169004,false,false,true,C++,169004,r2.9 cherry-pick: oneDNN 2.6.3 Fix,open
+2022-11-10T21:00:19Z,25166104534,true,PullRequestEvent,49699333,257572382,,1,95,58,2,3,0,0,false,true,true,Vue,0,Bump electron from 8.2.0 to 18.3.7,open
+2022-11-10T21:00:19Z,25166104539,true,PullRequestEvent,96077682,559515696,,1,112,23,4,0,0,0,false,true,true,Java,0,Fixed deal hands method and added methods to assign discard and pick …,closed
+2022-11-10T21:00:19Z,25166104578,true,PullRequestEvent,49699333,305197057,,1,446,378,2,6,0,0,false,true,true,,0,Bump electron from 8.2.0 to 18.3.7,open
+2022-11-10T21:00:19Z,25166104609,true,PullRequestEvent,49699333,245301946,,1,1371,39,2,18,0,0,false,true,true,JavaScript,0,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:19Z,25166104629,true,PullRequestEvent,49699333,241031020,,1,283,442,2,2,1,1,false,true,true,JavaScript,1,Bump electron from 6.1.7 to 18.3.7,open
+2022-11-10T21:00:19Z,25166104659,true,PullRequestEvent,7452350,152501558,,253,125301,29484,1635,7,0,0,false,true,true,Java,0,Implements 12526,open
+2022-11-10T21:00:20Z,25166104703,true,PullRequestEvent,57989395,564379868,,1,7209,2,12,1,0,0,false,true,true,,0,Homework 2,open
+2022-11-10T21:00:20Z,25166104707,true,PullRequestEvent,49699333,262665449,,1,97,99,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.5 to 18.3.7,open
+2022-11-10T21:00:20Z,25166104721,true,PullRequestEvent,37013912,530882992,,2,4575,1547,6,0,1,1,false,true,true,Jupyter Notebook,1,Assignment 6,closed
+2022-11-10T21:00:20Z,25166104753,true,PullRequestEvent,49699333,281617180,,1,104,79,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 9.1.0 to 18.3.7,open
+2022-11-10T21:00:20Z,25166104783,true,PullRequestEvent,97840685,448591757,,1,6,5,1,0,0,0,false,true,true,PHP,0,Diall poll implementation initiated.,closed
+2022-11-10T21:00:20Z,25166104838,true,PullRequestEvent,49699333,263598384,,1,110,99,2,23,0,0,false,true,true,TypeScript,0,Bump electron from 8.2.5 to 18.3.7,open
+2022-11-10T21:00:20Z,25166104873,true,PullRequestEvent,49699333,234345259,true,1,76,62,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.9 to 15.5.5,closed
+2022-11-10T21:00:20Z,25166104904,true,PullRequestEvent,49699333,281776414,,1,65,40,2,10,0,0,false,true,true,JavaScript,0,Bump electron from 9.1.1 to 18.3.7,open
+2022-11-10T21:00:20Z,25166104911,true,PullRequestEvent,49699333,277907830,true,1,104,79,2,37,0,0,false,true,true,HTML,0,Bump electron from 9.1.1 to 15.5.5 in /vue-cli/projeto-plugins,closed
+2022-11-10T21:00:20Z,25166104973,true,PullRequestEvent,49699333,168625205,,1,18,12,1,23,0,0,false,true,true,TypeScript,0,build(deps): bump socket.io-parser from 3.3.0 to 3.3.3,open
+2022-11-10T21:00:21Z,25166105051,true,PullRequestEvent,49699333,237705667,,1,3150,505,2,39,1,1,false,true,true,CSS,1,Bump loader-utils and html-webpack-plugin in /FrontEnd/wormhole_vue/merciqiao-vue-master,open
+2022-11-10T21:00:21Z,25166105061,true,PullRequestEvent,49699333,263547174,true,1,1983,162,3,10,0,0,false,true,true,Vue,0,Bump electron from 8.2.0 to 15.5.5 in /front,closed
+2022-11-10T21:00:21Z,25166105066,true,PullRequestEvent,49699333,241092037,,1,1698,98,3,18,1,1,false,true,true,JavaScript,1,Bump electron from 8.0.0 to 18.3.7,open
+2022-11-10T21:00:21Z,25166105139,true,PullRequestEvent,41898282,509387192,,2,24123,20278,6,1,0,0,false,true,true,,0,Fork Sync: Update from parent repository,open
+2022-11-10T21:00:21Z,25166105188,true,PullRequestEvent,61394759,546981660,,4,175,104,16,42,3,3,false,true,true,TypeScript,3,Setup frontend routes,closed
+2022-11-10T21:00:21Z,25166105198,true,PullRequestEvent,49699333,258135182,true,1,95,98,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:00:21Z,25166105224,true,PullRequestEvent,29139614,494906095,,1,1,1,1,2,0,0,false,true,true,Dockerfile,0,chore(deps): update alpine docker tag to v20221110,open
+2022-11-10T21:00:21Z,25166105232,true,PullRequestEvent,49699333,283788573,true,1,104,79,2,1,4,4,false,true,true,JavaScript,4,Bump electron from 9.1.2 to 15.5.5,closed
+2022-11-10T21:00:22Z,25166105359,true,PullRequestEvent,49699333,230808980,,1,122,69,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.7 to 18.3.7 in /client,open
+2022-11-10T21:00:22Z,25166105450,true,PullRequestEvent,49699333,305197057,true,1,394,376,2,5,0,0,false,true,true,,0,Bump electron from 8.2.0 to 15.5.5,closed
+2022-11-10T21:00:22Z,25166105457,true,PullRequestEvent,49699333,257572382,true,1,95,58,2,2,0,0,false,true,true,Vue,0,Bump electron from 8.2.0 to 15.5.5,closed
+2022-11-10T21:00:22Z,25166105525,true,PullRequestEvent,49699333,284009420,,1,10,10,1,5,0,0,false,true,true,JavaScript,0,⬆️ Bump minimatch from 3.0.4 to 3.1.2 in /decorator,open
+2022-11-10T21:00:22Z,25166105554,true,PullRequestEvent,63304987,541615542,,1,54,1,3,1,0,0,false,true,true,JavaScript,0,author submission result shown,open
+2022-11-10T21:00:22Z,25166105582,true,PullRequestEvent,49699333,245645644,,1,34,19,1,20,0,0,false,true,true,JavaScript,0,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:22Z,25166105592,true,PullRequestEvent,102609890,475504932,true,1,3,0,1,1,0,0,false,true,true,,0,Updated README,closed
+2022-11-10T21:00:22Z,25166105599,true,PullRequestEvent,49699333,262665449,true,1,93,95,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.5 to 15.5.5,closed
+2022-11-10T21:00:22Z,25166105602,true,PullRequestEvent,108750153,533387915,,1,98,0,5,0,0,0,false,true,true,Java,0,Recuperation des enfant dans la dans la liste des person par address …,closed
+2022-11-10T21:00:22Z,25166105618,true,PullRequestEvent,61696382,564034148,,6,90,34,10,1,0,0,false,true,true,JavaScript,0,Feat  jazz up command output,open
+2022-11-10T21:00:23Z,25166105632,true,PullRequestEvent,29139614,414771182,,1,5,5,2,2,2,2,false,false,false,TypeScript,2,Update dependency eslint-plugin-jest to v27.1.5,open
+2022-11-10T21:00:23Z,25166105633,true,PullRequestEvent,43144390,280626819,,1,41,0,1,10,0,0,false,true,true,TypeScript,0,Add CodeQL workflow for GitHub code scanning,open
+2022-11-10T21:00:23Z,25166105670,true,PullRequestEvent,49699333,211349874,,1,102,78,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.5 to 18.3.7,open
+2022-11-10T21:00:23Z,25166105714,true,PullRequestEvent,49699333,263598384,true,1,106,95,2,22,0,0,false,true,true,TypeScript,0,Bump electron from 8.2.5 to 15.5.5,closed
+2022-11-10T21:00:23Z,25166105775,true,PullRequestEvent,49699333,232509855,,1,140,74,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.7 to 18.3.7,open
+2022-11-10T21:00:23Z,25166105781,true,PullRequestEvent,49699333,281776414,true,1,65,40,2,9,0,0,false,true,true,JavaScript,0,Bump electron from 9.1.1 to 15.5.5,closed
+2022-11-10T21:00:23Z,25166105801,true,PullRequestEvent,49699333,168625205,,1,13,7,1,22,0,0,false,true,true,TypeScript,0,build(deps): bump socket.io-parser from 3.3.0 to 3.3.2,closed
+2022-11-10T21:00:23Z,25166105811,true,PullRequestEvent,49699333,241031020,true,1,283,442,2,1,1,1,false,true,true,JavaScript,1,Bump electron from 6.1.7 to 15.5.5,closed
+2022-11-10T21:00:23Z,25166105815,true,PullRequestEvent,49699333,243239522,,1,1519,96,3,19,1,1,false,true,true,JavaScript,1,Bump electron from 8.0.1 to 18.3.7,open
+2022-11-10T21:00:23Z,25166105816,true,PullRequestEvent,78513119,43642389,,1,52110,0,408,172,951,951,true,true,true,PHP,951,"feat: [Dlp] ExcludeByHotword added as an ExclusionRule type, NEW_ZEALAND added as a LocationCategory value",open
+2022-11-10T21:00:23Z,25166105915,true,PullRequestEvent,49699333,329251976,,1,6,7,1,19,0,0,false,true,true,JavaScript,0,Bump minimatch from 3.0.4 to 3.1.2 in /backend,open
+2022-11-10T21:00:23Z,25166105900,true,PullRequestEvent,49699333,281617180,true,1,104,79,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 9.1.0 to 15.5.5,closed
+2022-11-10T21:00:24Z,25166105998,true,PullRequestEvent,95660693,553046247,,8,10478,5,62,3,0,0,false,true,true,Python,0,Lesson 4 progress,open
+2022-11-10T21:00:24Z,25166106100,true,PullRequestEvent,49699333,282785751,,1,101,23,2,7,0,0,false,true,true,HTML,0,Bump electron from 9.0.4 to 18.3.7 in /client,open
+2022-11-10T21:00:24Z,25166106133,true,PullRequestEvent,49699333,248711273,,1,108,46,2,7,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.4 to 18.3.7 in /Schedule Control Widget,open
+2022-11-10T21:00:24Z,25166106142,true,PullRequestEvent,49699333,255642937,,1,111,57,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.1 to 18.3.7,open
+2022-11-10T21:00:24Z,25166106217,true,PullRequestEvent,49699333,241092037,true,1,1703,98,3,17,1,1,false,true,true,JavaScript,1,Bump electron from 8.0.0 to 15.5.5,closed
+2022-11-10T21:00:24Z,25166106282,true,PullRequestEvent,7785207,501725302,,2,208,12,6,3,82,82,true,true,true,Python,82,strawberry fix,closed
+2022-11-10T21:00:24Z,25166106230,true,PullRequestEvent,49699333,231698160,true,1,76,62,2,2,1,1,false,true,true,JavaScript,1,Bump electron from 7.1.7 to 15.5.5,closed
+2022-11-10T21:00:25Z,25166106376,true,PullRequestEvent,39814207,472345383,,5,76,7,2,1,0,0,false,false,true,Python,0,[pull] develop from fledge-iot:develop,open
+2022-11-10T21:00:25Z,25166106383,true,PullRequestEvent,49699333,230808980,true,1,122,69,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.7 to 15.5.5 in /client,closed
+2022-11-10T21:00:25Z,25166106401,true,PullRequestEvent,20583051,31558937,,1,1,1,1,2265,12987,12987,true,false,true,Go,12987,[v11] Update Node.js to 16.18.1,open
+2022-11-10T21:00:25Z,25166106405,true,PullRequestEvent,1108049,168676539,,1,11,8,2,4,94,94,false,false,false,Go,94,Bump cloud.google.com/go/pubsub from 1.24.0 to 1.26.0,closed
+2022-11-10T21:00:25Z,25166106435,true,PullRequestEvent,49699333,104416181,,1,113,93,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.0 to 18.3.7,open
+2022-11-10T21:00:25Z,25166106447,true,PullRequestEvent,92393164,562884603,,1,51,2,4,11,4,4,false,true,true,JavaScript,4,[Product] routes one product GET,open
+2022-11-10T21:00:25Z,25166106451,true,PullRequestEvent,49699333,276971177,,1,67,42,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 9.0.5 to 18.3.7,open
+2022-11-10T21:00:25Z,25166106485,true,PullRequestEvent,49699333,247924382,,1,35,18,1,28,0,0,false,true,true,TypeScript,0,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:25Z,25166106558,true,PullRequestEvent,49699333,248191934,,1,464,24,2,3,0,0,false,true,true,Vue,0,Bump electron from 8.1.1 to 18.3.7,open
+2022-11-10T21:00:25Z,25166106571,true,PullRequestEvent,49699333,309902590,,1,3,3,1,5,0,0,false,true,true,Dart,0,Bump minimatch from 3.0.4 to 3.1.2 in /Chat_App/functions,open
+2022-11-10T21:00:25Z,25166106581,true,PullRequestEvent,63058869,189621607,,4,4136,2753,165,104,11981,11981,true,false,true,JavaScript,11981,repo sync,open
+2022-11-10T21:00:26Z,25166106705,true,PullRequestEvent,49699333,262084721,,1,3,12,1,16,0,0,false,true,true,JavaScript,0,Bump minimatch from 3.0.4 to 3.1.2,open
+2022-11-10T21:00:26Z,25166106717,true,PullRequestEvent,49699333,255087983,,1,73,60,2,4,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.1 to 18.3.7,open
+2022-11-10T21:00:26Z,25166106739,true,PullRequestEvent,50183230,319704837,,91,1005,1777,41,5,7,7,false,false,false,JavaScript,7,update slash branch,open
+2022-11-10T21:00:26Z,25166106745,true,PullRequestEvent,49699333,282080820,,1,70,45,2,101,0,0,false,true,true,HTML,0,Bump electron from 9.1.1 to 18.3.7 in /vue-cli/projeto-plugins,open
+2022-11-10T21:00:26Z,25166106771,true,PullRequestEvent,49699333,248503330,,1,135,78,2,4,0,0,false,true,true,TypeScript,0,Bump electron from 8.1.1 to 18.3.7,open
+2022-11-10T21:00:26Z,25166106816,true,PullRequestEvent,49699333,217373884,,1,6,6,1,10,0,0,false,false,true,,0,Bump minimatch from 3.0.4 to 3.1.2,open
+2022-11-10T21:00:27Z,25166106952,true,PullRequestEvent,49699333,248711273,true,1,108,46,2,6,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.4 to 15.5.5 in /Schedule Control Widget,closed
+2022-11-10T21:00:27Z,25166106992,true,PullRequestEvent,49699333,282785751,true,1,101,23,2,6,0,0,false,true,true,HTML,0,Bump electron from 9.0.4 to 15.5.5 in /client,closed
+2022-11-10T21:00:27Z,25166106996,true,PullRequestEvent,49699333,243239522,true,1,1524,96,3,18,1,1,false,true,true,JavaScript,1,Bump electron from 8.0.1 to 15.5.5,closed
+2022-11-10T21:00:27Z,25166107114,true,PullRequestEvent,49699333,255642937,true,1,111,57,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.1 to 15.5.5,closed
+2022-11-10T21:00:27Z,25166107115,true,PullRequestEvent,49699333,273612710,,1,104,79,2,4,1,1,false,true,true,Vue,1,Bump electron from 9.0.5 to 18.3.7 in /v2.0,open
+2022-11-10T21:00:27Z,25166107116,true,PullRequestEvent,49699333,247611170,,1,79,56,2,4,0,0,false,true,true,JavaScript,0,Bump electron from 8.1.1 to 18.3.7,open
+2022-11-10T21:00:28Z,25166107261,true,PullRequestEvent,49699333,276971177,true,1,67,42,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 9.0.5 to 15.5.5,closed
+2022-11-10T21:00:28Z,25166107274,true,PullRequestEvent,18567580,194021185,,1,2,0,1,2,0,0,false,false,true,,0,[ci skip] [cf admin skip] ***NO_CI*** adding bot automerge,open
+2022-11-10T21:00:28Z,25166107276,true,PullRequestEvent,113816832,563554379,,1,2,2,1,1,0,0,false,true,true,JavaScript,0,trying to fix deployment error,closed
+2022-11-10T21:00:28Z,25166107279,true,PullRequestEvent,49699333,273726713,,1,61,49,2,2,1,1,false,true,true,TypeScript,1,build(deps-dev): bump electron from 9.0.4 to 18.3.7,open
+2022-11-10T21:00:28Z,25166107288,true,PullRequestEvent,49699333,267429524,,1,59,60,2,2,0,0,false,true,true,CSS,0,Bump electron from 9.0.0 to 18.3.7,open
+2022-11-10T21:00:28Z,25166107324,true,PullRequestEvent,49699333,104416181,true,1,109,89,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.0 to 15.5.5,closed
+2022-11-10T21:00:28Z,25166107355,true,PullRequestEvent,830805,66408419,,1,2,2,2,14,2,2,false,true,true,PHP,2,Apply fixes from StyleCI,open
+2022-11-10T21:00:28Z,25166107365,true,PullRequestEvent,49699333,282188749,,1,210,107,2,2,0,0,false,true,true,Vue,0,Bump electron from 9.1.1 to 18.3.7,open
+2022-11-10T21:00:28Z,25166107368,true,PullRequestEvent,49699333,248191934,true,1,464,24,2,2,0,0,false,true,true,Vue,0,Bump electron from 8.1.1 to 15.5.5,closed
+2022-11-10T21:00:28Z,25166107399,true,PullRequestEvent,49699333,231968456,true,1,82,63,2,2,0,0,false,true,true,TypeScript,0,Bump electron from 7.1.7 to 15.5.5,closed
+2022-11-10T21:00:28Z,25166107408,true,PullRequestEvent,49699333,251730995,,1,97,99,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.0 to 18.3.7,open
+2022-11-10T21:00:28Z,25166107497,true,PullRequestEvent,49699333,232141230,,1,466,141,3,3,0,0,false,true,true,TypeScript,0,Bump electron from 7.1.7 to 18.3.7,open
+2022-11-10T21:00:29Z,25166107654,true,PullRequestEvent,49699333,228262585,,1,22,28,2,5,66,66,false,true,true,Vue,66,Bump electron from 9.2.0 to 18.3.7,open
+2022-11-10T21:00:29Z,25166107669,true,PullRequestEvent,86479586,162763030,,1,2,0,1,354,7,7,false,true,true,TypeScript,7,fix: updating Tasks - All detective-employees,open
+2022-11-10T21:00:29Z,25166107834,true,PullRequestEvent,39814207,360920225,,2,71,64,1,0,0,0,false,false,true,Go,0,[pull] master from restic:master,closed
+2022-11-10T21:00:29Z,25166107849,true,PullRequestEvent,49699333,248881171,,1,77,90,2,5,0,0,false,true,true,TypeScript,0,chore(deps-dev): bump electron from 8.2.0 to 18.3.7,open
+2022-11-10T21:00:29Z,25166107853,true,PullRequestEvent,106169198,563836731,,1,5,3,1,1,0,0,false,true,true,JavaScript,0,add componentDidMount,open
+2022-11-10T21:00:29Z,25166107864,true,PullRequestEvent,63304987,541615542,,1,54,1,3,0,0,0,false,true,true,JavaScript,0,author submission result shown,closed
+2022-11-10T21:00:30Z,25166107918,true,PullRequestEvent,71561411,564010164,,3,126,0,1,1,0,0,false,true,true,,0,Feature/Carla-Hentschel,open
+2022-11-10T21:00:30Z,25166107920,true,PullRequestEvent,24482041,451733155,,1,10,7,2,0,0,0,false,true,true,Go,0,Bump github.com/sirupsen/logrus from 1.8.1 to 1.9.0,closed
+2022-11-10T21:00:30Z,25166107923,true,PullRequestEvent,49699333,246695749,,1,21113,5871,2,25,0,0,false,true,true,,0,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:30Z,25166108034,true,PullRequestEvent,49699333,247611170,true,1,79,56,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 8.1.1 to 15.5.5,closed
+2022-11-10T21:00:30Z,25166108078,true,PullRequestEvent,49699333,273612710,true,1,104,79,2,3,1,1,false,true,true,Vue,1,Bump electron from 9.0.5 to 15.5.5 in /v2.0,closed
+2022-11-10T21:00:30Z,25166108094,true,PullRequestEvent,114950635,549723064,,2,47,0,2,1,0,0,false,true,true,JavaScript,0,Aula 6 3,open
+2022-11-10T21:00:30Z,25166108098,true,PullRequestEvent,49699333,282080820,true,1,70,45,2,100,0,0,false,true,true,HTML,0,Bump electron from 9.1.1 to 15.5.5 in /vue-cli/projeto-plugins,closed
+2022-11-10T21:00:30Z,25166108128,true,PullRequestEvent,49699333,99397696,,1,102,108,2,4,6,6,false,true,true,JavaScript,6,Bump electron from 7.2.4 to 18.3.7,open
+2022-11-10T21:00:30Z,25166108196,true,PullRequestEvent,49699333,282188749,true,1,210,107,2,1,0,0,false,true,true,Vue,0,Bump electron from 9.1.1 to 15.5.5,closed
+2022-11-10T21:00:30Z,25166108206,true,PullRequestEvent,49699333,273726713,true,1,61,49,2,1,1,1,false,true,true,TypeScript,1,build(deps-dev): bump electron from 9.0.4 to 15.5.5,closed
+2022-11-10T21:00:31Z,25166108245,true,PullRequestEvent,49699333,267429524,true,1,59,60,2,1,0,0,false,true,true,CSS,0,Bump electron from 9.0.0 to 15.5.5,closed
+2022-11-10T21:00:31Z,25166108251,true,PullRequestEvent,11645566,429267669,,1,482,129,19,1,0,0,false,true,true,Kotlin,0,Several fixes,open
+2022-11-10T21:00:31Z,25166108271,true,PullRequestEvent,49699333,277901153,,1,70,86,2,3,0,0,false,true,true,TypeScript,0,Bump electron from 9.0.0 to 18.3.7,open
+2022-11-10T21:00:31Z,25166108307,true,PullRequestEvent,49699333,242280860,,1,3,3,1,13,0,0,false,true,true,,0,Bump minimatch from 3.0.4 to 3.1.2,open
+2022-11-10T21:00:31Z,25166108357,true,PullRequestEvent,49699333,176382071,,1,7523,440,2,27,357,357,false,true,true,TypeScript,357,Bump minimatch from 3.0.4 to 3.1.2,open
+2022-11-10T21:00:31Z,25166108373,true,PullRequestEvent,49699333,251730995,true,1,93,95,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.0 to 15.5.5,closed
+2022-11-10T21:00:31Z,25166108376,true,PullRequestEvent,29139614,362535503,,1,1,1,1,1,15,15,false,false,false,Open Policy Agent,15,Update bitnami/kubectl:1.25 Docker digest to eee4beb,open
+2022-11-10T21:00:31Z,25166108418,true,PullRequestEvent,49699333,232141230,true,1,466,141,3,2,0,0,false,true,true,TypeScript,0,Bump electron from 7.1.7 to 15.5.5,closed
+2022-11-10T21:00:31Z,25166108438,true,PullRequestEvent,49699333,231286426,true,1,116,69,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.7 to 15.5.5,closed
+2022-11-10T21:00:31Z,25166108505,true,PullRequestEvent,830805,66408419,true,1,1,1,1,13,2,2,false,true,true,PHP,2,Apply fixes from StyleCI,closed
+2022-11-10T21:00:32Z,25166108570,true,PullRequestEvent,49699333,261662297,,1,87,58,2,2,1,1,false,true,true,TypeScript,1,Bump electron from 8.2.5 to 18.3.7,open
+2022-11-10T21:00:32Z,25166108614,true,PullRequestEvent,49699333,255384371,,1,99,103,2,23,2,2,false,true,true,HTML,2,Bump electron from 8.2.4 to 18.3.7,open
+2022-11-10T21:00:32Z,25166108670,true,PullRequestEvent,49699333,248107858,,1,23,13,1,20,0,0,false,true,true,PHP,0,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:32Z,25166108693,true,PullRequestEvent,49699333,244920846,,1,1227,60,1,22,0,0,false,true,true,PHP,0,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:32Z,25166108697,true,PullRequestEvent,49699333,228262585,true,1,22,28,2,4,66,66,false,true,true,Vue,66,Bump electron from 9.2.0 to 15.5.5,closed
+2022-11-10T21:00:32Z,25166108710,true,PullRequestEvent,5592157,130293213,true,1,2,1,1,41,629,629,false,true,true,C,629,Added developer id,closed
+2022-11-10T21:00:32Z,25166108699,true,PullRequestEvent,49699333,248881171,true,1,77,90,2,4,0,0,false,true,true,TypeScript,0,chore(deps-dev): bump electron from 8.2.0 to 15.5.5,closed
+2022-11-10T21:00:32Z,25166108715,true,PullRequestEvent,49699333,250476834,true,1,759,111,3,16,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.0 to 15.5.5,closed
+2022-11-10T21:00:32Z,25166108763,true,PullRequestEvent,49699333,52649068,,1,3,3,1,2,0,0,false,true,true,JavaScript,0,Bump minimatch from 3.0.4 to 3.1.2,open
+2022-11-10T21:00:33Z,25166108799,true,PullRequestEvent,104660922,564495583,,1,1,0,1,1,0,0,false,true,true,HTML,0,This is pull request,open
+2022-11-10T21:00:33Z,25166108840,true,PullRequestEvent,49699333,250046683,,1,114,90,2,3,1,1,false,true,true,JavaScript,1,build(deps-dev): bump electron from 8.2.1 to 18.3.7,open
+2022-11-10T21:00:33Z,25166108864,true,PullRequestEvent,39814207,541153773,,14,627,56,32,4,0,0,false,true,true,,0,[pull] master from gruntwork-io:master,open
+2022-11-10T21:00:33Z,25166108868,true,PullRequestEvent,49699333,236384349,,1,142,125,2,4,0,0,false,true,true,TypeScript,0,Bump electron from 7.1.7 to 18.3.7,open
+2022-11-10T21:00:33Z,25166108873,true,PullRequestEvent,49699333,284417878,,1,22,28,2,2,0,0,false,true,true,Vue,0,Bump electron from 9.1.2 to 18.3.7,open
+2022-11-10T21:00:33Z,25166108875,true,PullRequestEvent,49699333,219225941,,1,64,98,2,37,1,1,false,true,true,Vue,1,chore(deps-dev): bump electron from 8.2.5 to 18.3.7,open
+2022-11-10T21:00:33Z,25166108914,true,PullRequestEvent,49699333,263741156,,1,117,106,2,4,0,0,false,true,true,HTML,0,Bump electron from 8.2.5 to 18.3.7,open
+2022-11-10T21:00:33Z,25166108925,true,PullRequestEvent,49699333,260571385,,1,60,56,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.5 to 18.3.7,open
+2022-11-10T21:00:33Z,25166108932,true,PullRequestEvent,113541762,564003333,true,5,93,92,9,3,2,2,false,true,true,JavaScript,2,navbar finally working!!!,closed
+2022-11-10T21:00:33Z,25166108936,true,PullRequestEvent,22765250,418839999,true,1,6,2,1,0,0,0,false,true,true,Dockerfile,0,smoke test vulnerability,closed
+2022-11-10T21:00:33Z,25166108952,true,PullRequestEvent,43119821,81343335,,1,64,61,2,2,0,0,false,false,false,JavaScript,0,Update build configuration,closed
+2022-11-10T21:00:34Z,25166109142,true,PullRequestEvent,49699333,277901153,true,1,70,86,2,2,0,0,false,true,true,TypeScript,0,Bump electron from 9.0.0 to 15.5.5,closed
+2022-11-10T21:00:34Z,25166109283,true,PullRequestEvent,22119573,152842728,,3,1423,1400,9,167,476,476,true,false,false,TypeScript,476,@bentley/imodeljs-native 3.5.8,open
+2022-11-10T21:00:34Z,25166109324,true,PullRequestEvent,49699333,259834213,,1,103,78,2,2,0,0,false,true,true,Vue,0,Bump electron from 8.2.4 to 18.3.7,open
+2022-11-10T21:00:34Z,25166109327,true,PullRequestEvent,26384195,564030487,,1,0,0,6,1,0,0,false,true,true,JavaScript,0,added controllers & routes dir & files,open
+2022-11-10T21:00:34Z,25166109370,true,PullRequestEvent,49699333,200758595,,1,7,7,1,8,1,1,false,true,true,JavaScript,1,Bump minimatch from 3.0.4 to 3.1.2,open
+2022-11-10T21:00:35Z,25166109386,true,PullRequestEvent,12815730,522965689,,5,24,25,4,0,0,0,false,true,true,TypeScript,0,Dev jose,closed
+2022-11-10T21:00:35Z,25166109410,true,PullRequestEvent,86333515,564482901,true,2,37,1,1,0,0,0,false,true,true,,0,bchmempool approve,closed
+2022-11-10T21:00:35Z,25166109453,true,PullRequestEvent,4528630,192240943,,6,26,292,9,1,8,8,false,false,false,Go,8,Add GitHub Actions,closed
+2022-11-10T21:00:35Z,25166109479,true,PullRequestEvent,49699333,242974306,,1,7728,4166,2,27,0,0,false,true,true,JavaScript,0,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:35Z,25166109488,true,PullRequestEvent,49699333,261662297,true,1,87,58,2,1,1,1,false,true,true,TypeScript,1,Bump electron from 8.2.5 to 15.5.5,closed
+2022-11-10T21:00:35Z,25166109516,true,PullRequestEvent,22765250,391885792,true,1,1,1,1,0,0,0,false,true,true,Dockerfile,0,Pin Docker base image in Dockerfile,closed
+2022-11-10T21:00:35Z,25166109524,true,PullRequestEvent,10090014,34407651,,19,3,4,3,894,12287,12287,false,true,true,Bicep,12287,Update GameDev to use Bicep Module,closed
+2022-11-10T21:00:35Z,25166109546,true,PullRequestEvent,49699333,205500094,,1,82,64,2,4,0,0,false,true,true,JavaScript,0,Bump electron from 7.2.4 to 18.3.7,open
+2022-11-10T21:00:35Z,25166109562,true,PullRequestEvent,49699333,255384371,true,1,95,99,2,22,2,2,false,true,true,HTML,2,Bump electron from 8.2.4 to 15.5.5,closed
+2022-11-10T21:00:36Z,25166109772,true,PullRequestEvent,49699333,260571385,true,1,60,56,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.5 to 15.5.5,closed
+2022-11-10T21:00:36Z,25166109790,true,PullRequestEvent,49699333,255891946,,1,116,11,2,2,0,0,false,true,true,Vue,0,Bump electron from 8.2.2 to 18.3.7,open
+2022-11-10T21:00:36Z,25166109800,true,PullRequestEvent,49699333,284417878,true,1,22,28,2,1,0,0,false,true,true,Vue,0,Bump electron from 9.1.2 to 15.5.5,closed
+2022-11-10T21:00:36Z,25166109803,true,PullRequestEvent,49699333,201657660,,1,56,44,2,3,8,8,false,true,true,TypeScript,8,Bump electron from 7.2.4 to 18.3.7,open
+2022-11-10T21:00:36Z,25166109807,true,PullRequestEvent,49699333,249559317,,1,35,18,1,6,0,0,false,true,true,HTML,0,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:36Z,25166109824,true,PullRequestEvent,49699333,256357716,,1,118,13,2,5,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.3 to 18.3.7,open
+2022-11-10T21:00:36Z,25166109828,true,PullRequestEvent,1423118,2649214,,1,68,131,8,742,12668,12668,false,false,false,C++,12668,simplify handling of special functions in arangosh,open
+2022-11-10T21:00:36Z,25166109837,true,PullRequestEvent,29139614,33833259,,1,1,1,1,2,2,2,false,true,true,JavaScript,2,Update dependency renovate to v34.22.1,open
+2022-11-10T21:00:36Z,25166109872,true,PullRequestEvent,49699333,252263465,,1,6,6,1,10,0,0,false,true,true,TypeScript,0,Bump minimatch from 3.0.4 to 3.1.2 in /functions,open
+2022-11-10T21:00:36Z,25166109924,true,PullRequestEvent,49699333,263741156,true,1,113,102,2,3,0,0,false,true,true,HTML,0,Bump electron from 8.2.5 to 15.5.5,closed
+2022-11-10T21:00:36Z,25166109956,true,PullRequestEvent,14025711,198683574,,1,16,1,1,271,13348,13348,false,false,true,Go,13348,go/store/val: allow year encoding to store value 0,open
+2022-11-10T21:00:36Z,25166109963,true,PullRequestEvent,49699333,236384349,true,1,138,121,2,3,0,0,false,true,true,TypeScript,0,Bump electron from 7.1.7 to 15.5.5,closed
+2022-11-10T21:00:36Z,25166109967,true,PullRequestEvent,49699333,250046683,true,1,114,90,2,2,1,1,false,true,true,JavaScript,1,build(deps-dev): bump electron from 8.2.1 to 15.5.5,closed
+2022-11-10T21:00:36Z,25166110005,true,PullRequestEvent,114950635,549723064,,2,47,0,2,0,0,0,false,true,true,JavaScript,0,Aula 6 3,closed
+2022-11-10T21:00:37Z,25166110057,true,PullRequestEvent,49699333,262771055,,1,82,61,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.5 to 18.3.7,open
+2022-11-10T21:00:37Z,25166110058,true,PullRequestEvent,49699333,276434168,,1,116,119,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.1.1 to 18.3.7,open
+2022-11-10T21:00:37Z,25166110085,true,PullRequestEvent,49699333,261798576,true,1,261,9,2,3,0,0,false,true,true,Vue,0,Bump electron from 6.1.11 to 15.5.5,closed
+2022-11-10T21:00:37Z,25166110091,true,PullRequestEvent,49699333,280224732,,1,104,79,2,2,0,0,false,true,true,Vue,0,Bump electron from 9.0.4 to 18.3.7,open
+2022-11-10T21:00:37Z,25166110137,true,PullRequestEvent,49699333,256470734,true,1,149,100,2,3,1,1,false,true,true,JavaScript,1,Bump electron from 8.1.1 to 15.5.5,closed
+2022-11-10T21:00:37Z,25166110164,true,PullRequestEvent,22765250,391885951,true,1,1,1,1,0,0,0,false,true,true,Dockerfile,0,Pin Docker base image in Dockerfile,closed
+2022-11-10T21:00:37Z,25166110187,true,PullRequestEvent,49699333,259834213,true,1,103,78,2,1,0,0,false,true,true,Vue,0,Bump electron from 8.2.4 to 15.5.5,closed
+2022-11-10T21:00:37Z,25166110195,true,PullRequestEvent,49699333,262168774,,1,81,69,2,4,0,0,false,true,true,TypeScript,0,Bump electron from 8.2.5 to 18.3.7 in /client/email-range,open
+2022-11-10T21:00:37Z,25166110196,true,PullRequestEvent,49699333,244161399,,1,1315,142,3,18,0,0,false,true,true,JavaScript,0,Bump electron from 8.0.2 to 18.3.7,open
+2022-11-10T21:00:37Z,25166110198,true,PullRequestEvent,38507436,563080118,,1,130,0,2,1,0,0,false,true,true,MATLAB,0,lab12 Ruochen Kong,open
+2022-11-10T21:00:37Z,25166110267,true,PullRequestEvent,49699333,219225941,true,1,64,98,2,36,1,1,false,true,true,Vue,1,chore(deps-dev): bump electron from 8.2.5 to 15.5.5,closed
+2022-11-10T21:00:37Z,25166110313,true,PullRequestEvent,30724972,334182102,,3,890,0,13,1,22,22,true,true,true,Python,22,databricks container,closed
+2022-11-10T21:00:38Z,25166110596,true,PullRequestEvent,49699333,205500094,true,1,82,64,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 7.2.4 to 15.5.5,closed
+2022-11-10T21:00:38Z,25166110600,true,PullRequestEvent,49699333,134616356,,1,117,117,2,17,10,10,false,true,true,Rust,10,Bump vue from 3.2.40 to 3.2.44 in /ui,open
+2022-11-10T21:00:38Z,25166110639,true,PullRequestEvent,49699333,204435736,,1,3,3,1,10,3,3,false,true,true,TypeScript,3,Bump minimatch from 3.0.4 to 3.1.2,open
+2022-11-10T21:00:38Z,25166110643,true,PullRequestEvent,49699333,197508980,,1,72,88,2,5,1,1,false,true,true,JavaScript,1,Bump electron from 7.2.4 to 18.3.7,open
+2022-11-10T21:00:38Z,25166110648,true,PullRequestEvent,49699333,248328053,,1,47,35,2,21,0,0,false,true,true,CSS,0,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:38Z,25166110666,true,PullRequestEvent,49699333,141926903,,1,141,137,2,16,0,0,false,true,true,JavaScript,0,Bump socket.io-parser and socket.io,open
+2022-11-10T21:00:38Z,25166110674,true,PullRequestEvent,110996424,561924853,,1,177,72,8,1,0,0,false,true,true,JavaScript,0,added styling to landingPage and forms,open
+2022-11-10T21:00:38Z,25166110691,true,PullRequestEvent,22765250,391886104,true,1,1,1,1,0,0,0,false,true,true,Dockerfile,0,Pin Docker base image in Dockerfile,closed
+2022-11-10T21:00:38Z,25166110718,true,PullRequestEvent,49699333,255891946,true,1,116,11,2,1,0,0,false,true,true,Vue,0,Bump electron from 8.2.2 to 15.5.5,closed
+2022-11-10T21:00:39Z,25166110778,true,PullRequestEvent,49699333,242468528,,1,123,63,2,15,0,0,false,true,true,JavaScript,0,build(deps): bump loader-utils from 1.1.0 to 1.4.1 in /Code,open
+2022-11-10T21:00:39Z,25166110833,true,PullRequestEvent,49699333,256357716,true,1,118,13,2,4,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:00:39Z,25166110839,true,PullRequestEvent,49699333,289784032,,1,23,24,2,3,0,0,false,true,true,TypeScript,0,Bump electron from 8.4.1 to 18.3.7,open
+2022-11-10T21:00:39Z,25166110924,true,PullRequestEvent,49699333,224063584,,1,112,76,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.9 to 18.3.7,open
+2022-11-10T21:00:39Z,25166110957,true,PullRequestEvent,49699333,201657660,true,1,56,44,2,2,8,8,false,true,true,TypeScript,8,Bump electron from 7.2.4 to 15.5.5,closed
+2022-11-10T21:00:39Z,25166110967,true,PullRequestEvent,49699333,262771055,true,1,82,61,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.5 to 15.5.5,closed
+2022-11-10T21:00:39Z,25166110986,true,PullRequestEvent,74965932,559228111,,5,163,25,20,0,1,1,false,true,true,Ruby,1,User reviews,closed
+2022-11-10T21:00:39Z,25166111010,true,PullRequestEvent,49699333,276434168,true,1,112,115,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 8.1.1 to 15.5.5,closed
+2022-11-10T21:00:39Z,25166111000,true,PullRequestEvent,49699333,280224732,true,1,104,79,2,1,0,0,false,true,true,Vue,0,Bump electron from 9.0.4 to 15.5.5,closed
+2022-11-10T21:00:39Z,25166111024,true,PullRequestEvent,49699333,257136440,,1,110,99,2,4,0,0,false,true,true,TypeScript,0,Bump electron from 8.2.3 to 18.3.7,open
+2022-11-10T21:00:40Z,25166111038,true,PullRequestEvent,49699333,257328447,,1,81,60,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.3 to 18.3.7,open
+2022-11-10T21:00:40Z,25166111127,true,PullRequestEvent,68646979,542421503,,2,139,21,9,0,0,0,false,true,true,C#,0,Updated Joel changes,closed
+2022-11-10T21:00:40Z,25166111135,true,PullRequestEvent,49699333,261706492,,1,82,61,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.5 to 18.3.7,open
+2022-11-10T21:00:40Z,25166111152,true,PullRequestEvent,49699333,61057080,,1,7,7,1,7,0,0,false,false,false,TypeScript,0,Bump minimatch from 3.0.4 to 3.1.2,open
+2022-11-10T21:00:40Z,25166111256,true,PullRequestEvent,49699333,262523525,,1,60,56,2,2,1,1,false,true,true,JavaScript,1,Bump electron from 8.2.5 to 18.3.7,open
+2022-11-10T21:00:40Z,25166111270,true,PullRequestEvent,49699333,54528267,,1,8,8,2,1,18,18,false,false,false,JavaScript,18,build(deps): bump aws-sdk from 2.1251.0 to 2.1252.0,open
+2022-11-10T21:00:40Z,25166111273,true,PullRequestEvent,22765250,391886240,true,1,1,1,1,0,0,0,false,true,true,Dockerfile,0,Pin Docker base image in Dockerfile,closed
+2022-11-10T21:00:40Z,25166111330,true,PullRequestEvent,49699333,244161399,true,1,1306,138,3,17,0,0,false,true,true,JavaScript,0,Bump electron from 8.0.2 to 15.5.5,closed
+2022-11-10T21:00:40Z,25166111343,true,PullRequestEvent,49699333,251526007,,1,110,99,2,6,0,0,false,true,true,TypeScript,0,Bump electron from 8.2.0 to 18.3.7 in /hardwareConfigurator,open
+2022-11-10T21:00:41Z,25166111398,true,PullRequestEvent,8051086,194021185,,1,2,0,1,1,0,0,false,false,true,,0,[ci skip] [cf admin skip] ***NO_CI*** adding bot automerge,closed
+2022-11-10T21:00:41Z,25166111463,true,PullRequestEvent,49699333,197508980,true,1,72,88,2,4,1,1,false,true,true,JavaScript,1,Bump electron from 7.2.4 to 15.5.5,closed
+2022-11-10T21:00:41Z,25166111491,true,PullRequestEvent,49699333,246664533,,1,7,7,1,8,0,0,false,true,true,TypeScript,0,Bump minimatch from 3.0.4 to 3.1.2,open
+2022-11-10T21:00:41Z,25166111575,true,PullRequestEvent,49699333,141926903,true,1,141,137,2,15,0,0,false,true,true,JavaScript,0,Bump socket.io-parser and socket.io,closed
+2022-11-10T21:00:41Z,25166111603,true,PullRequestEvent,86479586,162763030,,1,2,0,1,353,7,7,false,true,true,TypeScript,7,fix: updating Tasks - All detective-employees,closed
+2022-11-10T21:00:41Z,25166111624,true,PullRequestEvent,49699333,262168774,true,1,81,69,2,3,0,0,false,true,true,TypeScript,0,Bump electron from 8.2.5 to 15.5.5 in /client/email-range,closed
+2022-11-10T21:00:41Z,25166111643,true,PullRequestEvent,49699333,289784032,true,1,23,24,2,2,0,0,false,true,true,TypeScript,0,Bump electron from 8.4.1 to 15.5.5,closed
+2022-11-10T21:00:42Z,25166111737,true,PullRequestEvent,93133199,421007481,false,1,149,148,10,0,1,1,false,true,true,R,1,Revise - 11 October 2022,closed
+2022-11-10T21:00:42Z,25166111741,true,PullRequestEvent,68843370,563739695,,1,8,5,5,2,0,0,false,true,true,C#,0,no collisions with hologram,open
+2022-11-10T21:00:42Z,25166111753,true,PullRequestEvent,329012,28927287,,33,637,190,17,63,2,2,false,true,true,Ruby,2,Feat/guard for existing media,open
+2022-11-10T21:00:42Z,25166111755,true,PullRequestEvent,5673677,50603846,,4,54,37,2,364,19836,19836,false,true,true,JavaScript,19836,"fix: Throwing error in Cloud Code Triggers `afterLogin`, `afterLogout` crashes server",closed
+2022-11-10T21:00:42Z,25166111756,true,PullRequestEvent,49699333,224063584,true,1,112,76,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.9 to 15.5.5,closed
+2022-11-10T21:00:42Z,25166111790,true,PullRequestEvent,49699333,235337183,,1,166,119,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.9 to 18.3.7,open
+2022-11-10T21:00:42Z,25166111793,true,PullRequestEvent,43144390,253151456,,1,41,0,1,3,34,34,false,true,true,JavaScript,34,Add CodeQL workflow for GitHub code scanning,open
+2022-11-10T21:00:42Z,25166111801,true,PullRequestEvent,22765250,391886409,,1,1,1,1,0,0,0,false,true,true,Dockerfile,0,Pin Docker base image in Dockerfile,closed
+2022-11-10T21:00:42Z,25166111804,true,PullRequestEvent,106169198,563836731,,1,5,3,1,0,0,0,false,true,true,JavaScript,0,add componentDidMount,closed
+2022-11-10T21:00:42Z,25166111807,true,PullRequestEvent,49699333,210511489,,1,75,57,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 7.2.4 to 18.3.7,open
+2022-11-10T21:00:42Z,25166111865,true,PullRequestEvent,38795484,267659508,,23,876,572,43,23,84,84,false,true,true,Julia,84,Implace param updates,closed
+2022-11-10T21:00:42Z,25166111909,true,PullRequestEvent,49699333,234163038,,1,1818,59,3,3,0,0,false,true,true,TypeScript,0,Bump electron from 7.1.8 to 18.3.7,open
+2022-11-10T21:00:42Z,25166111920,true,PullRequestEvent,41898282,509387192,,2,24123,20278,6,0,0,0,false,true,true,,0,Fork Sync: Update from parent repository,closed
+2022-11-10T21:00:42Z,25166111927,true,PullRequestEvent,49699333,257136440,true,1,106,95,2,3,0,0,false,true,true,TypeScript,0,Bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:00:42Z,25166111957,true,PullRequestEvent,54735589,545045117,,4,968,834,15,2,0,0,false,true,true,Kotlin,0,Frontend,open
+2022-11-10T21:00:42Z,25166111967,true,PullRequestEvent,49699333,257328447,true,1,81,60,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:00:42Z,25166112000,true,PullRequestEvent,49699333,342180777,,1,7,7,1,22,0,0,false,true,true,JavaScript,0,Bump minimatch from 3.0.4 to 3.1.2 in /poster,open
+2022-11-10T21:00:43Z,25166112061,true,PullRequestEvent,49699333,261706492,true,1,82,61,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.5 to 15.5.5,closed
+2022-11-10T21:00:43Z,25166112103,true,PullRequestEvent,49699333,241539566,,1,167,133,3,18,1,1,false,false,true,TypeScript,1,Bump electron from 8.1.1 to 18.3.7,open
+2022-11-10T21:00:43Z,25166112118,true,PullRequestEvent,40467112,436021141,,3,11,5,4,8,4,4,false,true,true,TypeScript,4,Fix import and release 0.2.9,open
+2022-11-10T21:00:43Z,25166112128,true,PullRequestEvent,49699333,134616356,true,1,117,117,2,16,10,10,false,true,true,Rust,10,Bump vue from 3.2.40 to 3.2.43 in /ui,closed
+2022-11-10T21:00:43Z,25166112184,true,PullRequestEvent,49699333,262523525,true,1,60,56,2,1,1,1,false,true,true,JavaScript,1,Bump electron from 8.2.5 to 15.5.5,closed
+2022-11-10T21:00:43Z,25166112192,true,PullRequestEvent,49699333,211845715,,1,67,50,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 7.2.4 to 18.3.7,open
+2022-11-10T21:00:43Z,25166112274,true,PullRequestEvent,86625568,563442164,,1,128,23,10,1,0,0,false,true,true,TypeScript,0,delete and loading,open
+2022-11-10T21:00:43Z,25166112275,true,PullRequestEvent,49699333,258363890,,1,74,53,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.2 to 18.3.7,open
+2022-11-10T21:00:43Z,25166112284,true,PullRequestEvent,49699333,263653956,,1,110,99,2,4,0,0,false,true,true,TypeScript,0,Bump electron from 8.2.5 to 18.3.7 in /RG-SPA,open
+2022-11-10T21:00:43Z,25166112287,true,PullRequestEvent,116831912,558493846,,2,1,100,1,1,0,0,false,true,true,HTML,0,Corecciones,open
+2022-11-10T21:00:43Z,25166112315,true,PullRequestEvent,49699333,251526007,true,1,106,95,2,5,0,0,false,true,true,TypeScript,0,Bump electron from 8.2.0 to 15.5.5 in /hardwareConfigurator,closed
+2022-11-10T21:00:44Z,25166112531,true,PullRequestEvent,49699333,233622159,,1,107,79,2,5,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.9 to 18.3.7 in /electron-updater-test,open
+2022-11-10T21:00:44Z,25166112546,true,PullRequestEvent,49699333,235337183,true,1,162,115,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.9 to 15.5.5,closed
+2022-11-10T21:00:44Z,25166112548,true,PullRequestEvent,32477385,532911678,,9,159,69,15,1,0,0,false,true,true,TypeScript,0,Feature/code clean up and refactors,closed
+2022-11-10T21:00:44Z,25166112549,true,PullRequestEvent,49699333,249536356,,1,137,55,2,20,1,1,false,true,true,PHP,1,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:44Z,25166112562,true,PullRequestEvent,5749229,29078997,true,2,12,6,1,8588,16615,16615,true,false,true,C#,16615,Unskip error list tests,closed
+2022-11-10T21:00:44Z,25166112607,true,PullRequestEvent,5015218,526389942,,1,4,0,2,2,1,1,false,true,true,Jinja,1,Install 1password-operator,closed
+2022-11-10T21:00:44Z,25166112648,true,PullRequestEvent,49699333,230002629,,1,226,137,3,4,7,7,false,true,true,JavaScript,7,Bump electron from 7.1.7 to 18.3.7,open
+2022-11-10T21:00:44Z,25166112671,true,PullRequestEvent,7250151,81434609,,1,64,61,2,3,0,0,false,false,false,JavaScript,0,Update build configuration,open
+2022-11-10T21:00:45Z,25166112720,true,PullRequestEvent,21087696,279842328,,1,3,2,1,53,52,52,true,true,true,C++,52,Incremented 2023-SWITCHOVER timestamp,closed
+2022-11-10T21:00:45Z,25166112765,true,PullRequestEvent,49699333,210511489,true,1,75,57,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 7.2.4 to 15.5.5,closed
+2022-11-10T21:00:45Z,25166112776,true,PullRequestEvent,49699333,267953998,,1,54,55,2,3,0,0,false,true,true,TypeScript,0,Bump electron from 9.0.0 to 18.3.7,open
+2022-11-10T21:00:45Z,25166112818,true,PullRequestEvent,49699333,234163038,true,1,1843,59,3,2,0,0,false,true,true,TypeScript,0,Bump electron from 7.1.8 to 15.5.5,closed
+2022-11-10T21:00:45Z,25166112925,true,PullRequestEvent,49699333,257788927,,1,75,67,2,5,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.2 to 18.3.7,open
+2022-11-10T21:00:45Z,25166112950,true,PullRequestEvent,39814207,378476830,,1,12,13,2,1,1,1,false,true,true,CSS,1,[pull] master from stellar:master,open
+2022-11-10T21:00:45Z,25166113007,true,PullRequestEvent,49699333,272516057,,1,15,274,1,9,0,0,false,true,true,,0,Bump minimatch from 3.0.4 to 3.1.2,open
+2022-11-10T21:00:45Z,25166113008,true,PullRequestEvent,1991584,236808824,,1,18,155,2,5,0,0,false,true,true,JavaScript,0,"Revert \"Bump electron from 13.6.6 to 18.3.7 in /EvalMe-Desktop\"",open
+2022-11-10T21:00:46Z,25166113054,true,PullRequestEvent,49699333,241539566,true,1,167,133,3,17,1,1,false,false,true,TypeScript,1,Bump electron from 8.1.1 to 15.5.5,closed
+2022-11-10T21:00:46Z,25166113082,true,PullRequestEvent,49699333,211845715,true,1,67,50,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 7.2.4 to 15.5.5,closed
+2022-11-10T21:00:46Z,25166113085,true,PullRequestEvent,973268,115345426,,3,110,47,8,9,289,289,true,false,false,Python,289,Implement the lowest order quadrilateral Nedelec element,closed
+2022-11-10T21:00:46Z,25166113148,true,PullRequestEvent,49699333,263653956,true,1,106,95,2,3,0,0,false,true,true,TypeScript,0,Bump electron from 8.2.5 to 15.5.5 in /RG-SPA,closed
+2022-11-10T21:00:46Z,25166113166,true,PullRequestEvent,49699333,271892987,,1,3,3,1,12,14,14,false,true,true,Rust,14,Bump minimatch from 3.0.4 to 3.1.2 in /www,open
+2022-11-10T21:00:46Z,25166113190,true,PullRequestEvent,49699333,258363890,true,1,74,53,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.2 to 15.5.5,closed
+2022-11-10T21:00:46Z,25166113328,true,PullRequestEvent,49699333,274274674,,1,90,65,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 9.0.5 to 18.3.7,open
+2022-11-10T21:00:46Z,25166113355,true,PullRequestEvent,49699333,239369963,,1,79,67,2,2,1,1,false,true,true,,1,Bump electron from 7.1.4 to 18.3.7,open
+2022-11-10T21:00:46Z,25166113358,true,PullRequestEvent,46766346,564458517,,1,5,0,5,1,0,0,false,true,true,,0,Added homework,open
+2022-11-10T21:00:46Z,25166113360,true,PullRequestEvent,49699333,230099353,,1,139,90,2,4,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.8 to 18.3.7,open
+2022-11-10T21:00:46Z,25166113363,true,PullRequestEvent,49699333,187826766,,1,3,12,1,6,0,0,false,true,true,JavaScript,0,Bump minimatch from 3.0.4 to 3.1.2 in /miniChat,open
+2022-11-10T21:00:47Z,25166113370,true,PullRequestEvent,49699333,233622159,true,1,107,79,2,4,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.9 to 15.5.5 in /electron-updater-test,closed
+2022-11-10T21:00:47Z,25166113391,true,PullRequestEvent,49699333,234994763,,1,76,62,2,5,0,0,false,true,true,,0,Bump electron from 7.1.9 to 18.3.7,open
+2022-11-10T21:00:47Z,25166113429,true,PullRequestEvent,49699333,263968757,true,1,23,29,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 8.5.2 to 15.5.5,closed
+2022-11-10T21:00:47Z,25166113436,true,PullRequestEvent,49699333,245807852,,1,24,24,1,12,0,0,false,true,true,Pug,0,Bump loader-utils from 1.4.0 to 1.4.1,open
+2022-11-10T21:00:47Z,25166113461,true,PullRequestEvent,49699333,214202110,true,1,71,53,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 7.2.4 to 15.5.5,closed
+2022-11-10T21:00:47Z,25166113512,true,PullRequestEvent,49699333,256315525,,1,79,58,2,2,1,1,false,true,true,JavaScript,1,Bump electron from 8.2.3 to 18.3.7,open
+2022-11-10T21:00:47Z,25166113556,true,PullRequestEvent,90357221,551092774,,2,2,1,2,0,0,0,false,true,true,JavaScript,0,nodo3 tarea,closed
+2022-11-10T21:00:47Z,25166113611,true,PullRequestEvent,49699333,230002629,true,1,226,137,3,3,7,7,false,true,true,JavaScript,7,Bump electron from 7.1.7 to 15.5.5,closed
+2022-11-10T21:00:48Z,25166113693,true,PullRequestEvent,49699333,267953998,true,1,54,55,2,2,0,0,false,true,true,TypeScript,0,Bump electron from 9.0.0 to 15.5.5,closed
+2022-11-10T21:00:48Z,25166113698,true,PullRequestEvent,547220,438386493,,1,2,2,4,1,26,26,false,false,false,Go,26,Refactor GitHub Actions,open
+2022-11-10T21:00:48Z,25166113705,true,PullRequestEvent,43383835,305469471,true,1,6,6,2,3,9,9,false,true,true,Go,9,[auto-bump] dependency by coffeegoddd,closed
+2022-11-10T21:00:48Z,25166113726,true,PullRequestEvent,49699333,258510758,,1,74,56,2,3,8,8,false,true,true,TypeScript,8,Bump electron from 8.2.3 to 18.3.7,open
+2022-11-10T21:00:48Z,25166113749,true,PullRequestEvent,49699333,258835239,,1,170,25,2,52,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.9 to 18.3.7 in /archive/vueandvux,open
+2022-11-10T21:00:48Z,25166113761,true,PullRequestEvent,68843370,563739695,,1,8,5,5,1,0,0,false,true,true,C#,0,no collisions with hologram,closed
+2022-11-10T21:00:48Z,25166113843,true,PullRequestEvent,49699333,257788927,true,1,75,67,2,4,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.2 to 15.5.5,closed
+2022-11-10T21:00:48Z,25166113858,true,PullRequestEvent,204245,272722759,,1,1,1,1,0,0,0,false,true,true,HTML,0,patch from jmp,closed
+2022-11-10T21:00:48Z,25166113859,true,PullRequestEvent,49699333,281449365,,1,92,65,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.1.1 to 18.3.7,open
+2022-11-10T21:00:48Z,25166113863,true,PullRequestEvent,49699333,67626022,,1,1,1,1,9,2,2,false,true,true,Python,2,Bump spacy from 0.101.0 to 3.4.3,open
+2022-11-10T21:00:48Z,25166113874,true,PullRequestEvent,49699333,124368395,,1,28,25,1,49,3,3,false,true,true,JavaScript,3,Bump loader-utils from 1.1.0 to 1.4.1 in /js,open
+2022-11-10T21:00:48Z,25166113899,true,PullRequestEvent,49699333,259941388,,1,124,11,2,4,0,0,false,true,true,HTML,0,Bump electron from 8.2.3 to 18.3.7,open
+2022-11-10T21:00:49Z,25166114057,true,PullRequestEvent,34585460,113909603,,1,8,0,1,24,37,37,false,false,false,JavaScript,37,pkg-config 1.1.9,open
+2022-11-10T21:00:49Z,25166114091,true,PullRequestEvent,49699333,245499535,,1,97,63,2,9,1,1,false,true,true,TypeScript,1,Bump electron from 8.2.0 to 18.3.7 in /E-gzamin-frontend,open
+2022-11-10T21:00:49Z,25166114136,true,PullRequestEvent,49699333,274274674,true,1,90,65,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 9.0.5 to 15.5.5,closed
+2022-11-10T21:00:49Z,25166114169,true,PullRequestEvent,49699333,253558725,,1,91,64,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.2 to 18.3.7,open
+2022-11-10T21:00:49Z,25166114182,true,PullRequestEvent,26384195,564030487,,1,0,0,6,0,0,0,false,true,true,JavaScript,0,added controllers & routes dir & files,closed
+2022-11-10T21:00:49Z,25166114194,true,PullRequestEvent,49699333,258278129,,1,82,61,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.3 to 18.3.7,open
+2022-11-10T21:00:49Z,25166114214,true,PullRequestEvent,49699333,239369963,true,1,79,67,2,1,1,1,false,true,true,,1,Bump electron from 7.1.4 to 15.5.5,closed
+2022-11-10T21:00:49Z,25166114215,true,PullRequestEvent,49699333,230099353,true,1,139,90,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.8 to 15.5.5,closed
+2022-11-10T21:00:49Z,25166114252,true,PullRequestEvent,1036769,31288958,,1,9,9,2,1121,26136,26136,true,false,false,Go,26136,Backport of clarify that init recovery options are only available for auto unseal into release/1.12.x,closed
+2022-11-10T21:00:50Z,25166114319,true,PullRequestEvent,49699333,269252559,,1,60,70,2,3,4,4,false,true,true,TypeScript,4,Bump electron from 9.0.0 to 18.3.7,open
+2022-11-10T21:00:50Z,25166114324,true,PullRequestEvent,49699333,234994763,true,1,76,62,2,4,0,0,false,true,true,,0,Bump electron from 7.1.9 to 15.5.5,closed
+2022-11-10T21:00:50Z,25166114364,true,PullRequestEvent,66015116,425065253,,1,5,2,2,3,2,2,false,false,false,JavaScript,2,Add webrick to make running in dev mode on *nix simpler,closed
+2022-11-10T21:00:50Z,25166114369,true,PullRequestEvent,49699333,262852814,,1,82,61,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.5 to 18.3.7 in /client,open
+2022-11-10T21:00:50Z,25166114400,true,PullRequestEvent,49699333,175709177,,1,6,6,1,5,0,0,false,false,true,JavaScript,0,Bump snyk from 1.1044.0 to 1.1057.0,open
+2022-11-10T21:00:50Z,25166114403,true,PullRequestEvent,49699333,342200096,,1,7,9,1,18,0,0,false,true,true,PHP,0,Bump minimatch from 3.0.4 to 3.1.2 in /demo,open
+2022-11-10T21:00:50Z,25166114407,true,PullRequestEvent,49699333,340215505,,1,591,222,2,22,0,0,false,true,true,,0,Bump minimatch and mocha,open
+2022-11-10T21:00:50Z,25166114590,true,PullRequestEvent,49699333,258510758,true,1,74,56,2,2,8,8,false,true,true,TypeScript,8,Bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:00:51Z,25166114648,true,PullRequestEvent,49699333,256315525,true,1,79,58,2,1,1,1,false,true,true,JavaScript,1,Bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:00:51Z,25166114658,true,PullRequestEvent,37914211,492969150,,3,65,39,22,3,0,0,false,true,true,TypeScript,0,Updates/coe,open
+2022-11-10T21:00:51Z,25166114718,true,PullRequestEvent,98332157,564036803,,1,1,1,1,1,0,0,false,true,true,,0,feat: add database info,open
+2022-11-10T21:00:51Z,25166114722,true,PullRequestEvent,49699333,281449365,true,1,92,65,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 8.1.1 to 15.5.5,closed
+2022-11-10T21:00:51Z,25166114745,true,PullRequestEvent,49699333,259941388,true,1,124,11,2,3,0,0,false,true,true,HTML,0,Bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:00:51Z,25166114796,true,PullRequestEvent,26611383,9248594,,1,1,0,1,42,33,33,true,true,true,HTML,33,Update contributors.xml,open
+2022-11-10T21:00:51Z,25166114816,true,PullRequestEvent,49699333,245869720,,1,24,13,1,35,4,4,false,true,true,TypeScript,4,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:51Z,25166114819,true,PullRequestEvent,49699333,67626022,true,1,1,1,1,8,2,2,false,true,true,Python,2,Bump spacy from 0.101.0 to 3.4.2,closed
+2022-11-10T21:00:51Z,25166114820,true,PullRequestEvent,6618166,484576373,,1,4,6,2,29,112,112,true,true,true,Python,112,CI: fix tests for pandas nightly,open
+2022-11-10T21:00:51Z,25166114864,true,PullRequestEvent,41898282,418848852,,1,7,0,1,2,2,2,false,true,true,Roff,2,[Witness] wolsey-bank-alfred: Rekor@3743790,closed
+2022-11-10T21:00:51Z,25166114893,true,PullRequestEvent,17733533,127697322,,3,10,10,20,101,314,314,false,true,true,Smarty,314,Remove rc from rancher-webhook 0.3.0-rc5,closed
+2022-11-10T21:00:51Z,25166114923,true,PullRequestEvent,49699333,258835239,true,1,170,25,2,51,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.9 to 15.5.5 in /archive/vueandvux,closed
+2022-11-10T21:00:51Z,25166114924,true,PullRequestEvent,49699333,270933310,,1,95,68,2,5,0,0,false,true,true,C++,0,Bump electron from 9.0.0 to 18.3.7 in /electeon9.0.0,open
+2022-11-10T21:00:51Z,25166114938,true,PullRequestEvent,49699333,266797528,,1,99,102,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.5 to 18.3.7,open
+2022-11-10T21:00:51Z,25166114943,true,PullRequestEvent,1991584,236808824,,1,18,155,2,4,0,0,false,true,true,JavaScript,0,"Revert \"Bump electron from 13.6.6 to 18.3.7 in /EvalMe-Desktop\"",closed
+2022-11-10T21:00:51Z,25166114950,true,PullRequestEvent,43144390,515174418,,1,41,0,1,7,1,1,false,true,true,HTML,1,Add CodeQL workflow for GitHub code scanning,open
+2022-11-10T21:00:51Z,25166114962,true,PullRequestEvent,49699333,215729180,,1,22,12,1,93,0,0,false,true,true,JavaScript,0,Bump loader-utils from 1.1.0 to 1.4.1 in /07-Using-a-Third-Pary-Component/Default-Indecision-App-TEMPLATE,open
+2022-11-10T21:00:51Z,25166114973,true,PullRequestEvent,49699333,251467288,,1,99,102,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.0 to 18.3.7,open
+2022-11-10T21:00:52Z,25166115007,true,PullRequestEvent,18153834,560016767,,1,3,0,1,1,0,0,false,true,true,Shell,0,Add google chrome,open
+2022-11-10T21:00:52Z,25166115067,true,PullRequestEvent,37199044,548123551,,2,2527,40,8,2,0,0,false,true,true,TypeScript,0,Finish Chapter06 #7,open
+2022-11-10T21:00:52Z,25166115082,true,PullRequestEvent,49699333,219971747,,1,181,22,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.9 to 18.3.7,open
+2022-11-10T21:00:52Z,25166115098,true,PullRequestEvent,49699333,253558725,true,1,91,64,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.2 to 15.5.5,closed
+2022-11-10T21:00:52Z,25166115116,true,PullRequestEvent,49699333,248571956,,1,28,13,1,39,0,0,false,true,true,HTML,0,Bump loader-utils from 1.1.0 to 1.4.1 in /themes/syna,open
+2022-11-10T21:00:52Z,25166115124,true,PullRequestEvent,49699333,245499535,true,1,97,63,2,8,1,1,false,true,true,TypeScript,1,Bump electron from 8.2.0 to 15.5.5 in /E-gzamin-frontend,closed
+2022-11-10T21:00:52Z,25166115143,true,PullRequestEvent,29329914,556886864,,1,1,0,1,1,1,1,false,true,true,,1,Added lost ratings_number column,open
+2022-11-10T21:00:52Z,25166115161,true,PullRequestEvent,18308708,193933958,,1,687,568,39,43,5,5,true,true,true,C++,5,Refactor Expr classes API (part 12),closed
+2022-11-10T21:00:52Z,25166115171,true,PullRequestEvent,49699333,251007949,,1,71,53,2,5,2,2,false,true,true,JavaScript,2,build(deps-dev): bump electron from 7.2.4 to 18.3.7,open
+2022-11-10T21:00:53Z,25166115272,true,PullRequestEvent,11031519,6010939,,1,31,7,6,180,742,742,false,true,true,Java,742,[#1479] Add option to automatically open preset dialog when creating a new component,open
+2022-11-10T21:00:53Z,25166115301,true,PullRequestEvent,49699333,262852814,true,1,82,61,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.5 to 15.5.5 in /client,closed
+2022-11-10T21:00:53Z,25166115312,true,PullRequestEvent,49699333,269252559,true,1,60,70,2,2,4,4,false,true,true,TypeScript,4,Bump electron from 9.0.0 to 15.5.5,closed
+2022-11-10T21:00:53Z,25166115367,true,PullRequestEvent,49699333,155092943,,1,7,7,1,4,0,0,false,true,true,JavaScript,0,Bump minimatch from 3.0.4 to 3.1.2,open
+2022-11-10T21:00:53Z,25166115372,true,PullRequestEvent,49699333,234172452,,1,106,63,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.9 to 18.3.7,open
+2022-11-10T21:00:53Z,25166115375,true,PullRequestEvent,101127277,136234321,,7,7,7,5,84,41,41,false,true,true,Python,41,Update dependencies,open
+2022-11-10T21:00:53Z,25166115402,true,PullRequestEvent,79373863,563500046,,1,94,7,1,0,0,0,false,true,true,Python,0,Update diffusion_model.py,closed
+2022-11-10T21:00:53Z,25166115403,true,PullRequestEvent,23427957,326784090,,1,1,1,1,2,3,3,false,false,false,Dart,3,[Scheduled] `dart pub upgrade && dart pub upgrade --major-versions`,open
+2022-11-10T21:00:53Z,25166115440,true,PullRequestEvent,2960590,392700037,,1,174,1,2,9,0,0,false,true,true,Mustache,0,fix readme,open
+2022-11-10T21:00:53Z,25166115472,true,PullRequestEvent,49699333,175709177,true,1,6,6,1,4,0,0,false,false,true,JavaScript,0,Bump snyk from 1.1044.0 to 1.1056.0,closed
+2022-11-10T21:00:54Z,25166115636,true,PullRequestEvent,108020116,530716318,true,3,473,11,6,2,0,0,false,true,true,JavaScript,0,Develop,closed
+2022-11-10T21:00:54Z,25166115722,true,PullRequestEvent,28690905,265063809,,19,6957,24001,43,11,54,54,false,true,true,C++,54,Path tracker overhaul,open
+2022-11-10T21:00:54Z,25166115738,true,PullRequestEvent,1465819,109451092,,1,6,16,2,335,3426,3426,true,false,false,Go,3426,fix: lifecycle action tracking,open
+2022-11-10T21:00:54Z,25166115837,true,PullRequestEvent,45451118,561968800,,5,588,181,27,1,3,3,false,true,true,JavaScript,3,update develop from main,open
+2022-11-10T21:00:54Z,25166115846,true,PullRequestEvent,49699333,260605093,,1,61,36,2,3,0,0,false,false,false,JavaScript,0,Bump electron from 7.2.4 to 18.3.7,open
+2022-11-10T21:00:54Z,25166115847,true,PullRequestEvent,49699333,266797528,true,1,95,98,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.5 to 15.5.5,closed
+2022-11-10T21:00:54Z,25166115849,true,PullRequestEvent,29139614,139507482,,1,1,1,1,3,2,2,false,true,true,Svelte,2,chore(deps): update dependency svelte-loader to v3.1.4,closed
+2022-11-10T21:00:54Z,25166115880,true,PullRequestEvent,49699333,251467288,true,1,95,98,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.0 to 15.5.5,closed
+2022-11-10T21:00:55Z,25166115896,true,PullRequestEvent,49699333,282885783,,1,3,3,1,11,0,0,false,true,true,JavaScript,0,Bump minimatch from 3.0.4 to 3.1.2,open
+2022-11-10T21:00:55Z,25166115926,true,PullRequestEvent,49699333,270933310,true,1,95,68,2,4,0,0,false,true,true,C++,0,Bump electron from 9.0.0 to 15.5.5 in /electeon9.0.0,closed
+2022-11-10T21:00:55Z,25166115934,true,PullRequestEvent,49699333,270580869,,1,57,39,2,3,0,0,false,true,true,TypeScript,0,Bump electron from 7.2.4 to 18.3.7,open
+2022-11-10T21:00:55Z,25166115968,true,PullRequestEvent,114288,514843155,,1,1,1,1,0,1,1,true,false,false,Shell,1,Bump cloudflare/pint from 0.30.2 to 0.31.1,closed
+2022-11-10T21:00:55Z,25166116015,true,PullRequestEvent,49699333,341627917,,1,7,7,1,15,0,0,false,true,true,TypeScript,0,Bump minimatch from 3.0.4 to 3.1.2 in /api,open
+2022-11-10T21:00:55Z,25166116037,true,PullRequestEvent,49699333,219971747,true,1,181,22,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.9 to 15.5.5,closed
+2022-11-10T21:00:55Z,25166116062,true,PullRequestEvent,809865,333624136,,1,77,0,8,89,4,4,true,true,true,,4,"Add Pitts22 (10.1128/aac.00222-22), RDV susceptibility data",closed
+2022-11-10T21:00:55Z,25166116106,true,PullRequestEvent,10811320,539399536,false,5,290,996,14,6,0,0,false,true,true,JavaScript,0,Issue 4 section-bottom,closed
+2022-11-10T21:00:55Z,25166116136,true,PullRequestEvent,49699333,233720880,,1,163,17,2,8,0,0,false,true,true,JavaScript,0,Bump electron from 8.3.0 to 18.3.7,open
+2022-11-10T21:00:55Z,25166116167,true,PullRequestEvent,49699333,251007949,true,1,71,53,2,4,2,2,false,true,true,JavaScript,2,build(deps-dev): bump electron from 7.2.4 to 15.5.5,closed
+2022-11-10T21:00:55Z,25166116185,true,PullRequestEvent,49699333,235686546,,1,201,126,3,3,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.9 to 18.3.7,open
+2022-11-10T21:00:55Z,25166116211,true,PullRequestEvent,49699333,247993448,,1,296,262,2,29,1,1,false,true,true,HTML,1,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:55Z,25166116237,true,PullRequestEvent,49699333,259972564,,1,118,13,2,4,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.3 to 18.3.7,open
+2022-11-10T21:00:56Z,25166116278,true,PullRequestEvent,4016369,180112558,,19,112,1,6,152,628,628,true,false,true,C++,628,Install CCF on AzureVM,closed
+2022-11-10T21:00:56Z,25166116304,true,PullRequestEvent,2348618,446669912,,1,2,2,2,8,351,351,false,true,true,Rust,351,Release Python trustfall v0.1.5.,open
+2022-11-10T21:00:56Z,25166116331,true,PullRequestEvent,49699333,252555750,,1,75,72,2,4,2,2,false,true,true,CSS,2,Bump electron from 8.2.3 to 18.3.7,open
+2022-11-10T21:00:56Z,25166116361,true,PullRequestEvent,4023066,74451355,,1,8,12,3,103,396,396,false,true,true,TypeScript,396,Use X icon for closing modals,open
+2022-11-10T21:00:56Z,25166116362,true,PullRequestEvent,49699333,234172452,true,1,106,63,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.9 to 15.5.5,closed
+2022-11-10T21:00:56Z,25166116364,true,PullRequestEvent,71561411,564010164,,3,126,0,1,0,0,0,false,true,true,,0,Feature/Carla-Hentschel,closed
+2022-11-10T21:00:56Z,25166116368,true,PullRequestEvent,49699333,263097027,,1,1452,93,3,17,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.5 to 18.3.7,open
+2022-11-10T21:00:56Z,25166116404,true,PullRequestEvent,49699333,261437776,,1,123,14,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.0 to 18.3.7,open
+2022-11-10T21:00:56Z,25166116499,true,PullRequestEvent,49699333,261214448,true,1,142,423,2,3,9,9,false,true,true,Vue,9,Bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:00:57Z,25166116628,true,PullRequestEvent,49699333,261068889,,1,82,61,2,2,1,1,false,true,true,JavaScript,1,Bump electron from 8.2.5 to 18.3.7,open
+2022-11-10T21:00:57Z,25166116745,true,PullRequestEvent,49699333,260605093,true,1,61,36,2,2,0,0,false,false,false,JavaScript,0,Bump electron from 7.2.4 to 15.5.5,closed
+2022-11-10T21:00:58Z,25166117005,true,PullRequestEvent,49699333,235686546,true,1,201,126,3,2,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.9 to 15.5.5,closed
+2022-11-10T21:00:58Z,25166117006,true,PullRequestEvent,49699333,55670212,,1,16,15,2,1,19,19,false,false,false,Go,19,chore(deps): bump github.com/ViBiOh/httputils/v4 from 4.50.1 to 4.50.2,open
+2022-11-10T21:00:58Z,25166117015,true,PullRequestEvent,49699333,233720880,true,1,163,17,2,7,0,0,false,true,true,JavaScript,0,Bump electron from 8.3.0 to 15.5.5,closed
+2022-11-10T21:00:58Z,25166117041,true,PullRequestEvent,49699333,287939448,,1,23,24,2,4,0,0,false,true,true,TypeScript,0,Bump electron from 8.4.1 to 18.3.7,open
+2022-11-10T21:00:58Z,25166117056,true,PullRequestEvent,49699333,260285591,,1,348,76,3,4,2,2,false,true,true,TypeScript,2,Bump electron from 8.4.0 to 18.3.7,open
+2022-11-10T21:00:58Z,25166117088,true,PullRequestEvent,90270663,300108497,,1,47,9,5,12,47,47,false,false,false,Go,47,RSDK-863: Add implicit depends_on for services,closed
+2022-11-10T21:00:59Z,25166117188,true,PullRequestEvent,49699333,261437776,true,1,123,14,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.0 to 15.5.5,closed
+2022-11-10T21:00:59Z,25166117192,true,PullRequestEvent,49699333,245777316,,1,23,13,1,21,0,0,false,true,true,PHP,0,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:00:59Z,25166117233,true,PullRequestEvent,49699333,259972564,true,1,118,13,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:00:59Z,25166117284,true,PullRequestEvent,49699333,252555750,true,1,75,72,2,3,2,2,false,true,true,CSS,2,Bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:00:59Z,25166117299,true,PullRequestEvent,49699333,163250013,,1,80,52,2,3,4,4,false,true,true,JavaScript,4,Bump electron from 7.2.4 to 18.3.7,open
+2022-11-10T21:00:59Z,25166117317,true,PullRequestEvent,49699333,263097027,true,1,1457,93,3,16,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.5 to 15.5.5,closed
+2022-11-10T21:00:59Z,25166117420,true,PullRequestEvent,40485260,364642496,,3,107,7,3,378,5,5,true,true,true,CSS,5,mirror the null + undefined testing done for User on PoolCandidate,closed
+2022-11-10T21:00:59Z,25166117421,true,PullRequestEvent,812783,294546561,true,1,102,14,4,784,798,798,true,true,true,TypeScript,798,Port Kernel Cache fix to release,closed
+2022-11-10T21:00:59Z,25166117463,true,PullRequestEvent,49699333,266210135,,1,132,12,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 8.3.0 to 18.3.7,open
+2022-11-10T21:01:00Z,25166117504,true,PullRequestEvent,49699333,241604192,,1,317,236,2,20,0,0,false,true,true,Java,0,Bump loader-utils and html-webpack-plugin in /leyou-manage-web,open
+2022-11-10T21:01:00Z,25166117593,true,PullRequestEvent,104092219,563552395,,1,8,21,1,1,0,0,false,true,true,JavaScript,0,Update docusaurus.config.js,open
+2022-11-10T21:01:00Z,25166117597,true,PullRequestEvent,49699333,261068889,true,1,82,61,2,1,1,1,false,true,true,JavaScript,1,Bump electron from 8.2.5 to 15.5.5,closed
+2022-11-10T21:01:00Z,25166117600,true,PullRequestEvent,49699333,169119255,,1,18,12,1,22,0,0,false,true,true,TypeScript,0,Bump socket.io-parser from 3.3.0 to 3.3.3,open
+2022-11-10T21:01:00Z,25166117617,true,PullRequestEvent,49699333,205550527,true,1,99,106,3,3,1,1,false,true,true,JavaScript,1,Bump electron from 7.2.4 to 15.5.5,closed
+2022-11-10T21:01:00Z,25166117644,true,PullRequestEvent,49699333,308733179,,1,22,28,2,5,0,0,false,true,true,Vue,0,Bump electron from 9.3.3 to 18.3.7,open
+2022-11-10T21:01:00Z,25166117675,true,PullRequestEvent,49699333,260716375,,1,91,73,2,4,0,0,false,true,true,JavaScript,0,chore(deps-dev): bump electron from 8.2.3 to 18.3.7,open
+2022-11-10T21:01:00Z,25166117728,true,PullRequestEvent,49699333,282275667,,1,5738,505,2,17,0,0,false,true,true,JavaScript,0,Bump minimatch from 3.0.4 to 3.1.2,open
+2022-11-10T21:01:00Z,25166117745,true,PullRequestEvent,49699333,236223643,,1,7754,3643,2,76,0,0,false,true,true,Java,0,Bump loader-utils and @angular-devkit/build-angular in /icp5/ToDoICP,open
+2022-11-10T21:01:01Z,25166117831,true,PullRequestEvent,49699333,292240947,,1,23,24,2,4,0,0,false,true,true,TypeScript,0,Bump electron from 8.4.1 to 18.3.7,open
+2022-11-10T21:01:01Z,25166117842,true,PullRequestEvent,49699333,178339446,,1,8,8,2,1,7,7,false,false,false,JavaScript,7,Bump @snyk/protect from 1.1056.0 to 1.1057.0,open
+2022-11-10T21:01:01Z,25166117858,true,PullRequestEvent,30479236,532139252,,1,9,9,1,0,2,2,false,true,true,Java,2,build(deps): bump loader-utils from 2.0.2 to 2.0.3 in /bkp/01-fazenda-ui,closed
+2022-11-10T21:01:01Z,25166117880,true,PullRequestEvent,43144390,80210225,,1,41,0,1,2,32,32,false,true,true,TypeScript,32,Add CodeQL workflow for GitHub code scanning,open
+2022-11-10T21:01:01Z,25166117885,true,PullRequestEvent,49699333,260285591,true,1,334,77,3,3,2,2,false,true,true,TypeScript,2,Bump electron from 8.4.0 to 15.5.5,closed
+2022-11-10T21:01:01Z,25166117887,true,PullRequestEvent,49699333,253594109,,1,3179,479,3,4,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.0 to 18.3.7,open
+2022-11-10T21:01:01Z,25166117897,true,PullRequestEvent,49699333,281119898,true,1,104,79,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 9.1.0 to 15.5.5 in /most-used-words,closed
+2022-11-10T21:01:01Z,25166117900,true,PullRequestEvent,49699333,287939448,true,1,23,24,2,3,0,0,false,true,true,TypeScript,0,Bump electron from 8.4.1 to 15.5.5,closed
+2022-11-10T21:01:01Z,25166118071,true,PullRequestEvent,49699333,298719101,,1,22,28,2,3,0,0,false,true,true,TypeScript,0,Bump electron from 8.5.0 to 18.3.7,open
+2022-11-10T21:01:02Z,25166118116,true,PullRequestEvent,49699333,260390761,,1,105,84,2,4,3,3,false,true,true,JavaScript,3,build(deps-dev): bump electron from 8.2.5 to 18.3.7,open
+2022-11-10T21:01:02Z,25166118205,true,PullRequestEvent,49699333,163250013,true,1,80,52,2,2,4,4,false,true,true,JavaScript,4,Bump electron from 7.2.4 to 15.5.5,closed
+2022-11-10T21:01:02Z,25166118219,true,PullRequestEvent,49699333,217140577,,1,21,27,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 7.2.4 to 18.3.7,open
+2022-11-10T21:01:02Z,25166118227,true,PullRequestEvent,117216724,563941357,,2,3,0,2,1,0,0,false,true,true,,0,Feature/cop xyz,open
+2022-11-10T21:01:02Z,25166118267,true,PullRequestEvent,739307,31337353,false,10,825,597,40,613,96,96,false,true,true,Python,96,Upgrade to React router 6,closed
+2022-11-10T21:01:02Z,25166118281,true,PullRequestEvent,49699333,259818018,,1,82,86,2,2,0,0,false,true,true,Vue,0,Bump electron from 7.2.4 to 18.3.7,open
+2022-11-10T21:01:02Z,25166118306,true,PullRequestEvent,44616505,77994733,,1,2,2,2,4,170,170,false,true,true,PHP,170,Fixes typo in git hook scripts,open
+2022-11-10T21:01:02Z,25166118317,true,PullRequestEvent,39814207,557058315,,23,17,17,17,0,0,0,false,true,true,C++,0,[pull] master from horsicq:master,closed
+2022-11-10T21:01:02Z,25166118339,true,PullRequestEvent,49699333,185353787,,1,83,236,2,11,39,39,false,true,true,JavaScript,39,Bump electron from 8.2.2 to 18.3.7 in /app,open
+2022-11-10T21:01:02Z,25166118369,true,PullRequestEvent,49699333,341850349,,1,7,7,1,2,2,2,false,true,true,JavaScript,2,Bump minimatch from 3.0.4 to 3.1.2,open
+2022-11-10T21:01:03Z,25166118379,true,PullRequestEvent,49699333,259554232,,1,82,61,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.3 to 18.3.7,open
+2022-11-10T21:01:03Z,25166118407,true,PullRequestEvent,49699333,266210135,true,1,132,12,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.3.0 to 15.5.5,closed
+2022-11-10T21:01:03Z,25166118500,true,PullRequestEvent,49699333,308733179,true,1,22,28,2,4,0,0,false,true,true,Vue,0,Bump electron from 9.3.3 to 15.5.5,closed
+2022-11-10T21:01:03Z,25166118520,true,PullRequestEvent,49699333,169119255,true,1,13,7,1,21,0,0,false,true,true,TypeScript,0,Bump socket.io-parser from 3.3.0 to 3.3.2,closed
+2022-11-10T21:01:03Z,25166118559,true,PullRequestEvent,49699333,247857493,,1,1000,1215,3,19,0,0,false,true,true,JavaScript,0,Bump electron from 8.1.1 to 18.3.7,open
+2022-11-10T21:01:03Z,25166118572,true,PullRequestEvent,49699333,260716375,true,1,91,73,2,3,0,0,false,true,true,JavaScript,0,chore(deps-dev): bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:01:03Z,25166118638,true,PullRequestEvent,73654695,66023605,,2,24,0,1,239,6367,6367,false,true,true,Java,6367,Add 'Shirriff' action to manage stale issues and PRs.,closed
+2022-11-10T21:01:03Z,25166118652,true,PullRequestEvent,49699333,258971782,,1,74,56,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.3 to 18.3.7,open
+2022-11-10T21:01:04Z,25166118668,true,PullRequestEvent,39814207,534031143,,1,1,1,1,1,0,0,false,false,true,Go,0,[pull] master from XIU2:master,open
+2022-11-10T21:01:04Z,25166118710,true,PullRequestEvent,48125086,422130049,,1,1,1,1,10,6,6,false,true,true,C++,6,Logger - Chrono,closed
+2022-11-10T21:01:04Z,25166118742,true,PullRequestEvent,49699333,275648294,,1,3,12,1,20,0,0,false,true,true,,0,Bump minimatch from 3.0.4 to 3.1.2 in /web,open
+2022-11-10T21:01:04Z,25166118747,true,PullRequestEvent,49699333,169251571,,1,8,8,1,18,0,0,false,true,true,JavaScript,0,Bump socket.io-parser from 3.3.2 to 3.3.3,open
+2022-11-10T21:01:04Z,25166118778,true,PullRequestEvent,49699333,292240947,true,1,23,24,2,3,0,0,false,true,true,TypeScript,0,Bump electron from 8.4.1 to 15.5.5,closed
+2022-11-10T21:01:04Z,25166118790,true,PullRequestEvent,24412729,368431327,,1,0,0,1,106,1,1,false,true,true,,1,Manifest Empty,open
+2022-11-10T21:01:04Z,25166118898,true,PullRequestEvent,49699333,271225619,,1,62,57,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 9.0.1 to 18.3.7,open
+2022-11-10T21:01:04Z,25166118933,true,PullRequestEvent,49699333,253594109,true,1,3114,395,3,3,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.0 to 15.5.5,closed
+2022-11-10T21:01:04Z,25166118979,true,PullRequestEvent,49699333,298719101,true,1,22,28,2,2,0,0,false,true,true,TypeScript,0,Bump electron from 8.5.0 to 15.5.5,closed
+2022-11-10T21:01:05Z,25166119111,true,PullRequestEvent,97447484,365505203,,1,334,140,6,217,38,38,true,true,true,DM,38,fix: Доработка зон в moonoutpost19,open
+2022-11-10T21:01:05Z,25166119165,true,PullRequestEvent,12008100,431554206,,1,1,1,1,2,4,4,false,false,false,HCL,4,Bump dsaltares/fetch-gh-release-asset from 1.0.0 to 1.1.0,closed
+2022-11-10T21:01:05Z,25166119267,true,PullRequestEvent,49699333,259818018,true,1,76,80,2,1,0,0,false,true,true,Vue,0,Bump electron from 7.2.4 to 15.5.5,closed
+2022-11-10T21:01:06Z,25166119433,true,PullRequestEvent,49699333,564481856,,1,5,5,2,2,0,0,true,false,true,,0,Bump classnames from 2.3.1 to 2.3.2,open
+2022-11-10T21:01:06Z,25166119513,true,PullRequestEvent,49699333,185353787,true,1,83,236,2,10,39,39,false,true,true,JavaScript,39,Bump electron from 8.2.2 to 15.5.5 in /app,closed
+2022-11-10T21:01:06Z,25166119628,true,PullRequestEvent,49699333,259554232,true,1,82,61,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:01:06Z,25166119642,true,PullRequestEvent,49699333,239301108,,1,4461,8393,2,4,0,0,false,true,true,TypeScript,0,Bump loader-utils and @angular/cli,open
+2022-11-10T21:01:06Z,25166119689,true,PullRequestEvent,49699333,258971782,true,1,74,56,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:01:06Z,25166119711,true,PullRequestEvent,49699333,247857493,true,1,1301,1288,3,18,0,0,false,true,true,JavaScript,0,Bump electron from 8.1.1 to 15.5.5,closed
+2022-11-10T21:01:07Z,25166119786,true,PullRequestEvent,223045,463841769,,3,77,10,3,6,4,4,false,false,false,C,4,Improve Inputs,closed
+2022-11-10T21:01:07Z,25166119819,true,PullRequestEvent,108286689,564495623,,2,351,0,16,1,0,0,false,true,true,Dockerfile,0,🤖 [infra-auto] acf61fcc / infra-template,open
+2022-11-10T21:01:07Z,25166119845,true,PullRequestEvent,49699333,253275934,,1,99,103,2,4,0,0,false,true,true,TypeScript,0,Bump electron from 8.2.0 to 18.3.7,open
+2022-11-10T21:01:07Z,25166119854,true,PullRequestEvent,164324,7202769,,1,2,2,1,213,10652,10652,true,false,true,Erlang,10652,docs: add a comment to schema default value,open
+2022-11-10T21:01:07Z,25166119912,true,PullRequestEvent,39814207,545131093,,3,9,9,3,1,0,0,false,true,true,JavaScript,0,[pull] main from benphelps:main,open
+2022-11-10T21:01:07Z,25166119960,true,PullRequestEvent,90142015,419814574,,1,1,1,1,1,2,2,false,true,true,JavaScript,2,chore: auto commit to trigger new release,open
+2022-11-10T21:01:07Z,25166119972,true,PullRequestEvent,79189969,291961047,,1,1,1,1,1,0,0,false,true,true,,0,Update golang/master build,open
+2022-11-10T21:01:07Z,25166119983,true,PullRequestEvent,49699333,235647629,true,1,76,62,2,1,0,0,false,true,true,JavaScript,0,⬆️ Bump electron from 7.1.9 to 15.5.5,closed
+2022-11-10T21:01:07Z,25166119994,true,PullRequestEvent,49699333,271225619,true,1,62,57,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 9.0.1 to 15.5.5,closed
+2022-11-10T21:01:08Z,25166120060,true,PullRequestEvent,49699333,134616356,,1,46,44,2,17,10,10,false,true,true,Rust,10,Bump tailwindcss from 3.1.8 to 3.2.3 in /ui,open
+2022-11-10T21:01:08Z,25166120157,true,PullRequestEvent,49699333,237829814,,1,57,39,2,3,0,0,false,true,true,TypeScript,0,build(deps-dev): bump electron from 7.3.2 to 18.3.7,open
+2022-11-10T21:01:08Z,25166120160,true,PullRequestEvent,49699333,222538983,true,1,54,22,2,3,0,0,false,true,true,JavaScript,0,Bump telnet-client from 1.0.4 to 2.0.4,closed
+2022-11-10T21:01:08Z,25166120210,true,PullRequestEvent,49699333,215426802,true,1,21,27,2,1,8,8,false,true,true,JavaScript,8,Bump electron from 7.2.4 to 15.5.5,closed
+2022-11-10T21:01:08Z,25166120277,true,PullRequestEvent,49699333,254834268,,1,1009,128,3,17,1,1,false,true,true,JavaScript,1,Bump electron from 8.2.1 to 18.3.7,open
+2022-11-10T21:01:09Z,25166120341,true,PullRequestEvent,625787,539219577,,2,51,16,3,1,1,1,false,true,true,JavaScript,1,Allow player data to be read from file system,open
+2022-11-10T21:01:09Z,25166120406,true,PullRequestEvent,350422,274930595,,1,15,5,1,11,4,4,false,false,false,Ruby,4,fix an issue on tiles with the group title showing even when tile is hidden,closed
+2022-11-10T21:01:09Z,25166120439,true,PullRequestEvent,49699333,44961319,,1,6,6,1,3,128,128,false,false,false,TypeScript,128,chore(deps-dev): bump cypress from 11.0.0 to 11.0.1,open
+2022-11-10T21:01:10Z,25166120738,true,PullRequestEvent,49699333,202646871,,1,21,34,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 7.2.4 to 18.3.7,open
+2022-11-10T21:01:10Z,25166120811,true,PullRequestEvent,20624069,561057649,,4,95,3,10,9,0,0,false,true,true,Vue,0,Add generic modal view,open
+2022-11-10T21:01:10Z,25166120847,true,PullRequestEvent,49699333,245019071,,1,1550,95,3,19,0,0,false,true,true,JavaScript,0,Bump electron from 8.0.3 to 18.3.7,open
+2022-11-10T21:01:10Z,25166120899,true,PullRequestEvent,49699333,256417601,,1,150,11,2,9,0,0,false,true,true,CSS,0,Bump electron from 8.2.3 to 18.3.7 in /Ionic Assignment 1,open
+2022-11-10T21:01:10Z,25166120940,true,PullRequestEvent,49699333,258641243,,1,158,30,2,4,0,0,false,true,true,TypeScript,0,Bump electron from 8.2.3 to 18.3.7,open
+2022-11-10T21:01:10Z,25166120944,true,PullRequestEvent,49699333,270502169,,1,68,40,2,4,1,1,false,true,true,TypeScript,1,Bump electron from 9.0.2 to 18.3.7,open
+2022-11-10T21:01:10Z,25166120946,true,PullRequestEvent,49699333,253275934,true,1,95,99,2,3,0,0,false,true,true,TypeScript,0,Bump electron from 8.2.0 to 15.5.5,closed
+2022-11-10T21:01:11Z,25166121018,true,PullRequestEvent,56846598,80554426,,3,82,145,8,73,59,59,false,true,true,JavaScript,59,Cleanup i18n,open
+2022-11-10T21:01:11Z,25166121087,true,PullRequestEvent,49699333,237829814,true,1,57,39,2,2,0,0,false,true,true,TypeScript,0,build(deps-dev): bump electron from 7.3.2 to 15.5.5,closed
+2022-11-10T21:01:11Z,25166121198,true,PullRequestEvent,49699333,199920289,,1,57,45,2,3,0,0,false,true,true,Vue,0,Bump electron from 7.2.4 to 18.3.7,open
+2022-11-10T21:01:11Z,25166121208,true,PullRequestEvent,49699333,252477366,,1,75,52,2,2,0,0,false,true,true,TypeScript,0,Bump electron from 8.2.0 to 18.3.7,open
+2022-11-10T21:01:11Z,25166121226,true,PullRequestEvent,49699333,266738240,,1,94,69,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 8.3.0 to 18.3.7,open
+2022-11-10T21:01:11Z,25166121238,true,PullRequestEvent,49699333,268680383,,1,127,22,2,8,0,0,false,true,true,Vue,0,Bump electron from 8.3.0 to 18.3.7,open
+2022-11-10T21:01:11Z,25166121314,true,PullRequestEvent,812783,294546561,true,7,31,8,1,783,798,798,true,true,true,TypeScript,798,DRAFT Only to investigate pandas test on CI,closed
+2022-11-10T21:01:12Z,25166121374,true,PullRequestEvent,43144390,259848365,,1,41,0,1,18,0,0,false,true,true,PHP,0,Add CodeQL workflow for GitHub code scanning,open
+2022-11-10T21:01:12Z,25166121378,true,PullRequestEvent,49699333,25814103,,1,6,6,1,52,749,749,true,true,true,PHP,749,Bump phpstan/phpstan from 1.9.1 to 1.9.2,open
+2022-11-10T21:01:12Z,25166121407,true,PullRequestEvent,49699333,265309920,,1,59,60,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.3.0 to 18.3.7,open
+2022-11-10T21:01:12Z,25166121425,true,PullRequestEvent,49699333,254834268,true,1,993,124,3,16,1,1,false,true,true,JavaScript,1,Bump electron from 8.2.1 to 15.5.5,closed
+2022-11-10T21:01:12Z,25166121483,true,PullRequestEvent,4261788,245298375,,3,30,30,6,1,37,37,false,true,false,TypeScript,37,Sm/dedupe-replacements,closed
+2022-11-10T21:01:12Z,25166121525,true,PullRequestEvent,23094428,207103915,,1,1,1,1,1,23,23,false,true,true,PHP,23,Update phpstan/phpstan requirement from ^1.8 to ^1.9,closed
+2022-11-10T21:01:12Z,25166121547,true,PullRequestEvent,49699333,218984458,,1,6,3,1,1,0,0,false,true,true,Stylus,0,Bump minimatch from 3.0.4 to 3.1.2,open
+2022-11-10T21:01:12Z,25166121588,true,PullRequestEvent,49699333,134616356,true,1,46,44,2,16,10,10,false,true,true,Rust,10,Bump tailwindcss from 3.1.8 to 3.2.2 in /ui,closed
+2022-11-10T21:01:13Z,25166121672,true,PullRequestEvent,110652609,544762166,,3856,1056,12,22,0,0,0,false,false,false,Shell,0,Test PR,closed
+2022-11-10T21:01:13Z,25166121676,true,PullRequestEvent,17685000,116143183,,1,2,2,1,1,5,5,false,true,true,Python,5,Fix shader compilation,open
+2022-11-10T21:01:13Z,25166121695,true,PullRequestEvent,49699333,258565799,true,1,102,100,2,4,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:01:13Z,25166121831,true,PullRequestEvent,49699333,202646871,true,1,21,34,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 7.2.4 to 15.5.5,closed
+2022-11-10T21:01:13Z,25166121838,true,PullRequestEvent,28690905,265063809,,19,6957,24001,43,10,54,54,false,true,true,C++,54,Path tracker overhaul,closed
+2022-11-10T21:01:13Z,25166121839,true,PullRequestEvent,49699333,258641243,true,1,158,30,2,3,0,0,false,true,true,TypeScript,0,Bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:01:13Z,25166121849,true,PullRequestEvent,49699333,191929145,,1,73,64,2,2,1,1,false,true,true,JavaScript,1,Bump electron from 7.2.4 to 18.3.7,open
+2022-11-10T21:01:13Z,25166121872,true,PullRequestEvent,49699333,270502169,true,1,68,40,2,3,1,1,false,true,true,TypeScript,1,Bump electron from 9.0.2 to 15.5.5,closed
+2022-11-10T21:01:14Z,25166122043,true,PullRequestEvent,49699333,255563684,,1,68,72,2,5,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.2 to 18.3.7,open
+2022-11-10T21:01:14Z,25166122144,true,PullRequestEvent,49699333,248330156,,1,157,258,3,3,0,0,false,true,true,JavaScript,0,Bump electron from 8.5.0 to 18.3.7,open
+2022-11-10T21:01:14Z,25166122173,true,PullRequestEvent,3812500,558861802,,1,191,0,4,2,0,0,false,true,true,Makefile,0,initial testing,open
+2022-11-10T21:01:14Z,25166122234,true,PullRequestEvent,49699333,265309920,true,1,59,60,2,1,0,0,false,true,true,JavaScript,0,Bump electron from 8.3.0 to 15.5.5,closed
+2022-11-10T21:01:14Z,25166122246,true,PullRequestEvent,14909916,381819341,,1,1,1,1,14,4,4,false,true,true,HCL,4,chore(deps): update helm release node-feature-discovery to v0.11.3,closed
+2022-11-10T21:01:15Z,25166122270,true,PullRequestEvent,1435136,305554879,,1,5,1,1,100,91,91,false,true,true,Go,91,[DO NOT MERGE] Add retries on `sudo sed` command when setting up SUSE test VM.,open
+2022-11-10T21:01:15Z,25166122491,true,PullRequestEvent,49699333,242401676,,1,13,13,1,12,0,0,false,true,true,JavaScript,0,Bump loader-utils from 1.1.0 to 1.4.1 in /Javascript/ES6 for Everyone by Wesbos/webpack_configuration,open
+2022-11-10T21:01:15Z,25166122502,true,PullRequestEvent,49699333,254507336,,1,148,126,2,15,0,0,false,true,true,JavaScript,0,Bump twilio from 3.48.0 to 3.83.2,open
+2022-11-10T21:01:16Z,25166122692,true,PullRequestEvent,49699333,191929145,true,1,73,64,2,1,1,1,false,true,true,JavaScript,1,Bump electron from 7.2.4 to 15.5.5,closed
+2022-11-10T21:01:16Z,25166122714,true,PullRequestEvent,96374672,560069755,,12,612,6,17,0,0,0,false,true,true,Java,0,User login and register,closed
+2022-11-10T21:01:16Z,25166122741,true,PullRequestEvent,49699333,238997344,,1,413,227,2,7,0,0,false,true,true,Vue,0,Bump loader-utils and html-webpack-plugin,open
+2022-11-10T21:01:16Z,25166122803,true,PullRequestEvent,49699333,213048998,,1,254,32,2,13,1,1,false,true,true,Java,1,Bump electron from 7.2.4 to 18.3.7 in /electron/finance-help,open
+2022-11-10T21:01:16Z,25166122836,true,PullRequestEvent,49699333,260204637,true,1,1088,1094,3,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.0.3 to 15.5.5,closed
+2022-11-10T21:01:17Z,25166122987,true,PullRequestEvent,49699333,162675498,true,1,80,91,2,10,307,307,false,true,true,TypeScript,307,build(deps): bump @sentry/node from 6.18.1 to 7.18.0,closed
+2022-11-10T21:01:17Z,25166123020,true,PullRequestEvent,49699333,248330156,true,1,157,258,3,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.5.0 to 15.5.5,closed
+2022-11-10T21:01:17Z,25166123084,true,PullRequestEvent,49699333,255563684,true,1,68,72,2,4,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.2 to 15.5.5,closed
+2022-11-10T21:01:17Z,25166123092,true,PullRequestEvent,15255313,563996633,,1,0,198,1,1,0,0,false,true,true,Go,0,fix(inputs.modbus): delete sample.conf,open
+2022-11-10T21:01:17Z,25166123117,true,PullRequestEvent,26334334,549857084,,1,9,5,2,8,16,16,true,true,true,Go,16,chore: Allow disabling webhook for local debugging,closed
+2022-11-10T21:01:17Z,25166123177,true,PullRequestEvent,282080,1920851,true,8,569,280,27,59,80,80,false,false,true,Java,80,LPS-166809 Update packages @clayui/* to v3.79.0,closed
+2022-11-10T21:01:18Z,25166123214,true,PullRequestEvent,39814207,442345103,,7,344,173,24,1,0,0,false,false,true,Clojure,0,[pull] develop from penpot:develop,open
+2022-11-10T21:01:18Z,25166123268,true,PullRequestEvent,38584660,129936360,,7,629,613,21,300,1582,1582,true,false,true,Python,1582,Pauli arithmetic docstring/example edits,open
+2022-11-10T21:01:18Z,25166123359,true,PullRequestEvent,49699333,242238082,,1,686,2981,2,9,0,0,false,true,true,HTML,0,Bump loader-utils and webpack in /themes/ananke/src,open
+2022-11-10T21:01:18Z,25166123377,true,PullRequestEvent,49699333,216195836,,1,10,10,2,1,0,0,false,false,false,Go,0,chore(deps): bump github.com/ViBiOh/httputils/v4 from 4.50.1 to 4.50.2,open
+2022-11-10T21:01:18Z,25166123436,true,PullRequestEvent,49699333,264668158,,1,80,61,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 8.3.0 to 18.3.7,open
+2022-11-10T21:01:19Z,25166123577,true,PullRequestEvent,888624,41288708,,1,4,1,1,4752,7100,7100,true,false,false,Go,7100,search: fix smart search dropdown checkbox when disabling from dialog,closed
+2022-11-10T21:01:19Z,25166123608,true,PullRequestEvent,49699333,254507336,true,1,148,126,2,14,0,0,false,true,true,JavaScript,0,Bump twilio from 3.48.0 to 3.83.1,closed
+2022-11-10T21:01:19Z,25166123626,true,PullRequestEvent,49699333,270330117,,1,84,89,2,4,0,0,false,true,true,HTML,0,Bump electron from 9.0.2 to 18.3.7 in /Moon,open
+2022-11-10T21:01:19Z,25166123673,true,PullRequestEvent,17344677,338982445,,3,147,71,9,84,421,421,true,true,true,C#,421,Collect metrics via artifact operation,closed
+2022-11-10T21:01:19Z,25166123686,true,PullRequestEvent,49699333,251012960,,1,669,224,3,42,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.0 to 18.3.7 in /desktop,open
+2022-11-10T21:01:19Z,25166123845,true,PullRequestEvent,37933096,4542716,,1,2,2,1,9716,10695,10695,false,false,true,Nix,10695,freetds: 1.3.13 -> 1.3.14,open
+2022-11-10T21:01:19Z,25166123863,true,PullRequestEvent,29329914,556886864,,1,1,0,1,0,1,1,false,true,true,,1,Added lost ratings_number column,closed
+2022-11-10T21:01:19Z,25166123877,true,PullRequestEvent,1111457,555480086,,1,86,38,3,4,0,0,false,true,true,JavaScript,0,Fix dependency import race conditions,closed
+2022-11-10T21:01:20Z,25166123883,true,PullRequestEvent,47505981,522221318,,11,472,395,46,1,0,0,false,true,true,Java,0,Merge upstream,open
+2022-11-10T21:01:20Z,25166124048,true,PullRequestEvent,3658262,563102569,,4,2554,123,27,1,0,0,false,false,true,Lua,0,fixed enchanting and tried to fix taint issue,open
+2022-11-10T21:01:21Z,25166124258,true,PullRequestEvent,43144390,500954470,,1,41,0,1,2,0,0,false,true,true,EJS,0,Add CodeQL workflow for GitHub code scanning,open
+2022-11-10T21:01:21Z,25166124274,true,PullRequestEvent,31533186,240875926,,1,2,1,1,65,943,943,false,false,true,Vue,943,fix(Heightmap): flat for bed mesh not displayed if only one probe count set,open
+2022-11-10T21:01:21Z,25166124305,true,PullRequestEvent,49699333,264668158,true,1,80,61,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.3.0 to 15.5.5,closed
+2022-11-10T21:01:21Z,25166124354,true,PullRequestEvent,49699333,213048998,true,1,254,32,2,12,1,1,false,true,true,Java,1,Bump electron from 7.2.4 to 15.5.5 in /electron/finance-help,closed
+2022-11-10T21:01:22Z,25166124543,true,PullRequestEvent,49699333,240843702,,1,12815,11262,3,22,0,0,false,true,true,TypeScript,0,Bump loader-utils and @angular-devkit/build-angular,open
+2022-11-10T21:01:22Z,25166124562,true,PullRequestEvent,78961075,563124326,,1,5,0,1,21,6,6,false,true,true,Dart,6,feature: implemented minute,open
+2022-11-10T21:01:22Z,25166124590,true,PullRequestEvent,49699333,270330117,true,1,80,85,2,3,0,0,false,true,true,HTML,0,Bump electron from 9.0.2 to 15.5.5 in /Moon,closed
+2022-11-10T21:01:23Z,25166124768,true,PullRequestEvent,49699333,251012960,true,1,658,224,3,41,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.0 to 15.5.5 in /desktop,closed
+2022-11-10T21:01:23Z,25166124781,true,PullRequestEvent,49699333,252563888,,1,4139,95,3,3,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.0 to 18.3.7,open
+2022-11-10T21:01:23Z,25166124913,true,PullRequestEvent,34055039,562906306,,2,28,12,1,0,3,3,false,true,true,Python,3,"weight dockerfile, docker-compose",closed
+2022-11-10T21:01:24Z,25166125254,true,PullRequestEvent,37199044,548123551,,2,2527,40,8,1,0,0,false,true,true,TypeScript,0,Finish Chapter06 #7,closed
+2022-11-10T21:01:25Z,25166125300,true,PullRequestEvent,92821116,280506829,,3,209,379,4,2,1,1,false,true,true,R,1,COP22 OPU Updates,closed
+2022-11-10T21:01:25Z,25166125306,true,PullRequestEvent,39814207,465562871,,321,1437,998,251,0,0,0,false,false,true,Nix,0,[pull] master from NixOS:master,closed
+2022-11-10T21:01:25Z,25166125308,true,PullRequestEvent,14069110,563544113,,1,14,13,1,0,1,1,false,true,true,TypeScript,1,Fix dateTime format,closed
+2022-11-10T21:01:25Z,25166125310,true,PullRequestEvent,39814207,274984604,,2,1,0,1,1,0,0,false,true,true,,0,[pull] master from sdmg15:master,open
+2022-11-10T21:01:25Z,25166125340,true,PullRequestEvent,57546848,562523962,,7,186,7,40,0,0,0,false,true,true,Apex,0,Dev1,closed
+2022-11-10T21:01:25Z,25166125354,true,PullRequestEvent,12055022,239903608,,1,3,4,1,3,22,22,false,true,true,TypeScript,22,Update version-notifications.mdx,open
+2022-11-10T21:01:25Z,25166125398,true,PullRequestEvent,117525566,562592730,,1,42,2,1,6,0,0,false,true,true,HTML,0,Added HTML code to application,open
+2022-11-10T21:01:25Z,25166125412,true,PullRequestEvent,49699333,209263390,,1,79,70,2,6,0,0,false,true,true,JavaScript,0,build(deps-dev): bump electron from 7.2.4 to 18.3.7,open
+2022-11-10T21:01:25Z,25166125421,true,PullRequestEvent,49699333,252563888,true,1,4143,115,3,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.0 to 15.5.5,closed
+2022-11-10T21:01:25Z,25166125487,true,PullRequestEvent,49699333,253176860,,1,1013,560,3,2,1,1,false,true,true,JavaScript,1,Bump electron from 8.2.0 to 18.3.7,open
+2022-11-10T21:01:25Z,25166125500,true,PullRequestEvent,49699333,166296847,,1,1109,507,2,29,0,0,false,true,true,TypeScript,0,"Bump socket.io-parser, socket.io, socket.io-client and karma",open
+2022-11-10T21:01:26Z,25166125533,true,PullRequestEvent,26010985,478286058,,16,574,341,33,6,0,0,false,true,true,Fortran,0,Sequential gen > script_updates_HPC,closed
+2022-11-10T21:01:26Z,25166125536,true,PullRequestEvent,12972900,307498983,,2,206,100,31,1,2,2,false,true,true,Jinja,2,Docker volumes,open
+2022-11-10T21:01:26Z,25166125563,true,PullRequestEvent,49699333,306760504,,1,22,28,2,3,0,0,false,true,true,TypeScript,0,Bump electron from 8.5.0 to 18.3.7,open
+2022-11-10T21:01:26Z,25166125571,true,PullRequestEvent,106423390,527230885,,3,39,13,9,2,0,0,false,true,true,Python,0,🔧 Update .pre-commit-config.yaml,closed
+2022-11-10T21:01:26Z,25166125638,true,PullRequestEvent,32534428,120253126,,4,113,54,3,24,516,516,true,true,true,Python,516,Updates to the Inovelli OTA config,closed
+2022-11-10T21:01:26Z,25166125641,true,PullRequestEvent,54868944,558044224,,4,284,5,8,3,4,4,false,true,true,Swift,4,Integrar método fetchActivityDetails na ActivityDetails,open
+2022-11-10T21:01:26Z,25166125679,true,PullRequestEvent,49699333,2767925,,1,1,1,1,1,39,39,false,false,false,Shell,39,Bump zsh/plugins/completions from `b736f26` to `4e63f45`,open
+2022-11-10T21:01:27Z,25166125854,true,PullRequestEvent,49699333,280464913,,1,4979,1292,3,22,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.0 to 18.3.7,open
+2022-11-10T21:01:27Z,25166125914,true,PullRequestEvent,111460342,563420268,,1,3,1,1,1,3,3,false,true,true,JavaScript,3,added button to enter first room,open
+2022-11-10T21:01:27Z,25166125969,true,PullRequestEvent,29139614,7833168,,1,5,5,2,9919,17999,17999,true,false,true,TypeScript,17999,Update dependency @elastic/charts to v50.1.0 (main),open
+2022-11-10T21:01:27Z,25166126018,true,PullRequestEvent,95724753,107937815,,17,2218,315,16,694,7531,7531,true,false,true,Jupyter Notebook,7531,"Integrate SageMaker Automatic Model Tuning (HPO) with XGBoost,  Linear Learner and Image Classification.",closed
+2022-11-10T21:01:27Z,25166126026,true,PullRequestEvent,13686399,13872231,,1,21,23,1,534,10738,10738,false,true,true,JavaScript,10738,chore: removes underscores in input,open
+2022-11-10T21:01:28Z,25166126205,true,PullRequestEvent,74628683,278375958,,7,102,23,4,6,1,1,false,true,true,,1,W-11999198-JiraNewOperations-ESB,closed
+2022-11-10T21:01:28Z,25166126207,true,PullRequestEvent,17102158,416157128,,2,1,1,1,60,2655,2655,false,false,false,Python,2655,Docs Typo,closed
+2022-11-10T21:01:28Z,25166126250,true,PullRequestEvent,49699333,249900788,,1,82,160,2,18,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.0 to 18.3.7,open
+2022-11-10T21:01:28Z,25166126287,true,PullRequestEvent,49699333,209263390,true,1,77,68,2,5,0,0,false,true,true,JavaScript,0,build(deps-dev): bump electron from 7.2.4 to 15.5.5,closed
+2022-11-10T21:01:28Z,25166126294,true,PullRequestEvent,49699333,306760504,true,1,22,28,2,2,0,0,false,true,true,TypeScript,0,Bump electron from 8.5.0 to 15.5.5,closed
+2022-11-10T21:01:28Z,25166126314,true,PullRequestEvent,49699333,253176860,true,1,1009,560,3,1,1,1,false,true,true,JavaScript,1,Bump electron from 8.2.0 to 15.5.5,closed
+2022-11-10T21:01:28Z,25166126361,true,PullRequestEvent,1091141,457421969,,1,1,1,1,1,0,0,false,true,true,Java,0,Update FileAuditLoggerTest.java,open
+2022-11-10T21:01:28Z,25166126364,true,PullRequestEvent,63669956,147373333,,4,108,24,5,48,10,10,true,true,true,JavaScript,10,App level modal,open
+2022-11-10T21:01:28Z,25166126418,true,PullRequestEvent,49699333,260986004,,1,103,61,2,2,5,5,false,true,true,JavaScript,5,build(deps-dev): bump electron from 8.2.5 to 18.3.7,open
+2022-11-10T21:01:28Z,25166126426,true,PullRequestEvent,115856088,564145169,,1,21,1,1,5,0,0,false,true,true,Java,0,second commit,open
+2022-11-10T21:01:29Z,25166126515,true,PullRequestEvent,1409171,52271379,,4,426,3,5,17,781,781,false,true,false,JavaScript,781,"Added examples - \"Camera obscura\" and \"Interrogation room\"",closed
+2022-11-10T21:01:29Z,25166126529,true,PullRequestEvent,49699333,166296847,true,1,1109,507,2,28,0,0,false,true,true,TypeScript,0,"Bump socket.io-parser, socket.io, socket.io-client and karma",closed
+2022-11-10T21:01:29Z,25166126535,true,PullRequestEvent,104337801,423347368,,1,10,1,2,176,17,17,true,true,true,JavaScript,17,Preview text instead of html in sidebar chat preview,open
+2022-11-10T21:01:29Z,25166126556,true,PullRequestEvent,86625568,563442164,,1,128,23,10,0,0,0,false,true,true,TypeScript,0,delete and loading,closed
+2022-11-10T21:01:29Z,25166126561,true,PullRequestEvent,60022153,558994692,,6,170,80,9,0,0,0,false,true,true,JavaScript,0,Master,closed
+2022-11-10T21:01:29Z,25166126604,true,PullRequestEvent,43144390,385413610,,1,41,0,1,4,0,0,false,true,true,JavaScript,0,Add CodeQL workflow for GitHub code scanning,open
+2022-11-10T21:01:29Z,25166126619,true,PullRequestEvent,49699333,353794172,,1,156,87,2,3,0,0,false,true,true,JavaScript,0,Bump electron from 9.4.4 to 18.3.7,open
+2022-11-10T21:01:29Z,25166126646,true,PullRequestEvent,49699333,264273560,,1,113,14,2,7,0,0,false,true,true,HTML,0,Bump electron from 8.3.0 to 18.3.7,open
+2022-11-10T21:01:29Z,25166126742,true,PullRequestEvent,18379884,135990829,,1,29,12,1,24,26,26,false,true,true,JavaScript,26,fix(search): reflect current code,open
+2022-11-10T21:01:29Z,25166126748,true,PullRequestEvent,49699333,2767925,,1,1,1,1,2,39,39,false,false,false,Shell,39,Bump vim/pack/03_plugins/start/test from `e7150de` to `ab7feab`,open
+2022-11-10T21:01:30Z,25166126776,true,PullRequestEvent,49699333,253279663,,1,78,64,2,7,1,1,false,true,true,TypeScript,1,Bump electron from 8.3.0 to 18.3.7,open
+2022-11-10T21:01:30Z,25166126821,true,PullRequestEvent,49699333,280464913,true,1,4982,1288,3,21,0,0,false,true,true,JavaScript,0,Bump electron from 7.1.0 to 15.5.5,closed
+2022-11-10T21:01:30Z,25166126880,true,PullRequestEvent,98239389,555549499,,1,19,11,1,1,0,0,false,true,true,TypeScript,0,adelanto dash admin,closed
+2022-11-10T21:01:30Z,25166126901,true,PullRequestEvent,49699333,273021039,,1,123,100,3,3,1,1,false,true,true,JavaScript,1,Bump electron from 8.3.2 to 18.3.7,open
+2022-11-10T21:01:30Z,25166126914,true,PullRequestEvent,108020116,530716318,,3,473,11,6,3,0,0,false,true,true,JavaScript,0,Develop,open
+2022-11-10T21:01:30Z,25166126952,true,PullRequestEvent,57549694,187644421,true,1,1,1,1,1,5,5,false,true,true,JavaScript,5,Update README.md,closed
+2022-11-10T21:01:31Z,25166127077,true,PullRequestEvent,99240794,560625043,,2,43,2,4,1,1,1,false,true,true,Dart,1,Web socket conn service,open
+2022-11-10T21:01:31Z,25166127152,true,PullRequestEvent,49699333,249900788,true,1,82,160,2,17,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.0 to 15.5.5,closed
+2022-11-10T21:01:31Z,25166127336,true,PullRequestEvent,110429948,519280483,,4,27,4,4,1,0,0,false,true,true,Python,0,Ajinkya/asan,closed
+2022-11-10T21:01:32Z,25166127518,true,PullRequestEvent,3812500,558861802,,1,191,0,4,1,0,0,false,true,true,Makefile,0,initial testing,closed
+2022-11-10T21:01:32Z,25166127537,true,PullRequestEvent,19733683,452029512,,1,1,1,1,447,0,0,false,true,true,Java,0,[Snyk] Security upgrade org.springframework.cloud:spring-cloud-starter-netflix-eureka-client from 1.4.7.RELEASE to 2.1.2.RELEASE,open
+2022-11-10T21:01:32Z,25166127554,true,PullRequestEvent,49699333,260986004,true,1,103,61,2,1,5,5,false,true,true,JavaScript,5,build(deps-dev): bump electron from 8.2.5 to 15.5.5,closed
+2022-11-10T21:01:32Z,25166127579,true,PullRequestEvent,31829545,35065891,,21,248,0,6,33,2483,2483,false,false,true,JavaScript,2483,migrate code from googleapis/nodejs-workflows,open
+2022-11-10T21:01:32Z,25166127582,true,PullRequestEvent,49699333,264273560,true,1,113,14,2,6,0,0,false,true,true,HTML,0,Bump electron from 8.3.0 to 15.5.5,closed
+2022-11-10T21:01:32Z,25166127596,true,PullRequestEvent,49699333,241501985,,1,7870,4075,2,22,0,0,false,true,true,TypeScript,0,Bump loader-utils and @angular-devkit/build-angular,open
+2022-11-10T21:01:32Z,25166127644,true,PullRequestEvent,49699333,255299177,,1,968,77,2,3,0,0,false,true,true,TypeScript,0,Bump electron from 8.1.1 to 18.3.7,open
+2022-11-10T21:01:32Z,25166127646,true,PullRequestEvent,49699333,353794172,true,1,150,81,2,2,0,0,false,true,true,JavaScript,0,Bump electron from 9.4.4 to 15.5.5,closed
+2022-11-10T21:01:32Z,25166127664,true,PullRequestEvent,49699333,203754957,,1,58,79,2,4,14,14,false,true,true,JavaScript,14,Bump electron from 8.5.5 to 18.3.7,open
+2022-11-10T21:01:31Z,25166127372,true,PullRequestEvent,49699333,167782126,,1,6,6,1,2,22,22,false,false,false,JavaScript,22,Bump @snyk/protect from 1.1056.0 to 1.1057.0,open
+2022-11-10T21:01:31Z,25166127388,true,PullRequestEvent,15273298,102393541,true,1,8,29,1,43,61,61,false,true,true,TypeScript,61,Bump loader-utils from 1.2.3 to 1.4.1 in /site,closed
+2022-11-10T21:01:33Z,25166127748,true,PullRequestEvent,49699333,273021039,true,1,123,100,3,2,1,1,false,true,true,JavaScript,1,Bump electron from 8.3.2 to 15.5.5,closed
+2022-11-10T21:01:33Z,25166127822,true,PullRequestEvent,111073468,560128283,,1,10,0,2,1,0,0,false,true,true,JavaScript,0,Added functions to display the current date and time,open
+2022-11-10T21:01:33Z,25166127886,true,PullRequestEvent,12436063,470771672,,91,10559,6130,137,1,7,7,false,true,true,Jupyter Notebook,7,R0.2,open
+2022-11-10T21:01:33Z,25166127993,true,PullRequestEvent,49699333,253279663,true,1,78,64,2,6,1,1,false,true,true,TypeScript,1,Bump electron from 8.3.0 to 15.5.5,closed
+2022-11-10T21:01:34Z,25166128002,true,PullRequestEvent,24277002,257361977,,1,30,44,2,17,65,65,false,true,true,JavaScript,65,feat: 🎸 Credential type selector refactor,open
+2022-11-10T21:01:34Z,25166128082,true,PullRequestEvent,1300022,53438969,,1,12,16,5,10,50,50,false,true,false,Python,50,"Separate test and dev deps, remove pytest-cov",open
+2022-11-10T21:01:34Z,25166128140,true,PullRequestEvent,22727591,564492708,,2,3,3,1,1,0,0,false,true,true,Python,0,Changes form,open
+2022-11-10T21:01:35Z,25166128402,true,PullRequestEvent,547220,438386493,,1,2,2,4,0,26,26,false,false,false,Go,26,Refactor GitHub Actions,closed
+2022-11-10T21:01:36Z,25166128599,true,PullRequestEvent,49699333,293413090,,1,23,24,2,4,0,0,false,true,true,TypeScript,0,Bump electron from 8.4.1 to 18.3.7,open
+2022-11-10T21:01:36Z,25166128620,true,PullRequestEvent,49702524,535666503,,2,5,5,3,0,0,0,false,false,true,,0,django-htmx v1.13.0,closed
+2022-11-10T21:01:36Z,25166128642,true,PullRequestEvent,49699333,255299177,true,1,968,77,2,2,0,0,false,true,true,TypeScript,0,Bump electron from 8.1.1 to 15.5.5,closed
+2022-11-10T21:01:36Z,25166128668,true,PullRequestEvent,43119821,81434609,,1,64,61,2,2,0,0,false,false,false,JavaScript,0,Update build configuration,closed
+2022-11-10T21:01:36Z,25166128685,true,PullRequestEvent,108020116,530716318,,3,473,11,6,2,0,0,false,true,true,JavaScript,0,Develop,closed
+2022-11-10T21:01:36Z,25166128742,true,PullRequestEvent,1749380,407673730,,1,0,9,1,1,0,0,false,true,true,Python,0,Delete WY.yaml,open
+2022-11-10T21:01:36Z,25166128813,true,PullRequestEvent,95315609,561041845,,4,7,13,1,1,0,0,false,true,true,CSS,0,"basic update and nav bar , footber design",open
+2022-11-10T21:01:37Z,25166129075,true,PullRequestEvent,10912981,256492686,true,1,34,51,8,12,560,560,true,true,false,C,560,Fix madvise readahead and csched node removal bugs,closed
+2022-11-10T21:01:38Z,25166129153,true,PullRequestEvent,49699333,2767925,,1,1,1,1,3,39,39,false,false,false,Shell,39,Bump tools/fzf from `2eec989` to `8868d7d`,open
+2022-11-10T21:01:38Z,25166129199,true,PullRequestEvent,49699333,203754957,true,1,58,79,2,3,14,14,false,true,true,JavaScript,14,Bump electron from 8.5.5 to 15.5.5,closed
+2022-11-10T21:01:38Z,25166129209,true,PullRequestEvent,49699333,241554087,,1,946,42,3,22,0,0,false,true,true,JavaScript,0,Bump electron from 8.1.1 to 18.3.7,open
+2022-11-10T21:01:38Z,25166129263,true,PullRequestEvent,6804901,31211061,false,13,1167,1222,69,1951,1025,1025,false,false,true,Python,1025,Decode / encode database ids within pydantic models,closed
+2022-11-10T21:01:38Z,25166129269,true,PullRequestEvent,1120192,512509543,,1,1,1,1,0,0,0,false,true,true,PHP,0,composer(deps-dev): update aws/aws-sdk-php requirement from ^3.241.0 to ^3.242.0,closed
+2022-11-10T21:01:38Z,25166129272,true,PullRequestEvent,12972900,307498983,,2,206,100,31,0,2,2,false,true,true,Jinja,2,Docker volumes,closed
+2022-11-10T21:01:39Z,25166129426,true,PullRequestEvent,49699333,293413090,true,1,23,24,2,3,0,0,false,true,true,TypeScript,0,Bump electron from 8.4.1 to 15.5.5,closed
+2022-11-10T21:01:39Z,25166129462,true,PullRequestEvent,12504246,185628775,,1,247,7,4,15,314,314,false,true,true,Python,314,Adding json decoder for training,open
+2022-11-10T21:01:39Z,25166129475,true,PullRequestEvent,39814207,358094383,,4,10,10,3,0,0,0,false,true,true,Python,0,[pull] main from 521xueweihan:main,closed
+2022-11-10T21:01:39Z,25166129484,true,PullRequestEvent,98239389,555549499,,5,272,293,7,0,0,0,false,true,true,TypeScript,0,Search funcionando,closed
+2022-11-10T21:01:39Z,25166129549,true,PullRequestEvent,49699333,306718502,,1,22,28,2,3,0,0,false,true,true,TypeScript,0,Bump electron from 8.5.0 to 18.3.7,open
+2022-11-10T21:01:39Z,25166129550,true,PullRequestEvent,49699333,259610136,,1,61,52,2,3,1,1,false,true,true,TypeScript,1,chore(deps-dev): bump electron from 8.2.3 to 18.3.7,open
+2022-11-10T21:01:39Z,25166129554,true,PullRequestEvent,41898282,2767925,,1,1,1,1,2,39,39,false,false,false,Shell,39,Bump zsh/plugins/completions from `b736f26` to `4e63f45`,closed
+2022-11-10T21:01:39Z,25166129665,true,PullRequestEvent,3658262,563102569,,4,2554,123,27,0,0,0,false,false,true,Lua,0,fixed enchanting and tried to fix taint issue,closed
+2022-11-10T21:01:39Z,25166129691,true,PullRequestEvent,812783,294546561,false,1,63,3,6,782,798,798,true,true,true,TypeScript,798,Draft - Current Env Kernel,closed
+2022-11-10T21:01:39Z,25166129700,true,PullRequestEvent,11214426,46122460,,4,45,0,2,31,120,120,false,false,true,Python,120,Add patch for sentry SDK to correct ASGI v2/v3 detection.,closed
+2022-11-10T21:01:40Z,25166129843,true,PullRequestEvent,29139614,362535503,,1,1,1,1,0,15,15,false,false,false,Open Policy Agent,15,Update bitnami/kubectl:1.25 Docker digest to eee4beb,closed
+2022-11-10T21:01:40Z,25166129947,true,PullRequestEvent,43144390,252140224,,1,41,0,1,7,644,644,false,false,false,TypeScript,644,Add CodeQL workflow for GitHub code scanning,open
+2022-11-10T21:01:41Z,25166130065,true,PullRequestEvent,19733683,337144889,,1,1,1,1,2,0,0,false,false,true,,0,[Snyk] Security upgrade mkdocs from 1.1.2 to 1.3.0,open
+2022-11-10T21:01:41Z,25166130073,true,PullRequestEvent,104244124,538160186,,1,3,51,4,5,0,0,false,true,true,TypeScript,0,update,open
+2022-11-10T21:01:41Z,25166130101,true,PullRequestEvent,88631839,557401263,,2,74,1,3,6,0,0,false,true,true,HTML,0,Feature/add js,open
+2022-11-10T21:01:41Z,25166130130,true,PullRequestEvent,49699333,241554087,true,1,955,42,3,21,0,0,false,true,true,JavaScript,0,Bump electron from 8.1.1 to 15.5.5,closed
+2022-11-10T21:01:41Z,25166130149,true,PullRequestEvent,7962156,16944764,,1,3,2,1,16,2132,2132,false,false,true,Python,2132,feat(renderer): add 'cols' keyword argument,open
+2022-11-10T21:01:41Z,25166130229,true,PullRequestEvent,41898282,2767925,,1,1,1,1,1,39,39,false,false,false,Shell,39,Bump vim/pack/03_plugins/start/test from `e7150de` to `ab7feab`,closed
+2022-11-10T21:01:41Z,25166130243,true,PullRequestEvent,54921297,563490770,,1,94,0,1,1,0,0,false,true,true,JavaScript,0,class function and varible def,open
+2022-11-10T21:01:41Z,25166130287,true,PullRequestEvent,49699333,243935381,,1,3183,2744,1,15,0,0,false,true,true,PHP,0,Bump loader-utils from 0.2.17 to 1.4.1,open
+2022-11-10T21:01:41Z,25166130305,true,PullRequestEvent,49699333,259610136,true,1,61,52,2,2,1,1,false,true,true,TypeScript,1,chore(deps-dev): bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:01:42Z,25166130385,true,PullRequestEvent,49699333,306718502,true,1,22,28,2,2,0,0,false,true,true,TypeScript,0,Bump electron from 8.5.0 to 15.5.5,closed
+2022-11-10T21:01:42Z,25166130406,true,PullRequestEvent,3506793,172795545,,1,8,8,4,14,37,37,false,true,true,HTML,37,Increase worker node MHC timeout to 600s,open
+2022-11-10T21:01:42Z,25166130424,true,PullRequestEvent,346123,136521577,,1,1,1,1,5,4,4,false,true,true,CSS,4,fixed typo,closed
+2022-11-10T21:01:42Z,25166130513,true,PullRequestEvent,1410569,105218129,,1,40,3,3,1,314,314,false,false,false,Java,314,Add of method to Rank to create Card instances.,closed
+2022-11-10T21:01:42Z,25166130596,true,PullRequestEvent,49699333,277748765,,1,558,119,3,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.3 to 18.3.7,open
+2022-11-10T21:01:42Z,25166130670,true,PullRequestEvent,49699333,252913684,,1,1815,93,3,2,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.0 to 18.3.7,open
+2022-11-10T21:01:43Z,25166130697,true,PullRequestEvent,49699333,297374462,,1,23,24,2,4,0,0,false,true,true,TypeScript,0,Bump electron from 8.4.1 to 18.3.7,open
+2022-11-10T21:01:43Z,25166130733,true,PullRequestEvent,19733683,482255877,,1,1,1,1,37,0,0,false,true,true,,0,[Snyk] Security upgrade electron from 11.5.0 to 19.1.5,open
+2022-11-10T21:01:43Z,25166130959,true,PullRequestEvent,49699333,132086409,,1,139,122,1,7,107,107,false,false,false,JavaScript,107,chore: bump @npmcli/arborist from 6.1.0 to 6.1.2,open
+2022-11-10T21:01:43Z,25166130962,true,PullRequestEvent,49699333,2767925,,1,1,1,1,2,39,39,false,false,false,Shell,39,Bump vim/pack/03_plugins/start/vim-lsp from `c0325a8` to `e42203b`,open
+2022-11-10T21:01:44Z,25166131115,true,PullRequestEvent,223045,463841769,,4,153,114,9,5,4,4,false,false,false,C,4,Improve device list,closed
+2022-11-10T21:01:44Z,25166131162,true,PullRequestEvent,2960590,392700037,,1,174,1,2,8,0,0,false,true,true,Mustache,0,fix readme,closed
+2022-11-10T21:01:44Z,25166131241,true,PullRequestEvent,114953392,564004500,,1,32,26,6,1,0,0,false,true,true,JavaScript,0,fixed content positioning & built custom coffee image selector,open
+2022-11-10T21:01:45Z,25166131300,true,PullRequestEvent,49699333,268999437,,1,2757,108,3,2,0,0,false,true,true,TypeScript,0,Bump electron from 9.0.1 to 18.3.7,open
+2022-11-10T21:01:45Z,25166131315,true,PullRequestEvent,6107272,50304279,true,1,11,2,1,173,1803,1803,false,false,true,TypeScript,1803,don't duplicate persistent share links when importing,closed
+2022-11-10T21:01:45Z,25166131375,true,PullRequestEvent,49699333,481278337,,1,69,69,2,6,0,0,false,true,true,Vue,0,chore(deps): bump vue from 3.2.31 to 3.2.44,open
+2022-11-10T21:01:45Z,25166131385,true,PullRequestEvent,49699333,277748765,true,1,568,119,3,1,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.3 to 15.5.5,closed
+2022-11-10T21:01:45Z,25166131414,true,PullRequestEvent,49699333,252913684,true,1,1815,93,3,1,0,0,false,true,true,JavaScript,0,Bump electron from 8.2.0 to 15.5.5,closed
+2022-11-10T21:01:45Z,25166131423,true,PullRequestEvent,22779605,391886409,,1,1,1,1,1,0,0,false,true,true,Dockerfile,0,Pin Docker base image in Dockerfile,open
+2022-11-10T21:01:45Z,25166131448,true,PullRequestEvent,49699333,245847641,,1,1779,149,2,22,0,0,false,true,true,PHP,0,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:01:45Z,25166131504,true,PullRequestEvent,6306282,28269754,,1,283,74,21,323,812,812,false,false,false,JavaScript,812,fix: debian builds,open
+2022-11-10T21:01:45Z,25166131536,true,PullRequestEvent,22779605,391885951,,1,1,1,1,1,0,0,false,true,true,Dockerfile,0,Pin Docker base image in Dockerfile,open
+2022-11-10T21:01:45Z,25166131546,true,PullRequestEvent,49699333,297374462,true,1,23,24,2,3,0,0,false,true,true,TypeScript,0,Bump electron from 8.4.1 to 15.5.5,closed
+2022-11-10T21:01:46Z,25166131614,true,PullRequestEvent,1589480,3623050,,1,2,2,1,30,19540,19540,false,false,false,Ruby,19540,Update thingsmacsandboxhelper from 3.30 to 3.31,closed
+2022-11-10T21:01:46Z,25166131664,true,PullRequestEvent,23526194,19608522,,1,120,11,2,192,3095,3095,false,true,false,Go,3095,chore(bigtable/bttest): Add read stats to the emulator and a simple test,open
+2022-11-10T21:01:46Z,25166131672,true,PullRequestEvent,49699333,132086409,true,1,121,16,1,6,107,107,false,false,false,JavaScript,107,chore: bump @npmcli/arborist from 6.1.0 to 6.1.1,closed
+2022-11-10T21:01:46Z,25166131746,true,PullRequestEvent,52211546,167229099,,1,2,0,1,22,46,46,false,true,false,HTML,46,Update react_sdk_setup.md,open
+2022-11-10T21:01:46Z,25166131794,true,PullRequestEvent,361671,348060227,,1,96,108,44,68,22193,22193,false,false,true,TypeScript,22193,[ci] release,closed
+2022-11-10T21:01:46Z,25166131607,true,PullRequestEvent,8890530,561916696,,1,1,1,1,0,0,0,false,true,true,Smarty,0,Please approve my PR,closed
+2022-11-10T21:01:47Z,25166131972,true,PullRequestEvent,49699333,268999437,true,1,2762,104,3,1,0,0,false,true,true,TypeScript,0,Bump electron from 9.0.1 to 15.5.5,closed
+2022-11-10T21:01:47Z,25166132049,true,PullRequestEvent,54921297,563490770,,1,94,0,1,0,0,0,false,true,true,JavaScript,0,class function and varible def,closed
+2022-11-10T21:01:47Z,25166132063,true,PullRequestEvent,39814207,42122124,,11,2683,2762,7,0,0,0,false,false,true,JavaScript,0,[pull] master from atom:master,closed
+2022-11-10T21:01:47Z,25166132097,true,PullRequestEvent,49699333,481278337,true,1,69,69,2,5,0,0,false,true,true,Vue,0,chore(deps): bump vue from 3.2.31 to 3.2.43,closed
+2022-11-10T21:01:47Z,25166132122,true,PullRequestEvent,6107272,50304279,,1,11,2,1,174,1803,1803,false,false,true,TypeScript,1803,don't duplicate persistent share links when importing,open
+2022-11-10T21:01:47Z,25166132123,true,PullRequestEvent,75278885,145183271,,7,450096,1,3,224,2789,2789,false,true,true,Jupyter Notebook,2789,asim/kustoking/add-registryevent-microsoftwindows-events,open
+2022-11-10T21:01:48Z,25166132217,true,PullRequestEvent,22727591,564492708,,2,3,3,1,0,0,0,false,true,true,Python,0,Changes form,closed
+2022-11-10T21:01:48Z,25166132355,true,PullRequestEvent,17811126,415955037,,10,251,11,10,7,10,10,false,true,true,Rust,10,Add Pyth EMA,closed
+2022-11-10T21:01:48Z,25166132362,true,PullRequestEvent,9000844,2516243,,2,11,3,2,350,1713,1713,false,false,true,Java,1713,Add has attachment to email,open
+2022-11-10T21:01:49Z,25166132425,true,PullRequestEvent,113541762,564003333,,5,93,92,9,4,2,2,false,true,true,JavaScript,2,Navbar fully working with logo and responsive CSS,open
+2022-11-10T21:01:49Z,25166132448,true,PullRequestEvent,43144390,314517119,,1,41,0,1,8,3,3,false,false,false,TypeScript,3,Add CodeQL workflow for GitHub code scanning,open
+2022-11-10T21:01:49Z,25166132511,true,PullRequestEvent,69345714,247692460,,2,165,12,11,4,180,180,false,true,true,,180,"Added Drops to mobs, more items, new mayor and recipes and fixed disc",open
+2022-11-10T21:01:50Z,25166132711,true,PullRequestEvent,22779605,391886104,,1,1,1,1,1,0,0,false,true,true,Dockerfile,0,Pin Docker base image in Dockerfile,open
+2022-11-10T21:01:50Z,25166132798,true,PullRequestEvent,22779605,391886240,,1,1,1,1,1,0,0,false,true,true,Dockerfile,0,Pin Docker base image in Dockerfile,open
+2022-11-10T21:01:50Z,25166132852,true,PullRequestEvent,117216724,563941357,,2,3,0,2,0,0,0,false,true,true,,0,Feature/cop xyz,closed
+2022-11-10T21:01:50Z,25166132854,true,PullRequestEvent,49699333,248680022,,1,998,135,3,18,4,4,false,true,true,JavaScript,4,Bump electron from 8.1.1 to 18.3.7,open
+2022-11-10T21:01:50Z,25166132866,true,PullRequestEvent,41898282,2767925,,1,1,1,1,1,39,39,false,false,false,Shell,39,Bump tools/fzf from `2eec989` to `8868d7d`,closed
+2022-11-10T21:01:50Z,25166132888,true,PullRequestEvent,22779605,391885792,,1,1,1,1,1,0,0,false,true,true,Dockerfile,0,Pin Docker base image in Dockerfile,open
+2022-11-10T21:01:50Z,25166132909,true,PullRequestEvent,29139614,553611635,,1,5,5,2,4,0,0,false,true,true,Shell,0,chore(deps): update dependency eslint to v8.27.0,closed
+2022-11-10T21:01:50Z,25166132941,true,PullRequestEvent,30537854,408894306,,1,1,0,1,2358,0,0,false,true,true,,0,New PR to test SignCLA at 2022-11-10 13:01:50.066221066 -0800 PST m=+6407.628327225,open
+2022-11-10T21:01:50Z,25166132948,true,PullRequestEvent,64218770,533041946,,1,20,0,1,3,0,0,false,true,true,Kotlin,0,Create pull_request_template.md,closed
+2022-11-10T21:01:51Z,25166133021,true,PullRequestEvent,39814207,512577111,,213,20772,17504,409,2,0,0,false,true,true,,0,[pull] main from sequelize:main,open
+2022-11-10T21:01:51Z,25166133073,true,PullRequestEvent,111641612,564110570,,1,288,116,16,1,0,0,false,true,true,JavaScript,0,all layout done,open
+2022-11-10T21:01:51Z,25166133099,true,PullRequestEvent,4346395,314054602,,3,269,47,12,37,37,37,false,true,true,Rust,37,Specify Subaddress for Sender Memo Credential,closed
+2022-11-10T21:01:51Z,25166133173,true,PullRequestEvent,91911598,561071643,,5,101,0,3,27,0,0,false,false,true,Java,0,Maxwell menuitem1,open
+2022-11-10T21:01:51Z,25166133175,true,PullRequestEvent,29139614,535555394,,1,5,5,2,3,0,0,false,true,true,TypeScript,0,chore(deps): update dependency eslint-plugin-jest to ^27.1.5,open
+2022-11-10T21:01:51Z,25166133296,true,PullRequestEvent,92067588,560121647,,1,13,1,2,1,2,2,false,true,true,Go,2,Add newline when writing files,open
+2022-11-10T21:01:52Z,25166133530,true,PullRequestEvent,49699333,217787622,,1,27,27,2,3,38,38,true,false,true,JavaScript,38,Bump eslint-plugin-jest from 27.1.4 to 27.1.5,open
+2022-11-10T21:01:53Z,25166133734,true,PullRequestEvent,97764156,65600975,true,2,69,0,1,10540,60216,60216,false,true,true,C++,60216,[xnnpack][on-device] executor class,closed
+2022-11-10T21:01:53Z,25166133794,true,PullRequestEvent,95765079,560319790,,1,87,25,13,19,0,0,false,true,true,Ruby,0,Add minimal stlye,open
+2022-11-10T21:01:53Z,25166133845,true,PullRequestEvent,49699333,235985259,,1,73,39,2,44,0,0,false,true,true,TypeScript,0,build(deps): bump @angular/material from 11.2.10 to 14.2.7,open
+2022-11-10T21:01:53Z,25166133863,true,PullRequestEvent,49699333,248680022,true,1,1004,131,3,17,4,4,false,true,true,JavaScript,4,Bump electron from 8.1.1 to 15.5.5,closed
+2022-11-10T21:01:54Z,25166133924,true,PullRequestEvent,95315609,561041845,,4,7,13,1,0,0,0,false,true,true,CSS,0,"basic update and nav bar , footber design",closed
+2022-11-10T21:01:54Z,25166134012,true,PullRequestEvent,100096337,562271811,,1,1378,32,11,2,0,0,false,true,true,JavaScript,0,cloudinary,open
+2022-11-10T21:01:54Z,25166134113,true,PullRequestEvent,49699333,202404148,,1,4,4,2,1,0,0,false,true,true,Ruby,0,Bump cob_index from v0.8.12 to v0.9.0,open
+2022-11-10T21:01:54Z,25166134157,true,PullRequestEvent,67852952,330914717,,2,35,0,2,564,7415,7415,false,true,true,Python,7415,add log1p frontend pytorch,closed
+2022-11-10T21:01:54Z,25166134167,true,PullRequestEvent,15268273,383160830,,1,76,1,2,3,2,2,false,false,false,Go,2,Add: Makefile with some general purpose targets,open
+2022-11-10T21:01:55Z,25166134257,true,PullRequestEvent,95649380,556450437,,1,29,0,3,0,4,4,false,true,true,C++,4,Updating main menu fourt point/option d of the statement,closed
+2022-11-10T21:01:55Z,25166134264,true,PullRequestEvent,64273139,368546749,,6,1038,1082,4,1,1,1,false,true,true,JavaScript,1,Add auto update,open
+2022-11-10T21:01:55Z,25166134316,true,PullRequestEvent,2774845,453909731,,16,37829,11,8,5,24,24,false,true,true,TypeScript,24,arweave support,closed
+2022-11-10T21:01:55Z,25166134326,true,PullRequestEvent,49699333,245505308,,1,981,26,3,31,0,0,false,true,true,HTML,0,Bump electron from 8.1.0 to 18.3.7 in /summarizer,open
+2022-11-10T21:01:55Z,25166134371,true,PullRequestEvent,84948785,375524991,true,1,152,0,2,12,0,0,false,true,true,Java,0,Pull request for recommendations,closed
+2022-11-10T21:01:55Z,25166134419,true,PullRequestEvent,41898282,2767925,,1,1,1,1,0,39,39,false,false,false,Shell,39,Bump vim/pack/03_plugins/start/vim-lsp from `c0325a8` to `e42203b`,closed
+2022-11-10T21:01:56Z,25166134542,true,PullRequestEvent,69602589,543326377,,1,358,114,29,4,0,0,false,true,true,JavaScript,0,FSA22V2-248: Styling Detail Page Theming (dark mode),closed
+2022-11-10T21:01:56Z,25166134557,true,PullRequestEvent,35845488,146515502,,1,22,0,1,203,389,389,false,false,true,C++,389,Bloodvenom post gameobjects,closed
+2022-11-10T21:01:56Z,25166134619,true,PullRequestEvent,15188540,541340563,,2,16,17,4,1,0,0,false,true,true,C#,0,"Updates the pistol to use glow textures, temporarily changes spawn orientation and updates asset locations",open
+2022-11-10T21:01:56Z,25166134644,true,PullRequestEvent,29139614,316765908,,1,1,1,1,2,1,1,false,true,false,Java,1,fix(deps): update dependency com.github.jnr:jnr-ffi to v2.2.13,open
+2022-11-10T21:01:56Z,25166134715,true,PullRequestEvent,18542095,43975096,false,1,3389,281,2,134,84,84,true,false,true,TypeScript,84,chore(deps): bump hermes-engine and react-native,closed
+2022-11-10T21:01:57Z,25166134779,true,PullRequestEvent,39814207,389279387,,2,14,20,6,1,0,0,false,false,true,,0,[pull] master from XIU2:master,open
+2022-11-10T21:01:57Z,25166134791,true,PullRequestEvent,43144390,481726721,,1,41,0,1,1,5,5,false,false,false,Python,5,Add CodeQL workflow for GitHub code scanning,open
+2022-11-10T21:01:57Z,25166134864,true,PullRequestEvent,117525566,562592730,,1,42,2,1,5,0,0,false,true,true,HTML,0,Added HTML code to application,closed
+2022-11-10T21:01:58Z,25166135107,true,PullRequestEvent,100209541,561669714,,1,48,38,3,1,2,2,false,true,true,SCSS,2,Підправив пагінацію,open
+2022-11-10T21:01:58Z,25166135109,true,PullRequestEvent,49699333,239379960,,1,356,217,2,28,0,0,false,true,true,JavaScript,0,Bump loader-utils and html-webpack-plugin,open
+2022-11-10T21:01:58Z,25166135125,true,PullRequestEvent,72429488,534429443,,1,7317,281,10,1,1,1,false,true,true,C#,1,Changed player gun to M60,open
+2022-11-10T21:01:58Z,25166135265,true,PullRequestEvent,49699333,245505308,true,1,985,26,3,30,0,0,false,true,true,HTML,0,Bump electron from 8.1.0 to 15.5.5 in /summarizer,closed
+2022-11-10T21:01:58Z,25166135307,true,PullRequestEvent,49699333,235985259,true,1,73,39,2,43,0,0,false,true,true,TypeScript,0,build(deps): bump @angular/material from 11.2.10 to 14.2.6,closed
+2022-11-10T21:01:59Z,25166135365,true,PullRequestEvent,49699333,66926052,,1,1,1,1,9,6,6,false,true,true,Python,6,Bump boto3 from 1.18.34 to 1.26.7,open
+2022-11-10T21:01:59Z,25166135393,true,PullRequestEvent,109028851,559293446,,6,150,4,14,1,0,0,false,true,true,Python,0,ik weet niet of dit werkt maar ik probeer de commits te mergen en het te pullen zo,open
+2022-11-10T21:01:59Z,25166135400,true,PullRequestEvent,9871968,564364653,,1,33,0,2,1,0,0,false,true,true,TypeScript,0,Adding user list,open
+2022-11-10T21:01:59Z,25166135514,true,PullRequestEvent,19733683,90176236,,1,2,2,1,58,0,0,false,true,true,CSS,0,[Snyk] Security upgrade electron from 1.8.8 to 19.1.5,open
+2022-11-10T21:01:59Z,25166135528,true,PullRequestEvent,49699333,266291307,,1,8,8,2,2,0,0,false,true,true,TypeScript,0,build(deps-dev): bump cypress from 10.11.0 to 11.0.1,open
+2022-11-10T21:01:59Z,25166135583,true,PullRequestEvent,49699333,2767925,,1,1,1,1,1,39,39,false,false,false,Shell,39,Bump env-wrappers/pyenv/pyenv from `904fe96` to `19359de`,open
+2022-11-10T21:02:00Z,25166135822,true,PullRequestEvent,64273139,368546749,,6,1038,1082,4,0,1,1,false,true,true,JavaScript,1,Add auto update,closed
+2022-11-10T21:02:01Z,25166135902,true,PullRequestEvent,49699333,259141504,,1,1,1,1,315,215,215,false,true,true,Java,215,Bump httpclient5 from 5.1.3 to 5.2,open
+2022-11-10T21:02:01Z,25166135957,true,PullRequestEvent,1589480,3623050,,1,2,2,1,29,19540,19540,false,false,false,Ruby,19540,Update mem from 0.39.0 to 0.40.0,closed
+2022-11-10T21:02:01Z,25166135969,true,PullRequestEvent,918403,135329184,,3,431,46,4,46,202,202,false,true,true,Coq,202,Faster cancel,closed
+2022-11-10T21:02:01Z,25166136005,true,PullRequestEvent,41898282,292089918,,2,86,3,3,11,53,53,false,true,true,JavaScript,53,Release v2.1.0,open
+2022-11-10T21:02:01Z,25166136011,true,PullRequestEvent,29150145,88523356,,1,3,3,2,47,1643,1643,false,false,false,JavaScript,1643,PivotGrid ds & SpeedDialAction: fix lgtm warnings,open
+2022-11-10T21:02:01Z,25166136035,true,PullRequestEvent,81530374,359900856,,3,1,0,2,3,11,11,false,true,true,JavaScript,11,task/add-version-control-png,closed
+2022-11-10T21:02:02Z,25166136222,true,PullRequestEvent,45451118,561968800,,5,588,181,27,0,3,3,false,true,true,JavaScript,3,update develop from main,closed
+2022-11-10T21:02:02Z,25166136249,true,PullRequestEvent,49699333,266291307,true,1,8,8,2,1,0,0,false,true,true,TypeScript,0,build(deps-dev): bump cypress from 10.11.0 to 11.0.0,closed
+2022-11-10T21:02:02Z,25166136274,true,PullRequestEvent,29139614,316765908,,1,1,1,1,3,1,1,false,true,false,Java,1,fix(deps): update dependency com.github.jnr:jnr-ffi to v2.2.13,open
+2022-11-10T21:02:03Z,25166136514,true,PullRequestEvent,50947731,476245785,,3,1657,125,22,1,0,0,false,true,true,R,0,Improving using dbbmm variance,open
+2022-11-10T21:02:03Z,25166136528,true,PullRequestEvent,34882892,322331937,,1,1,1,1,6,2,2,false,true,true,TypeScript,2,chore(deps): update etcher digest to 7de9900,open
+2022-11-10T21:02:03Z,25166136558,true,PullRequestEvent,110210200,559950736,,3,1,0,1,0,0,0,false,true,true,JavaScript,0,Feature/styling,closed
+2022-11-10T21:02:03Z,25166136618,true,PullRequestEvent,18519037,2410676,,14,756,216,22,122,3190,3190,false,false,true,Python,3190,Create BaseHTTPConnection APIs,closed
+2022-11-10T21:02:04Z,25166136817,true,PullRequestEvent,92114575,164155701,,1,28,28,18,15,36,36,false,false,true,Jupyter Notebook,36,Update oss-prow to v20221110-d224b81b1a,closed
+2022-11-10T21:02:04Z,25166136852,true,PullRequestEvent,49699333,266646779,,1,1,1,1,10,140,140,false,true,true,Rust,140,Update hashbrown requirement from 0.12.0 to 0.13.1,open
+2022-11-10T21:02:04Z,25166136931,true,PullRequestEvent,39814207,327249054,,1635,448150,85229,2159,1,0,0,false,true,true,TypeScript,0,[pull] master from ant-design:master,open
+2022-11-10T21:02:04Z,25166136981,true,PullRequestEvent,72429488,534429443,,1,7317,281,10,0,1,1,false,true,true,C#,1,Changed player gun to M60,closed
+2022-11-10T21:02:05Z,25166137139,true,PullRequestEvent,88631839,557401263,,2,74,1,3,5,0,0,false,true,true,HTML,0,Feature/add js,closed
+2022-11-10T21:02:05Z,25166137143,true,PullRequestEvent,95327723,550954400,,1,0,0,5,1,0,0,false,true,true,,0,"Limit Minions, Better Minion Spawning",open
+2022-11-10T21:02:05Z,25166137226,true,PullRequestEvent,90270663,447292466,,5,277,91,8,2,31,31,false,false,false,Python,31,RSDK-812-817: Extra params for Services,closed
+2022-11-10T21:02:05Z,25166137227,true,PullRequestEvent,48220860,230042978,,2,34,6,3,52,312,312,false,true,true,YAML,312,Switch to an Algolia API scraper for GangbangCreampie,open
+2022-11-10T21:02:05Z,25166137276,true,PullRequestEvent,49699333,272317376,,1,122,187,2,11,6,6,false,true,true,Go,6,build(deps): bump k8s.io/client-go from 0.22.2 to 0.25.4,open
+2022-11-10T21:02:06Z,25166137452,true,PullRequestEvent,49699333,560548455,,1,6,6,2,5,1,1,false,true,true,Svelte,1,chore(deps-dev): bump svelte from 3.52.0 to 3.53.1,open
+2022-11-10T21:02:06Z,25166137487,true,PullRequestEvent,49699333,532139252,,1,9,9,1,1,2,2,false,true,true,Java,2,build(deps): bump loader-utils from 2.0.2 to 2.0.3 in /fazenda-ui,open
+2022-11-10T21:02:06Z,25166137495,true,PullRequestEvent,49699333,239883816,,1,72,29,1,15,0,0,false,true,true,JavaScript,0,Bump loader-utils from 1.1.0 to 1.4.1 in /j-14-25-destructuring/notes-app,open
+2022-11-10T21:02:07Z,25166137750,true,PullRequestEvent,116391131,564495571,,1,397,3,4,1,0,0,false,true,true,,0,add html css,open
+2022-11-10T21:02:07Z,25166137925,true,PullRequestEvent,49699333,230701969,,1,62,34,1,2,0,0,false,true,true,Solidity,0,Bump minimatch from 3.0.4 to 3.1.2,open
+2022-11-10T21:02:07Z,25166137980,true,PullRequestEvent,94874676,564492462,,1,1,0,1,1,0,0,false,true,true,,0,Create README.md,open
+2022-11-10T21:02:08Z,25166138025,true,PullRequestEvent,30537854,408894306,true,1,1,0,1,2357,0,0,false,true,true,,0,New PR to test SignCLA at 2022-11-10 13:01:50.066221066 -0800 PST m=+6407.628327225,closed
+2022-11-10T21:02:08Z,25166138105,true,PullRequestEvent,12504246,185628775,true,1,247,7,4,14,314,314,false,true,true,Python,314,Adding json decoder for training,closed
+2022-11-10T21:02:08Z,25166138173,true,PullRequestEvent,98332157,564036803,,1,1,1,1,0,0,0,false,true,true,,0,feat: add database info,closed
+2022-11-10T21:02:09Z,25166138323,true,PullRequestEvent,49699333,272317376,true,1,122,187,2,10,6,6,false,true,true,Go,6,build(deps): bump k8s.io/client-go from 0.22.2 to 0.25.3,closed
+2022-11-10T21:02:09Z,25166138405,true,PullRequestEvent,50183230,319704837,false,91,1005,1777,41,4,7,7,false,false,false,JavaScript,7,update slash branch,closed
+2022-11-10T21:02:09Z,25166138611,true,PullRequestEvent,43144390,443343128,,1,41,0,1,52,3570,3570,false,true,true,TypeScript,3570,Add CodeQL workflow for GitHub code scanning,open
+2022-11-10T21:02:10Z,25166138646,true,PullRequestEvent,16639611,259933695,,1,1,1,1,3,32,32,false,false,false,Python,32,Update Dockerfile,open
+2022-11-10T21:02:10Z,25166138797,true,PullRequestEvent,5592157,130293213,,1,1,0,1,42,629,629,false,true,true,C,629,Added developer ID,open
+2022-11-10T21:02:10Z,25166138855,true,PullRequestEvent,41898282,2767925,,1,1,1,1,0,39,39,false,false,false,Shell,39,Bump env-wrappers/pyenv/pyenv from `904fe96` to `19359de`,closed
+2022-11-10T21:02:11Z,25166139063,true,PullRequestEvent,49699333,2767925,,1,1,1,1,1,39,39,false,false,false,Shell,39,Bump tools/testssl.sh from `f5d41ff` to `92a80f7`,open
+2022-11-10T21:02:12Z,25166139425,true,PullRequestEvent,57305249,564335398,,5,71,270,15,1,0,0,false,true,true,Kotlin,0,Develop Entities,closed
+2022-11-10T21:02:12Z,25166139458,true,PullRequestEvent,104244124,538160186,,1,3,51,4,4,0,0,false,true,true,TypeScript,0,update,closed
+2022-11-10T21:02:13Z,25166139560,true,PullRequestEvent,74833446,558771450,,1,4,3,2,1,0,0,false,true,true,SCSS,0,fixed btns,open
+2022-11-10T21:02:13Z,25166139624,true,PullRequestEvent,10810283,564496111,,1,1,0,1,1,0,0,false,true,true,,0,Direwolf review apps test branch-1f4bea8b,open
+2022-11-10T21:02:13Z,25166139738,true,PullRequestEvent,49699333,241604611,,1,4075,10072,2,14,0,0,false,true,true,JavaScript,0,Bump loader-utils and @angular/cli in /5-DOCKER/Dockerfiles_samples/Dockerfiles_samples/service-composer/source-code/client-app,open
+2022-11-10T21:02:13Z,25166139749,true,PullRequestEvent,104567978,527779716,,4,38,5,6,11,2,2,true,true,true,JavaScript,2,Feature about,open
+2022-11-10T21:02:14Z,25166139808,true,PullRequestEvent,34007326,564480425,,1,1,0,1,3,0,0,false,true,true,C++,0,Added sdsds,open
+2022-11-10T21:02:14Z,25166139911,true,PullRequestEvent,39814207,306889695,,2,101,6,6,0,0,0,false,false,true,Shell,0,[pull] master from betaflight:master,closed
+2022-11-10T21:02:14Z,25166140061,true,PullRequestEvent,16310367,24948315,,1,1,4,1,12,1874,1874,false,false,false,Python,1874,run on 22.04 rather than 20.04,open
+2022-11-10T21:02:14Z,25166140068,true,PullRequestEvent,111460342,563420268,,1,3,1,1,0,3,3,false,true,true,JavaScript,3,added button to enter first room,closed
+2022-11-10T21:02:15Z,25166140129,true,PullRequestEvent,3491507,182469103,,1,3,3,1,18,0,0,false,false,true,C++,0,build(deps): bump slack-sdk from 3.13.0 to 3.19.3 in /.github/actions/pr_notifier,closed
+2022-11-10T21:02:15Z,25166140153,true,PullRequestEvent,25329319,315708034,,17,699,611,49,187,14,14,false,true,true,TypeScript,14,Feature/acceptable use page,open
+2022-11-10T21:02:15Z,25166140263,true,PullRequestEvent,49699333,4757357,,1,1,1,1,24,24,24,true,false,false,PHP,24,build(deps-dev): update phpstan/phpstan requirement from 1.9.1 to 1.9.2,open
+2022-11-10T21:02:15Z,25166140306,true,PullRequestEvent,49699333,239412020,,1,7618,4030,2,19,0,0,false,true,true,TypeScript,0,Bump loader-utils and @angular-devkit/build-angular,open
+2022-11-10T21:02:15Z,25166140315,true,PullRequestEvent,605361,328721165,,8,170,19,19,147,4,4,false,true,true,PHP,4,"feat: manage access needs (resolves #406, resolves #407, resolves #1130)",closed
+2022-11-10T21:02:16Z,25166140525,true,PullRequestEvent,108012550,563460245,,2,6484,15846,21,0,0,0,false,true,true,JavaScript,0,add-remove-list,closed
+2022-11-10T21:02:16Z,25166140573,true,PullRequestEvent,49699333,7569578,,1,1,1,1,86,36807,36807,false,false,false,Ruby,36807,Build(deps): Bump jquery-rails from 4.5.0 to 4.5.1,open
+2022-11-10T21:02:17Z,25166140786,true,PullRequestEvent,49699333,246143380,,1,2192,1383,2,17,0,0,false,true,true,JavaScript,0,Bump loader-utils from 1.1.0 to 1.4.1,open
+2022-11-10T21:02:17Z,25166140833,true,PullRequestEvent,114540396,542332877,,1,55,7,5,1,0,0,false,true,true,HTML,0,validação de login adicionada ao login do usuario no cabeçalho,closed
+2022-11-10T21:02:17Z,25166140855,true,PullRequestEvent,1320219,352810635,,4,237,166,3,6,153,153,false,true,true,C,153,Better handling for boolean Group arguments,open
+2022-11-10T21:02:18Z,25166141016,true,PullRequestEvent,94747156,564392423,,1,31,0,1,1,0,0,false,true,true,JavaScript,0,calculator/port:3000,open
+2022-11-10T21:02:18Z,25166141079,true,PullRequestEvent,115173603,564486627,,1,1,1,1,1,0,0,false,true,true,Python,0,1,open
+2022-11-10T21:02:18Z,25166141088,true,PullRequestEvent,43144390,428728460,,1,41,0,1,1,0,0,false,false,false,JavaScript,0,Add CodeQL workflow for GitHub code scanning,open
+2022-11-10T21:02:18Z,25166141111,true,PullRequestEvent,30724972,334182102,,1,1,1,1,2,22,22,true,true,true,Python,22,Fixed name,open
+2022-11-10T21:02:18Z,25166141139,true,PullRequestEvent,6414286,16851223,,1,14,5,2,1776,1047,1047,true,true,true,C++,1047,Handle new PBS exit codes,open
+2022-11-10T21:02:18Z,25166141176,true,PullRequestEvent,49699333,2767925,,1,1,1,1,2,39,39,false,false,false,Shell,39,Bump zsh/plugins/abbr from `2b7b26e` to `60ad999`,open
+2022-11-10T21:02:19Z,25166141265,true,PullRequestEvent,93402677,560192090,,9,443,180,8,0,1,1,false,true,true,JavaScript,1,Dev bruno morales,closed
+2022-11-10T21:02:19Z,25166141296,true,PullRequestEvent,40920446,560137702,,4,21,12,9,1,0,0,false,true,true,Java,0,Fis merge issues,open
+2022-11-10T21:02:20Z,25166141531,true,PullRequestEvent,49699333,262433570,,1,2825,158,3,20,0,0,false,true,true,JavaScript,0,Bump electron from 8.3.0 to 18.3.7,open
+2022-11-10T21:02:20Z,25166141562,true,PullRequestEvent,49699333,303712696,,1,23140,194,3,5,0,0,false,true,true,TypeScript,0,Bump electron from 8.5.0 to 18.3.7,open
+2022-11-10T21:02:20Z,25166141656,true,PullRequestEvent,19397042,55433859,,4,356,37,26,211,495,495,false,true,true,C++,495,Insert casts in action call arguments,closed
+2022-11-10T21:02:20Z,25166141669,true,PullRequestEvent,19733683,130473968,,1,2,2,1,17,0,0,false,true,true,Tcl,0,[Snyk] Fix for 6 vulnerabilities,open
+2022-11-10T21:02:20Z,25166141705,true,PullRequestEvent,71913098,561957118,,1,63,14,6,1,2,2,false,true,true,,2,[brandon] pr,open
+2022-11-10T21:02:21Z,25166141943,true,PullRequestEvent,113310999,556789891,,3,48,44,3,26,4,4,false,true,true,Java,4,Setup DynamoDB Client,closed
+2022-11-10T21:02:21Z,25166141957,true,PullRequestEvent,98348782,561913630,,2,32,41,7,2,3,3,false,true,true,JavaScript,3,Woelffer feature,open
+2022-11-10T21:02:21Z,25166141981,true,PullRequestEvent,41898282,2767925,,1,1,1,1,1,39,39,false,false,false,Shell,39,Bump tools/testssl.sh from `f5d41ff` to `92a80f7`,closed
+2022-11-10T21:02:21Z,25166142043,true,PullRequestEvent,90109558,548245949,,1,1,1,1,5,0,0,false,true,true,TypeScript,0,edit base url,open
+2022-11-10T21:02:21Z,25166142050,true,PullRequestEvent,139499,873328,,1,2,0,1,659,32518,32518,true,false,false,Python,32518,feat(hybrid-cloud): Add /discover/* Django route,closed
+2022-11-10T21:02:21Z,25166142072,true,PullRequestEvent,12821956,41881900,,1,3,3,2,8047,138975,138975,false,true,true,TypeScript,138975,Fix webview state update,open
+2022-11-10T21:02:22Z,25166142092,true,PullRequestEvent,109479871,560631011,,1,53,5,2,1,0,0,false,true,true,JavaScript,0,added css and changes to user,open
+2022-11-10T21:02:22Z,25166142137,true,PullRequestEvent,39814207,561359971,,9,85,1,5,0,0,0,false,true,true,JavaScript,0,[pull] main from ClydeTime:main,closed
+2022-11-10T21:02:22Z,25166142142,true,PullRequestEvent,39814207,201824494,,11,2683,2762,7,1,0,0,false,false,true,JavaScript,0,[pull] master from atom:master,open
+2022-11-10T21:02:22Z,25166142218,true,PullRequestEvent,94874676,564492462,,1,1,0,1,0,0,0,false,true,true,,0,Create README.md,closed
+2022-11-10T21:02:22Z,25166142228,true,PullRequestEvent,49699333,166778055,,1,2,2,1,2,4,4,false,false,false,Ruby,4,Bump email_validator from 2.2.3 to 2.2.4,open
+2022-11-10T21:02:22Z,25166142256,true,PullRequestEvent,49699333,303712696,true,1,23059,194,3,4,0,0,false,true,true,TypeScript,0,Bump electron from 8.5.0 to 15.5.5,closed
+2022-11-10T21:02:22Z,25166142276,true,PullRequestEvent,29139614,372440718,,1,1,1,1,10,45,45,true,true,true,Java,45,Update nessieBuildPlugins to v0.2.13,open
+2022-11-10T21:02:22Z,25166142262,true,PullRequestEvent,49699333,242713868,,1,1366,988,1,18,0,0,false,true,true,JavaScript,0,Bump loader-utils from 1.1.0 to 1.4.1 in /src/static/pnotify-master/libtests/webpack,open
+2022-11-10T21:02:23Z,25166142332,true,PullRequestEvent,49699333,297043696,,1,262,108,2,8,142,142,false,true,true,TypeScript,142,build(deps): bump @prisma/internals from 4.6.0 to 4.6.1,open
+2022-11-10T21:02:23Z,25166142413,true,PullRequestEvent,49699333,262433570,true,1,2825,158,3,19,0,0,false,true,true,JavaScript,0,Bump electron from 8.3.0 to 15.5.5,closed
+2022-11-10T21:02:23Z,25166142438,true,PullRequestEvent,53923960,491311972,,3,34,26,2,29,1,1,true,false,true,JavaScript,1,Add an npm workspace,open
+2022-11-10T21:02:23Z,25166142553,true,PullRequestEvent,49699333,284514780,,1,305,74,3,4,4,4,false,true,true,TypeScript,4,Bump electron from 8.4.1 to 18.3.7,open
+2022-11-10T21:02:24Z,25166142745,true,PullRequestEvent,9011267,29078997,,16,511,664,48,8589,16615,16615,true,false,true,C#,16615,Merge main to main-vs-deps,open
+2022-11-10T21:02:24Z,25166142784,true,PullRequestEvent,30724972,334182102,,1,1,1,1,1,22,22,true,true,true,Python,22,Fixed name,closed
+2022-11-10T21:02:24Z,25166142860,true,PullRequestEvent,38584660,129936360,true,7,629,613,21,299,1582,1582,true,false,true,Python,1582,Pauli arithmetic docstring/example edits,closed
+2022-11-10T21:02:25Z,25166142929,true,PullRequestEvent,7892779,148553905,,1,101,31,3,218,3067,3067,false,true,true,Nunjucks,3067,"Update \"PWAs on Oculus 2\" blog post",open
+2022-11-10T21:02:25Z,25166143018,true,PullRequestEvent,287816,257639553,,1,6,0,1,16,116,116,false,true,true,Nim,116,added []= value assignment for smart pointers,closed
+2022-11-10T21:02:26Z,25166143084,true,PullRequestEvent,24193459,564462277,,1,3,1,1,1,0,0,false,true,true,,0,added some text++,open
+2022-11-10T21:02:26Z,25166143173,true,PullRequestEvent,29674758,251275960,,1,1315,1067,2,33,486,486,false,false,false,Shell,486,chart/dashboards: sync promscale dashboard,closed
+2022-11-10T21:02:26Z,25166143248,true,PullRequestEvent,11215289,538890184,,3,1062,118,14,0,0,0,false,false,true,HTML,0,Декоративные элементы всех страниц,closed
+2022-11-10T21:02:26Z,25166143261,true,PullRequestEvent,100377552,473655515,,1,143,27,5,2,1,1,false,true,true,JavaScript,1,adds option to bundle non-purchase commerce events into a single even…,open
+2022-11-10T21:02:27Z,25166143359,true,PullRequestEvent,10810283,564496111,true,1,1,0,1,0,0,0,false,true,true,,0,Direwolf review apps test branch-1f4bea8b,closed
+2022-11-10T21:02:27Z,25166143371,true,PullRequestEvent,60141949,397919744,,2,6,2,1,144,156,156,true,true,true,JavaScript,156,Login Page Font Mismatch Fix,open
+2022-11-10T21:02:27Z,25166143373,true,PullRequestEvent,49699333,284514780,true,1,300,74,3,3,4,4,false,true,true,TypeScript,4,Bump electron from 8.4.1 to 15.5.5,closed
+2022-11-10T21:02:27Z,25166143459,true,PullRequestEvent,104567978,527779716,,4,38,5,6,10,2,2,true,true,true,JavaScript,2,Feature about,closed
+2022-11-10T21:02:28Z,25166143611,true,PullRequestEvent,49699333,201673658,,1,786,278,2,20,0,0,false,true,true,JavaScript,0,Bump firebase from 8.6.2 to 9.14.0,open
+2022-11-10T21:02:28Z,25166143659,true,PullRequestEvent,49699333,211364354,,1,24,24,2,1,76,76,false,false,false,JavaScript,76,Bump redis from 4.4.0 to 4.5.0,open
+2022-11-10T21:02:28Z,25166143713,true,PullRequestEvent,28541613,171368195,,1,7,0,1,34,5383,5383,true,true,true,JavaScript,5383,docs(storybook): make story 100% height,open
+2022-11-10T21:02:29Z,25166143871,true,PullRequestEvent,4606373,375847433,,294,21,17,3,58,130,130,true,true,true,TypeScript,130,Jonator/hotfix fix transfer table,open
+2022-11-10T21:02:29Z,25166144135,true,PullRequestEvent,41898282,2767925,,1,1,1,1,0,39,39,false,false,false,Shell,39,Bump zsh/plugins/abbr from `2b7b26e` to `60ad999`,closed
+2022-11-10T21:02:30Z,25166144199,true,PullRequestEvent,49699333,232034729,,1,1,1,1,5,9,9,false,true,true,Kotlin,9,Bump runner from 1.5.0 to 1.5.1,open
+2022-11-10T21:02:30Z,25166144416,true,PullRequestEvent,109028851,559293446,,6,150,4,14,0,0,0,false,true,true,Python,0,ik weet niet of dit werkt maar ik probeer de commits te mergen en het te pullen zo,closed
+2022-11-10T21:02:31Z,25166144518,true,PullRequestEvent,49699333,201673658,true,1,785,277,2,19,0,0,false,true,true,JavaScript,0,Bump firebase from 8.6.2 to 9.13.0,closed
+2022-11-10T21:02:31Z,25166144606,true,PullRequestEvent,30444886,564343835,,7,273,77,7,0,0,0,false,false,true,Rust,0,Added cli options - First stable version,closed
+2022-11-10T21:02:31Z,25166144620,true,PullRequestEvent,94747156,564392423,,1,31,0,1,0,0,0,false,true,true,JavaScript,0,calculator/port:3000,closed
+2022-11-10T21:02:31Z,25166144681,true,PullRequestEvent,49699333,261742091,,1,14,12,2,7,1,1,false,true,true,Go,1,Bump k8s.io/apimachinery from 0.24.3 to 0.25.4,open
+2022-11-10T21:02:31Z,25166144715,true,PullRequestEvent,69110671,92425061,,2,11,11,4,49,380,380,false,false,false,PowerShell,380,Deploy November 2022 second tools publish,closed
+2022-11-10T21:02:31Z,25166144720,true,PullRequestEvent,49699333,247416669,,1,488,529,2,15,0,0,false,true,true,JavaScript,0,Bump loader-utils from 0.2.17 to 1.4.1,open
