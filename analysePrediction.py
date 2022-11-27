@@ -36,12 +36,12 @@ plt.show()
 plt.scatter(githubdf['Status'],githubdf['stargazers_count'],c=colors, alpha=0.5)
 plt.show()
 
-dataFrameAuthor = pd.DataFrame(githubdf['language'].values.tolist()).value_counts().rename_axis('Model').reset_index(name='counts')
-dataFrameAuthor.columns = ['Term','Count']
-wordCloudInputCountry = dataFrameAuthor.set_index('Term').to_dict()['Count']
-wcCountry= WordCloud(background_color="white", width=1000, height=500, max_words=200).generate_from_frequencies(wordCloudInputCountry)
+dfLanguage = pd.DataFrame(githubdf['language'].values.tolist()).value_counts().rename_axis('Model').reset_index(name='counts')
+dfLanguage.columns = ['Term','Count']
+wcLanguageList = dfLanguage.set_index('Term').to_dict()['Count']
+wcLanguage= WordCloud(background_color="white", width=1000, height=500, max_words=200).generate_from_frequencies(wcLanguageList)
 plt.figure(figsize=(15, 15))
-plt.imshow(wcCountry, interpolation='bilinear')
+plt.imshow(wcLanguage, interpolation='bilinear')
 plt.axis('off')
 
 plt.show()
