@@ -1,0 +1,274 @@
+mergeable
+commits
+additions
+deletions
+changed_files
+open_issues_count
+watchers_count
+forks_count
+has_discussions
+has_wiki
+has_projects
+stargazers_count
+title_size
+merged
+java
+javascript
+typescript
+python
+html
+go
+c#
+ruby
+c++
+php
+shell
+css
+rust
+vue
+c
+kotlin
+hcl
+scala
+jupyter notebook
+roff
+dart
+swift
+scss
+dockerfile
+julia
+powershell
+brainfuck
+makefile
+lua
+nix
+r
+jinja
+svelte
+elixir
+ dm
+markdown
+blade
+smarty
+tsql
+solidity
+astro
+ejs
+groovy
+mustache
+ocaml
+shaderlab
+starlark
+handlebars
+perl
+haskell
+clojure
+tex
+ballerina
+nunjucks
+objective-c
+gdscript
+rich text format
+plpgsql
+jsonnet
+erlang
+vim script
+pascal
+yaml
+less
+cmake
+json
+fortran
+xslt
+systemverilog
+apex
+batchfile
+adblock filter list
+assembly
+lean
+elm
+matlab
+hack
+f#
+twig
+verilog
+pug
+nim
+stylus
+gherkin
+emacs lisp
+crystal
+nextflow
+scheme
+bicep
+coffeescript
+plsql
+tcl
+liquid
+bitbake
+open policy agent
+zig
+codeql
+sass
+haxe
+freemarker
+gap
+qml
+glsl
+asp_net
+d
+smalltalk
+visual basic _net
+aspectj
+cuda
+v
+slim
+coq
+kvlang
+purescript
+sourcepawn
+digital command language
+prolog
+ren'py
+smali
+purebasic
+xquery
+denizenscript
+objective-c++
+restructuredtext
+abap
+actionscript
+bikeshed
+common lisp
+processing
+standard ml
+mathematica
+cairo
+openscad
+postscript
+puppet
+squirrel
+zenscript
+cue
+modelica
+move
+raml
+webassembly
+asl
+g-code
+gams
+rescript
+sqf
+yara
+ada
+agda
+antlr
+apl
+llvm
+mlir
+robotframework
+saltstack
+stata
+thrift
+vba
+ags script
+al
+cobol
+groff
+hoon
+modula-3
+motoko
+papyrus
+routeros script
+sql
+isabelle
+meson
+vim snippet
+visual basic 6_0
+angelscript
+arduino
+brighterscript
+cweb
+cython
+earthly
+inno setup
+jetbrains mps
+livescript
+picolisp
+qmake
+rascal
+unrealscript
+witcher script
+xml
+apacheconf
+ f*
+fluent
+gleam
+gnuplot
+logos
+mercury
+nsis
+slash
+swig
+vala
+vbscript
+xtend
+yacc
+1c enterprise
+ 4d
+ampl
+asp
+awk
+blitzmax
+coldfusion
+dafny
+dylan
+ecl
+fancy
+freebasic
+game maker language
+hlsl
+idris
+labview
+lilypond
+lookml
+macaulay2
+nasal
+ncl
+pawn
+piglatin
+procfile
+raku
+renderscript
+supercollider
+vhdl
+wollok
+brightscript
+cadence
+common workflow language
+cypher
+dhall
+fennel
+haml
+igor pro
+imba
+ io
+ligolang
+logtalk
+ m4
+mako
+max
+mermaid
+mql4
+odin
+openqasm
+peg_js
+pony
+protocol buffer
+ragel
+reason
+red
+singularity
+vcl
+viml
+web ontology language

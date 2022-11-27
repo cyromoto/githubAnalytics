@@ -34,6 +34,11 @@ s['Others']=dfForLanguageSmall.groupby(['language'])['language'].count().sum()
 s.plot.pie(**kwargs)
 plt.savefig("output.png")
 plt.show()
-  
+
+
+# #Pie for state
+# githubdf['state'].value_counts().plot.pie(**kwargs)
+# plt.show()
+
 
 
