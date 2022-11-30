@@ -41,4 +41,24 @@ plt.show()
 # plt.show()
 
 
+# df['coeff']=[-3.63693144e-04, -2.52929190e-07, -1.54264402e-06,
+#                1.37321862e-04, -3.23741228e-05,  2.81550405e-06,
+#                2.81550405e-06,  9.24001782e-01, -5.82090870e-01,
+#               -4.43066925e-01,  2.81550405e-06, -2.05548705e-02,
+#                3.78903330e-01]
 
+# df['feature']=['commits', 'additions', 'deletions', 'changed_files',
+#      'open_issues_count', 'watchers_count', 'forks_count', 'has_discussions',
+#       'has_wiki', 'has_projects', 'stargazers_count', 'title_size', 'review_comments']
+
+
+plt.bar(['commits', 'additions', 'deletions', 'changed_files',
+     'open_issues_count', 'watchers_count', 'forks_count', 'has_discussions',
+      'has_wiki', 'has_projects', 'stargazers_count', 'title_size', 'review_comments'],
+            [-3.63693144e-04, -2.52929190e-07, -1.54264402e-06,
+               1.37321862e-04, -3.23741228e-05,  2.81550405e-06,
+               2.81550405e-06,  9.24001782e-01, -5.82090870e-01,
+              -4.43066925e-01,  2.81550405e-06, -2.05548705e-02,
+               3.78903330e-01],
+        color ='maroon')
+plt.show()

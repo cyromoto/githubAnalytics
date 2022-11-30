@@ -45,3 +45,4 @@ plt.imshow(wcLanguage, interpolation='bilinear')
 plt.axis('off')
 
 plt.show()
+
