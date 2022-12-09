@@ -32,7 +32,8 @@ dfForLanguageLarge=dfForLanguage[dfForLanguage.isin(s.index[s > 25]).values]
 s = dfForLanguageLarge['language'].value_counts()
 s['Others']=dfForLanguageSmall.groupby(['language'])['language'].count().sum()
 s.plot.pie(**kwargs)
-plt.savefig("output.png")
+# uncomment to save result
+# plt.savefig("output.png")
 plt.show()
 
 
